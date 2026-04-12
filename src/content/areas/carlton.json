@@ -1,0 +1,39 @@
+{
+  "slug": "carlton",
+  "name": "Carlton",
+  "region": "St George & Bayside",
+  "heroImage": "/projects-old/botany-stcarlton-nsw/2.jpeg",
+  "heroAlt": "Carlton kitchen renovation with darker lower cabinetry and stone detailing",
+  "metaTitle": "Custom Joinery & Renovations Carlton | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Carlton homes and apartments across St George & Bayside.",
+  "intro": "Carlton kitchen projects often need cleaner planning rather than more cabinetry. The strongest outcomes usually come from improving the layout, tightening the storage and giving the room a more settled material direction.",
+  "localContext": "That applies especially well in apartment and renovation contexts where every cabinet has to earn its place and the joinery has to feel considered, not crowded.",
+  "projectReferenceSlug": "carlton-kitchen-renovation",
+  "projectReferenceLabel": "Carlton Kitchen Renovation & Remodel",
+  "projectReferenceNote": "This Carlton project is already linked into the site, so the page can point to a real kitchen remodel with a darker lower-cabinet palette and stone detailing.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Carlton actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Carlton?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Carlton and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Carlton project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Carlton, send through your plans or photos and we can help shape the next step."
+}

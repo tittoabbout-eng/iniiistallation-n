@@ -1,0 +1,76 @@
+{
+  "slug": "custom-joinery",
+  "navLabel": "Custom Joinery",
+  "title": "Custom Joinery",
+  "heroImage": "/darlinghurst/darlinghurst-murphy-feature.jpg",
+  "heroAlt": "Custom Murphy bed and bedroom joinery in Darlinghurst",
+  "metaTitle": "Custom Joinery Sydney | InsideOut Joinery & Renos",
+  "metaDescription": "Custom joinery across Sydney for media units, study nooks, Murphy beds, concealed laundries, hallway storage, vanities and built-in cabinetry designed around the way each room is actually used.",
+  "intro": "Custom joinery is what solves the awkward parts of a home properly. It is the study nook that fits a tight wall, the media unit that does not look dropped in, the concealed laundry that disappears cleanly and the storage wall that makes a small room work harder. We focus on joinery that feels built into the home rather than added after the fact.",
+  "includedTitle": "Custom joinery we regularly design and build",
+  "included": [
+    "Media units, TV walls and living-room cabinetry sized to the room and the equipment they need to hide",
+    "Murphy beds and multi-use room joinery that keeps a spare room flexible without looking temporary",
+    "Study nooks, desks, shelving and library-style storage for compact rooms and hallway niches",
+    "Concealed laundries, utility cupboards and pantry storage that read as part of the architecture",
+    "Vanities, hallway cladding, mudroom-style storage and tailored built-in cabinetry",
+    "Joinery designed around real dimensions, circulation and the way the room is used day to day"
+  ],
+  "featureBlocks": [
+    {
+      "title": "Joinery for awkward rooms",
+      "text": "The best custom joinery usually starts where standard cabinetry stops. Tight corners, shallow walls, low bulkheads and multi-use rooms all need a layout that is drawn for the actual space, not forced to suit a stock module."
+    },
+    {
+      "title": "Storage that looks resolved",
+      "text": "We aim for joinery that feels like part of the room. That means cleaner bulkheads, better panel alignment, practical internals and finishes that sit comfortably with the rest of the home."
+    },
+    {
+      "title": "Built for real daily use",
+      "text": "Whether it is a study nook, media wall, hidden laundry or Murphy bed, the point is not just to look neat in photos. It has to open properly, store the right things and still feel easy to live with."
+    }
+  ],
+  "materialsTitle": "Common custom joinery directions",
+  "materials": [
+    "Painted polyurethane for cleaner built-in storage and more furniture-like cabinetry fronts",
+    "Warm timber-look finishes where the joinery needs more texture in living areas, studies or hallways",
+    "Pocketing doors, concealed handles and integrated panels where utilities or storage need to disappear",
+    "Mixed open and closed storage so display, daily use and concealed storage all work together"
+  ],
+  "projectSlugs": [
+    "darlinghurst",
+    "epping",
+    "willoughby"
+  ],
+  "beforeAfter": {
+    "title": "Before & after",
+    "text": "The Darlinghurst Murphy bed is a good example of custom joinery doing more than one job at once. It created a flexible guest room, added storage and made the room feel properly resolved when the bed was folded away.",
+    "before": "/darlinghurst/darlinghurst-murphy-before.jpg",
+    "after": "/darlinghurst/darlinghurst-murphy-feature.jpg",
+    "beforeAlt": "Darlinghurst room before Murphy bed and custom storage joinery",
+    "afterAlt": "Darlinghurst room after Murphy bed and custom storage joinery installation"
+  },
+  "faqs": [
+    {
+      "question": "What counts as custom joinery?",
+      "answer": "Anything built specifically for your space rather than bought off the shelf — from study nooks and Murphy beds to concealed laundries, hallway storage and media walls."
+    },
+    {
+      "question": "Can you design joinery for small or awkward rooms?",
+      "answer": "Yes. Compact rooms, unusual wall lengths and multi-use spaces are often where custom joinery makes the biggest difference."
+    },
+    {
+      "question": "Do you only build one-off items, or can this be part of a larger fitout?",
+      "answer": "Both. Some clients need a single joinery solution, while others use custom joinery as part of a broader kitchen, wardrobe or renovation project."
+    },
+    {
+      "question": "Can custom joinery match the rest of the home?",
+      "answer": "Yes. We can align materials, colour direction and detailing with the adjoining rooms so the joinery feels considered and not isolated."
+    }
+  ],
+  "reviewIds": [
+    "rebekkah"
+  ],
+  "ctaTitle": "Need custom joinery that fits the room properly?",
+  "ctaText": "Send through your plans, site photos or measurements and we can help shape a custom joinery scope that looks considered and works the way the room needs to."
+}

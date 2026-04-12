@@ -1,0 +1,14 @@
+UPLOAD RULES
+
+1. Use lowercase file names
+2. Use dashes instead of spaces
+3. Keep names clear, for example:
+   - willoughby-kitchen-after-1.jpg
+   - bondi-wardrobe-hero.jpg
+4. After adding images, update the matching JSON file in src/content/
+5. Run npm run check:content and npm run dev before publishing
+
+Recommended size targets:
+- cards and gallery images: 150 KB to 400 KB when possible
+- review any image over 1 MB before deploy
+- use clear file names like suburb-room-before-1.jpg

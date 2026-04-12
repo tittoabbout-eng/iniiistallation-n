@@ -1,0 +1,39 @@
+{
+  "slug": "rosemeadow",
+  "name": "Rosemeadow",
+  "region": "South West Sydney",
+  "heroImage": "/projects-old/archibald-crescent-rosemeadow-nsw/3.jpeg",
+  "heroAlt": "Rosemeadow kitchen renovation with updated white shaker-style cabinetry",
+  "metaTitle": "Custom Joinery & Renovations Rosemeadow | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Rosemeadow homes and apartments across South West Sydney.",
+  "intro": "Rosemeadow kitchen projects usually improve most when the layout and cabinet planning are tightened together. Cleaner storage, better working zones and cabinetry that fits the room properly often make more difference than simply swapping finishes.",
+  "localContext": "We focus on joinery that improves how the kitchen functions every day while still giving the room a more resolved and upgraded feel.",
+  "projectReferenceSlug": "rosemeadow-kitchen-renovation",
+  "projectReferenceLabel": "Rosemeadow Kitchen Renovation",
+  "projectReferenceNote": "This Rosemeadow kitchen renovation is already built into the site, so the suburb page can point to a real local project rather than thin location filler.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Rosemeadow actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Rosemeadow?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Rosemeadow and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Rosemeadow project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Rosemeadow, send through your plans or photos and we can help shape the next step."
+}

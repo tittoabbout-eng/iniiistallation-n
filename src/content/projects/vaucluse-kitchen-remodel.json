@@ -1,0 +1,73 @@
+{
+  "slug": "vaucluse-kitchen-remodel",
+  "title": "Vaucluse Apartment Kitchen Re-model",
+  "shortTitle": "Vaucluse",
+  "suburb": "Vaucluse",
+  "summary": "Apartment kitchen remodel in Vaucluse with custom cabinetry shaped around the constraints of the existing footprint.",
+  "heroImage": "/projects-old/tower-st-vaucluse/9.jpeg",
+  "heroAlt": "Vaucluse apartment kitchen remodel with timber cabinetry and green splashback",
+  "overview": "This Vaucluse kitchen remodel shows how careful joinery planning can improve a tighter apartment shell without forcing the room beyond what the footprint can comfortably hold. The cabinetry and layout decisions were about making the kitchen feel cleaner, lighter and more usable.",
+  "materials": [
+    "Custom kitchen cabinetry",
+    "Apartment-friendly storage layout",
+    "Joinery fitted to an existing Vaucluse footprint"
+  ],
+  "afterImages": [
+    {
+      "src": "/projects-old/tower-st-vaucluse/9.jpeg",
+      "alt": "Finished Vaucluse kitchen remodel with green splashback and timber cabinetry",
+      "caption": "Completed Vaucluse kitchen remodel with timber-look cabinetry, marble benchtop and green splashback."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/10.jpeg",
+      "alt": "Vaucluse kitchen entry and island detail",
+      "caption": "Entry view into the completed Vaucluse kitchen, showing the island and appliance wall."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/2.jpg",
+      "alt": "Vaucluse kitchen cabinetry during installation",
+      "caption": "Cabinetry installation stage from the Vaucluse apartment kitchen remodel."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/3.jpg",
+      "alt": "Vaucluse galley kitchen joinery in progress",
+      "caption": "Galley kitchen joinery taking shape in the Vaucluse apartment."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/4.jpg",
+      "alt": "Vaucluse kitchen upper cabinetry detail",
+      "caption": "Upper-cabinetry detail from the Vaucluse remodel before the room was fully finished."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/5.jpg",
+      "alt": "Vaucluse kitchen island and cabinet layout in progress",
+      "caption": "In-progress angle showing the island and cabinet layout in Vaucluse."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/6.jpg",
+      "alt": "Vaucluse galley kitchen with skylight and white joinery",
+      "caption": "Longer galley view from the Vaucluse kitchen showing the skylight, white cabinetry and timber-look joinery."
+    }
+  ],
+  "beforeImages": [
+    {
+      "src": "/projects-old/tower-st-vaucluse/1.jpg",
+      "alt": "Vaucluse kitchen during renovation and cabinetry installation",
+      "caption": "Renovation stage from the Vaucluse kitchen showing cabinetry installation in progress."
+    }
+  ],
+  "spaces": [
+    {
+      "title": "Kitchen remodel",
+      "text": "A Vaucluse apartment kitchen remodel where cabinetry and layout needed to work within a tighter existing shell.",
+      "image": "/projects-old/tower-st-vaucluse/9.jpeg",
+      "alt": "Vaucluse kitchen remodel joinery detail",
+      "servicePath": "/kitchens-renovations"
+    }
+  ],
+  "outcome": "The finished kitchen feels more resolved and better balanced, with the joinery doing more practical work while still keeping the apartment finish restrained.",
+  "ctaText": "Planning a Vaucluse kitchen remodel or joinery upgrade? Send through the current layout and we can help shape the next step.",
+  "reviewIds": [
+    "julie"
+  ]
+}

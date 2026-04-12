@@ -1,0 +1,39 @@
+{
+  "slug": "balmain",
+  "name": "Balmain",
+  "region": "Inner West",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Compact kitchen and concealed joinery reference fitout relevant to Balmain terraces",
+  "metaTitle": "Custom Joinery & Renovations Balmain | InsideOut Joinery & Renos",
+  "metaDescription": "Balmain custom joinery and renovation services for terraces, apartments and family homes, including kitchens, wardrobes, concealed laundries and smart storage.",
+  "intro": "Balmain projects usually need joinery that respects the footprint of the home instead of trying to overpower it. In terraces, apartments and renovation-led Inner West homes, the right cabinetry often comes down to smarter storage, cleaner proportions and better use of awkward room edges.",
+  "localContext": "That can mean a tighter kitchen layout, a concealed laundry, a Murphy bed or living-room storage that helps the home stay flexible without looking overdesigned.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "We are using the nearby Darlinghurst fitout as a compact-home reference because it shows the sort of hidden storage, small-footprint planning and calm material direction that often suits Balmain homes.",
+  "whyChoose": [
+    "Useful for terraces and smaller homes that need tailored storage",
+    "Concealed laundry and Murphy bed experience for flexible living",
+    "Joinery that supports renovation work without wasting space",
+    "Service pages and real project examples linked throughout the site"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on terraces and compact homes in Balmain?",
+      "answer": "Yes. Tailored joinery is often the best way to unlock storage and flexibility in tighter floorplans."
+    },
+    {
+      "question": "Can you build a hidden laundry or Murphy bed?",
+      "answer": "Yes. Those are both areas where custom joinery can make a major difference in a compact home."
+    },
+    {
+      "question": "Do you only service the Inner West for larger projects?",
+      "answer": "No. We can quote both single-room and broader multi-room scopes depending on the brief."
+    },
+    {
+      "question": "Can I see examples of compact-home joinery?",
+      "answer": "Yes. The Darlinghurst project is a strong reference for concealed storage and apartment-friendly planning."
+    }
+  ],
+  "ctaText": "If your Balmain home needs smarter storage, we can help plan the joinery around the way you actually live."
+}

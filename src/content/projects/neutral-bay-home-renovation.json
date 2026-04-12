@@ -1,0 +1,73 @@
+{
+  "slug": "neutral-bay-home-renovation",
+  "title": "Neutral Bay Home Renovation",
+  "shortTitle": "Neutral Bay",
+  "suburb": "Neutral Bay",
+  "summary": "Custom kitchen, laundry and supporting built-in joinery completed as part of a broader Neutral Bay home renovation.",
+  "heroImage": "/projects-old/undercliff-street-neutral-bay/1.jpg",
+  "heroAlt": "Finished Neutral Bay kitchen with island, white shaker cabinetry and tall appliance wall",
+  "overview": "This Neutral Bay renovation shows the joinery moving from installation stage into a cleaner, more resolved finished outcome. The completed work includes a custom kitchen, supporting storage details and laundry cabinetry that help the home feel more integrated and functional.",
+  "materials": [
+    "Custom kitchen and built-in cabinetry",
+    "Laundry joinery and storage",
+    "Lower North Shore home renovation joinery"
+  ],
+  "afterImages": [
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/1.jpg",
+      "alt": "Finished Neutral Bay kitchen with island and tall white cabinetry",
+      "caption": "Finished Neutral Bay kitchen showing the island, tall cabinetry, integrated appliances and completed joinery layout."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/2.jpg",
+      "alt": "Finished Neutral Bay kitchen with drawers, splashback and wine fridge",
+      "caption": "Finished kitchen angle showing the benchtop run, drawer storage, splashback detail and integrated wine fridge."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/4.jpg",
+      "alt": "Wide finished Neutral Bay kitchen view with island and appliance wall",
+      "caption": "Alternate wide kitchen view showing the island, appliance wall and the overall completed layout."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/3.jpg",
+      "alt": "Neutral Bay kitchen corner storage pullout detail",
+      "caption": "Corner storage detail from the finished Neutral Bay kitchen showing the internal hardware and custom joinery access."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/5.jpg",
+      "alt": "Finished Neutral Bay laundry with tall storage cabinetry",
+      "caption": "Finished laundry joinery showing the tall storage cabinet, bench run and completed cabinetry finish."
+    }
+  ],
+  "beforeImages": [
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/1.jpeg",
+      "alt": "Neutral Bay kitchen during renovation with cabinetry carcasses being installed",
+      "caption": "Kitchen during renovation with cabinetry carcasses being installed before doors and finishes were added."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/4.jpeg",
+      "alt": "Neutral Bay laundry carcasses installed before doors and finishes",
+      "caption": "Laundry carcasses installed before doors, benchtop and final finishes were added."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/5.jpeg",
+      "alt": "Neutral Bay kitchen from a different angle during installation",
+      "caption": "Another angle of the kitchen during installation showing the island and cabinetry taking shape."
+    }
+  ],
+  "spaces": [
+    {
+      "title": "Completed kitchen and joinery",
+      "text": "The finished joinery ties the kitchen, storage and supporting cabinetry together so the renovated home feels cleaner, more resolved and easier to use day to day.",
+      "image": "/projects-old/undercliff-street-neutral-bay/1.jpg",
+      "alt": "Finished Neutral Bay kitchen with island and custom cabinetry",
+      "servicePath": "/renovations"
+    }
+  ],
+  "outcome": "The completed Neutral Bay joinery package brought the kitchen, storage and supporting cabinetry into a more resolved finished state across the home.",
+  "ctaText": "If you are planning a Neutral Bay renovation and need the joinery scope handled cleanly, send through your current plans or site photos.",
+  "reviewIds": [
+    "pascal"
+  ]
+}

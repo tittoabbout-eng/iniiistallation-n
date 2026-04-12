@@ -1,0 +1,73 @@
+{
+  "slug": "lurnea-kitchen-renovation",
+  "title": "Lurnea Kitchen Renovation",
+  "shortTitle": "Lurnea",
+  "suburb": "Lurnea",
+  "summary": "Kitchen renovation in Lurnea with an updated island layout, stronger storage and cleaner joinery lines.",
+  "heroImage": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
+  "heroAlt": "Lurnea kitchen renovation with dark lower cabinetry and island bench",
+  "overview": "This Lurnea kitchen renovation centred on improving the working layout of the room through new joinery, an island bench and a sharper cabinet composition. The changes were aimed at making the kitchen feel more organised and better balanced for daily use.",
+  "materials": [
+    "Kitchen island joinery",
+    "Updated cabinetry fronts",
+    "Practical layout improvements for day-to-day use"
+  ],
+  "afterImages": [
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
+      "alt": "Lurnea kitchen renovation with island bench",
+      "caption": "Completed Lurnea kitchen renovation with an island bench, dark lower cabinetry and lighter upper finishes."
+    },
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/3.jpeg",
+      "alt": "Lurnea kitchen working triangle and cabinetry",
+      "caption": "Another kitchen angle showing the cabinetry layout and appliance positioning in Lurnea."
+    },
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/4.jpeg",
+      "alt": "Lurnea kitchen island and appliance wall",
+      "caption": "Island and appliance-wall detail from the finished Lurnea kitchen."
+    },
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/5.webp",
+      "alt": "Lurnea kitchen from living side",
+      "caption": "View into the Lurnea kitchen showing how the new joinery opens to the adjacent room."
+    },
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/6.webp",
+      "alt": "Lurnea kitchen before-and-after comparison finish",
+      "caption": "Completed kitchen detail used for the before-and-after comparison in Lurnea."
+    }
+  ],
+  "beforeImages": [
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/1.jpeg",
+      "alt": "Lurnea kitchen before renovation",
+      "caption": "Original Lurnea kitchen before the new island, cabinetry and darker colour palette were installed."
+    },
+    {
+      "src": "/lurnea/lurnea-kitchen-before-2.jpg",
+      "alt": "Lurnea kitchen before renovation showing original layout",
+      "caption": "The original Lurnea kitchen layout before the renovation, showing the existing cabinetry and appliance positions."
+    },
+    {
+      "src": "/lurnea/lurnea-kitchen-before-3.jpg",
+      "alt": "Lurnea kitchen before renovation from opposite angle",
+      "caption": "Another view of the original Lurnea kitchen before the new joinery and island were installed."
+    }
+  ],
+  "spaces": [
+    {
+      "title": "Kitchen",
+      "text": "An updated kitchen layout with island joinery and cleaner cabinetry lines suited to a family-home footprint.",
+      "image": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
+      "alt": "Lurnea kitchen joinery detail",
+      "servicePath": "/kitchens-renovations"
+    }
+  ],
+  "outcome": "The finished room feels more settled and functional, with the island and cabinetry helping the kitchen work harder without looking overcrowded.",
+  "ctaText": "If you are planning a kitchen renovation in Lurnea or nearby, send through your photos or layout and we can help with the next step.",
+  "reviewIds": [
+    "chang"
+  ]
+}

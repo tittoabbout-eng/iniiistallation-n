@@ -1,0 +1,25 @@
+{
+  "slug": "new-suburb-slug",
+  "name": "Suburb Name",
+  "region": "Region Name",
+  "heroImage": "/uploads/suburb-hero.jpg",
+  "heroAlt": "Describe the suburb hero image",
+  "metaTitle": "Custom Joinery & Renovations Suburb | InsideOut Joinery & Renos",
+  "metaDescription": "Suburb page meta description.",
+  "intro": "Main suburb introduction.",
+  "localContext": "Why this area suits your style of work.",
+  "projectReferenceSlug": "willoughby",
+  "projectReferenceLabel": "Related project label",
+  "projectReferenceNote": "Short note about the linked project.",
+  "whyChoose": [
+    "Reason 1",
+    "Reason 2"
+  ],
+  "faqs": [
+    {
+      "question": "Question?",
+      "answer": "Answer."
+    }
+  ],
+  "ctaText": "Local CTA text"
+}

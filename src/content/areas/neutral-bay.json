@@ -1,0 +1,39 @@
+{
+  "slug": "neutral-bay",
+  "name": "Neutral Bay",
+  "region": "Lower North Shore",
+  "heroImage": "/projects-old/undercliff-street-neutral-bay/1.jpeg",
+  "heroAlt": "Neutral Bay renovation cabinetry with kitchen and supporting built-ins in progress",
+  "metaTitle": "Custom Joinery & Renovations Neutral Bay | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Neutral Bay homes and apartments across Lower North Shore.",
+  "intro": "Neutral Bay renovation projects often need the joinery to support the build sequence as much as the finished look. Kitchens, laundries and supporting built-ins have to be planned carefully so the rooms function better once complete and the renovation itself moves cleanly.",
+  "localContext": "That usually means a stronger focus on practical cabinetry decisions, concealed storage and layouts that make sense for the existing footprint.",
+  "projectReferenceSlug": "neutral-bay-home-renovation",
+  "projectReferenceLabel": "Neutral Bay Home Renovation",
+  "projectReferenceNote": "This Neutral Bay project is already carried into the site, which means the suburb page can connect back to a real renovation in progress rather than generic suburb filler.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Neutral Bay actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Neutral Bay?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Neutral Bay and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Neutral Bay project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Neutral Bay, send through your plans or photos and we can help shape the next step."
+}

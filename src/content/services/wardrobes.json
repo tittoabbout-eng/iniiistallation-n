@@ -1,0 +1,76 @@
+{
+  "slug": "wardrobes",
+  "navLabel": "Wardrobes",
+  "title": "Wardrobes",
+  "heroImage": "/services/wardrobes-service-support.jpg",
+  "heroAlt": "Custom wardrobe in Coastal Oak finish in Cremorne",
+  "metaTitle": "Custom Wardrobes Sydney | InsideOut Joinery & Renos",
+  "metaDescription": "Custom built-in, walk-in, hinged and sliding wardrobes across Sydney with tailored internals, white polyurethane and timber-look finishes, and made-to-measure storage that suits the room properly.",
+  "intro": "A wardrobe should feel planned into the room, not dropped against a wall at the end of the job. We design built-in, walk-in, hinged and sliding wardrobes around how much needs to be stored, how the room opens and what finish will sit comfortably with the rest of the home. The result is cleaner elevations, better internals and storage that works properly every day.",
+  "includedTitle": "Wardrobe solutions we build",
+  "included": [
+    "Built-in wardrobes sized wall-to-wall and floor-to-ceiling so awkward gaps are not wasted",
+    "Walk-in wardrobe fitouts with hanging, drawers, shelving, accessories and dressing-space planning",
+    "Sliding wardrobes where swing clearance is tight and the room needs a cleaner footprint",
+    "Hinged wardrobes for easier full-access opening and more classic bedroom joinery detailing",
+    "White polyurethane, timber-look and mixed-finish wardrobes designed to suit the home rather than fight it",
+    "Internal layouts tailored to the way you actually store clothing, shoes, linen and day-to-day items"
+  ],
+  "featureBlocks": [
+    {
+      "title": "Built-ins that use the room properly",
+      "text": "Made-to-measure wardrobes let you use alcoves, ceiling height and awkward wall lengths much more effectively than freestanding storage or modular inserts."
+    },
+    {
+      "title": "Walk-in, hinged or sliding",
+      "text": "The right wardrobe format depends on the room. Some spaces need full hinged access, some benefit from sliding doors and others deserve a walk-in layout with a stronger dressing-room feel."
+    },
+    {
+      "title": "Internals matter as much as doors",
+      "text": "Drawers, shelf spacing, double hanging, longer hanging zones and accessory storage all make a bigger difference than most people expect. We plan the inside so the outside actually works."
+    }
+  ],
+  "materialsTitle": "Wardrobe finishes and layout options",
+  "materials": [
+    "White polyurethane for a crisp built-in wardrobe that sits quietly in the room",
+    "Timber-look finishes such as Coastal Oak where warmth and texture are important",
+    "Mixed hanging, shelving, drawers and accessory zones tailored to the room and wardrobe type",
+    "Door formats and handle details chosen to suit both the layout and the wider home style"
+  ],
+  "projectSlugs": [
+    "willoughby",
+    "darlinghurst",
+    "cremorne-project"
+  ],
+  "beforeAfter": {
+    "title": "Before & after",
+    "text": "Willoughby shows how an underused bedroom wall can become fitted storage that feels like part of the architecture once the wardrobe layout and finish are properly resolved.",
+    "before": "/willoughby/willoughby-wardrobe-before-2.jpg",
+    "after": "/willoughby/willoughby-wardrobe-after.jpg",
+    "beforeAlt": "Willoughby bedroom wall before custom wardrobe installation",
+    "afterAlt": "Willoughby custom wardrobe after installation with timber-look finish"
+  },
+  "faqs": [
+    {
+      "question": "Do you do built-in and walk-in wardrobes?",
+      "answer": "Yes. We build both built-in wardrobes and full walk-in fitouts depending on the room and the storage brief."
+    },
+    {
+      "question": "Can you customise the internals?",
+      "answer": "Absolutely. Drawer layouts, shelving heights, double hanging, long hanging and accessory storage can all be tailored."
+    },
+    {
+      "question": "Can wardrobes match other joinery in the home?",
+      "answer": "Yes. We can align wardrobe finishes with nearby vanities, bedroom joinery or the broader fitout if you want a more cohesive result."
+    },
+    {
+      "question": "What suburbs do you service for wardrobe projects?",
+      "answer": "We work across Sydney, including the Lower North Shore, Eastern Suburbs, Inner West and Hills District."
+    }
+  ],
+  "reviewIds": [
+    "lisa"
+  ],
+  "ctaTitle": "Need a wardrobe that fits the room properly?",
+  "ctaText": "Tell us whether you are planning a built-in, walk-in, hinged or sliding wardrobe and we can help shape the right layout, finish and next step."
+}

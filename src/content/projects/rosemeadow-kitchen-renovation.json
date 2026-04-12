@@ -1,0 +1,42 @@
+{
+  "slug": "rosemeadow-kitchen-renovation",
+  "title": "Rosemeadow Kitchen Renovation",
+  "shortTitle": "Rosemeadow",
+  "suburb": "Rosemeadow",
+  "summary": "Kitchen renovation in Rosemeadow with updated cabinetry, stronger storage and a cleaner working layout.",
+  "heroImage": "/projects-old/archibald-crescent-rosemeadow-nsw/1.jpeg",
+  "heroAlt": "Rosemeadow kitchen renovation with white shaker-style cabinetry",
+  "overview": "This Rosemeadow kitchen project focused on lifting the everyday function of the room through better cabinetry and a more resolved layout. The aim was not just to refresh finishes, but to make the kitchen feel cleaner and easier to use.",
+  "materials": [
+    "Updated kitchen cabinetry",
+    "Cleaner storage layout",
+    "Renovation-ready joinery planning"
+  ],
+  "afterImages": [
+    {
+      "src": "/projects-old/archibald-crescent-rosemeadow-nsw/1.jpeg",
+      "alt": "Rosemeadow kitchen with white cabinetry and island seating",
+      "caption": "Completed Rosemeadow kitchen renovation with white cabinetry, island seating and a more open layout."
+    },
+    {
+      "src": "/projects-old/archibald-crescent-rosemeadow-nsw/3.jpeg",
+      "alt": "Rosemeadow kitchen bench and storage wall",
+      "caption": "Bench and storage wall detail from the Rosemeadow kitchen renovation."
+    }
+  ],
+  "beforeImages": [],
+  "spaces": [
+    {
+      "title": "Kitchen",
+      "text": "A practical kitchen upgrade built around cleaner cabinetry, stronger storage and a more resolved everyday working layout.",
+      "image": "/projects-old/archibald-crescent-rosemeadow-nsw/1.jpeg",
+      "alt": "Rosemeadow kitchen joinery detail",
+      "servicePath": "/kitchens-renovations"
+    }
+  ],
+  "outcome": "The completed kitchen feels more practical and settled, with the cabinetry tightening the room instead of adding visual noise.",
+  "ctaText": "If you are planning a kitchen renovation in Rosemeadow or nearby, send through your photos and we can help shape the next step.",
+  "reviewIds": [
+    "chang"
+  ]
+}

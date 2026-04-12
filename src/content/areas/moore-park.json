@@ -1,0 +1,39 @@
+{
+  "slug": "moore-park",
+  "name": "Moore Park",
+  "region": "Eastern Suburbs",
+  "heroImage": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/1.jpeg",
+  "heroAlt": "James Lane Moore Park curved wall fitout and large-format display joinery",
+  "metaTitle": "Custom Joinery & Renovations Moore Park | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Moore Park homes and apartments across Eastern Suburbs.",
+  "intro": "Moore Park is a little different from the residential pages because the imported James Lane project shows large-format fabrication and display-style joinery rather than a typical house fitout. It still matters because it demonstrates capability, accuracy and finish control on a more demanding build type.",
+  "localContext": "For nearby residential and mixed-use areas, that level of fabrication control translates into cleaner detailing, stronger installation planning and confidence on more custom joinery scopes.",
+  "projectReferenceSlug": "james-lane-moore-park",
+  "projectReferenceLabel": "Curved Wall Fitout for James Lane — Moore Park",
+  "projectReferenceNote": "The James Lane Moore Park fitout is already linked into the site as a real local reference, so this page can point to genuine area work rather than placeholder copy.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Moore Park actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Moore Park?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Moore Park and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Moore Park project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Moore Park, send through your plans or photos and we can help shape the next step."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "cremorne",
+  "name": "Cremorne",
+  "region": "Lower North Shore",
+  "heroImage": "/cremorne/cremorne-hero.jpg",
+  "heroAlt": "Cremorne custom joinery wardrobes and laundry fitout",
+  "metaTitle": "Custom Joinery & Renovations Cremorne | InsideOut Joinery & Renos",
+  "metaDescription": "Joinery-led kitchen, wardrobe, laundry and renovation work for Cremorne homes and apartments, with Sydney-based design and installation.",
+  "intro": "Cremorne homes often need a smart balance between good storage and visual restraint. In apartments and updated houses alike, custom joinery can make a room feel calmer because the clutter has a proper place and the finishes feel more intentional.",
+  "localContext": "We work on kitchens, wardrobes, concealed laundries and custom living storage that help the whole home feel more considered instead of overfilled.",
+  "projectReferenceSlug": "cremorne-project",
+  "projectReferenceLabel": "Cremorne custom joinery fitout",
+  "projectReferenceNote": "A real Cremorne project showing wardrobes, a walk-in robe, laundry joinery and vanity work completed as one tailored fitout.",
+  "whyChoose": [
+    "Clean, tailored joinery that suits apartment and semi-detached living",
+    "Material choices that can feel premium without being heavy-handed",
+    "Practical planning for laundries, wardrobes and study nooks",
+    "Straightforward quote process from first brief to installation"
+  ],
+  "faqs": [
+    {
+      "question": "Do you build custom joinery for apartments in Cremorne?",
+      "answer": "Yes. Apartment joinery is a large part of our work, especially where storage needs to be integrated carefully."
+    },
+    {
+      "question": "Can you help with a kitchen and wardrobe upgrade together?",
+      "answer": "Yes. Multi-room joinery quotes are common and often create a more consistent result."
+    },
+    {
+      "question": "What if I only need one custom item?",
+      "answer": "That is fine too. Some Cremorne projects start with one room or one problem area and grow from there."
+    },
+    {
+      "question": "Do you service nearby Lower North Shore suburbs?",
+      "answer": "Yes. We work across Cremorne, Mosman, Neutral Bay, Willoughby and surrounding suburbs."
+    }
+  ],
+  "ctaText": "If you are planning a joinery upgrade in Cremorne, we can help shape the scope and finish direction."
+}

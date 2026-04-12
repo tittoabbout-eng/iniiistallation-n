@@ -1,0 +1,39 @@
+{
+  "slug": "lurnea",
+  "name": "Lurnea",
+  "region": "South West Sydney",
+  "heroImage": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
+  "heroAlt": "Lurnea kitchen renovation with dark lower cabinets and updated island layout",
+  "metaTitle": "Custom Joinery & Renovations Lurnea | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Lurnea homes and apartments across South West Sydney.",
+  "intro": "Lurnea kitchen projects often gain the most from better layout resolution, not just new cabinet doors. When the island, pantry storage and main work zones are planned properly, the room feels more useful every day and more premium once complete.",
+  "localContext": "That is where custom joinery helps most: it lets the renovation respond to the room instead of forcing the room to suit off-the-shelf dimensions.",
+  "projectReferenceSlug": "lurnea-kitchen-renovation",
+  "projectReferenceLabel": "Lurnea Kitchen Renovation",
+  "projectReferenceNote": "This Lurnea kitchen renovation is already tied into the site, giving the suburb page a real South West Sydney project reference instead of filler text.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Lurnea actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Lurnea?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Lurnea and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Lurnea project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Lurnea, send through your plans or photos and we can help shape the next step."
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "castle-hill-kitchen-laundry-renovation",
+  "title": "Castle Hill Kitchen & Laundry Renovation",
+  "shortTitle": "Castle Hill",
+  "suburb": "Castle Hill",
+  "summary": "Castle Hill renovation combining a kitchen upgrade with a cleaner, more resolved laundry fitout.",
+  "heroImage": "/projects-old/phoenix-cl-castle-hill-nsw/2.jpeg",
+  "heroAlt": "Castle Hill kitchen and laundry renovation with bright white cabinetry",
+  "overview": "This Castle Hill project ties two practical spaces together: the kitchen and the laundry. It works well as a Hills District case study because it shows how joinery can improve the main entertaining zone and the utility side of the home at the same time.",
+  "materials": [
+    "Kitchen cabinetry",
+    "Laundry joinery",
+    "Hills District renovation detailing"
+  ],
+  "afterImages": [
+    {
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/2.jpeg",
+      "alt": "Castle Hill laundry renovation with stacked appliances",
+      "caption": "Completed Castle Hill laundry with stacked appliances, white cabinetry and a cleaner utility layout."
+    },
+    {
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/3.jpeg",
+      "alt": "Castle Hill kitchen renovation before and after view",
+      "caption": "Before-and-after comparison showing the updated Castle Hill kitchen with island seating and brighter cabinetry."
+    },
+    {
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/4.jpeg",
+      "alt": "Castle Hill kitchen storage detail",
+      "caption": "Kitchen storage detail from the Castle Hill renovation."
+    }
+  ],
+  "beforeImages": [
+    {
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/1.jpeg",
+      "alt": "Castle Hill kitchen and laundry before renovation",
+      "caption": "Original condition before the Castle Hill kitchen and laundry renovation began."
+    }
+  ],
+  "spaces": [
+    {
+      "title": "Laundry",
+      "text": "The laundry fitout brought cleaner cabinetry, better appliance placement and a more finished daily-use space.",
+      "image": "/projects-old/phoenix-cl-castle-hill-nsw/2.jpeg",
+      "alt": "Castle Hill laundry joinery detail",
+      "servicePath": "/laundry"
+    }
+  ],
+  "outcome": "Together, the kitchen and laundry feel more intentional and easier to use, with cabinetry that lifts both the visual finish and the everyday function of the rooms.",
+  "ctaText": "If you are planning a kitchen or laundry renovation in Castle Hill, send through your current photos and we can help review the next step.",
+  "reviewIds": [
+    "pascal"
+  ]
+}

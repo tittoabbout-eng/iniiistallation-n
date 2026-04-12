@@ -1,0 +1,52 @@
+{
+  "cta": {
+    "primaryLabel": "Request a Quote",
+    "secondaryProjectsLabel": "View Projects",
+    "reviewButtonLabel": "View Google reviews"
+  },
+  "brand": {
+    "topBarText": "Custom kitchens, wardrobes and joinery-led renovations across Sydney",
+    "subBrandText": "Sydney custom joinery and renovations",
+    "footerIntro": "Premium custom joinery and renovation-focused fitouts across Sydney, including kitchens, wardrobes, laundries, full-home storage and project-led cabinetry solutions.",
+    "footerBottomText": "Sydney-wide custom joinery, kitchens, wardrobes, laundries and renovation-ready fitouts.",
+    "schemaDescription": "Premium custom joinery and renovation-focused fitouts across Sydney, including kitchens, wardrobes, laundries and broader home storage solutions."
+  },
+  "homepage": {
+    "seoTitle": "InsideOut Joinery & Renos | Custom Joinery & Kitchen Renovations Sydney",
+    "seoDescription": "Premium custom joinery and kitchen renovations across Sydney, including kitchens, wardrobes, laundries, renovation-led cabinetry and real project case studies.",
+    "heroEyebrow": "Premium custom joinery and kitchen renovations in Sydney",
+    "heroTitle": "Custom Joinery & Kitchen Renovations in Sydney",
+    "heroDescription": "Built around your layout, storage needs and how your home needs to function every day. From custom kitchens to wardrobes, laundries and joinery-led renovation scopes, we deliver tailored cabinetry backed by real Sydney project experience.",
+    "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+    "heroImageAlt": "Premium custom kitchen and joinery project by InsideOut Joinery & Renos",
+    "quoteHelperText": "Send plans, photos or rough ideas to get a faster quote and clearer next step.",
+    "trustBarItems": [
+      "Licensed for Kitchen, Laundry & Bathroom Renovations",
+      "Over 10 Years’ Experience",
+      "Custom Built to Order",
+      "Sydney Based"
+    ],
+    "services": {
+      "eyebrow": "Core services",
+      "title": "Core joinery and kitchen renovation services across Sydney.",
+      "intro": "We focus on kitchens, custom joinery, wardrobes, laundries and renovation-led cabinetry that improve layout, storage, flow and finish quality — with a clear next step for quoting.",
+      "cardCopy": {
+        "kitchens-renovations": "Custom kitchens and renovation-led cabinetry planned around layout, storage, finish quality and how the home needs to function day to day.",
+        "custom-joinery": "Murphy beds, hallway storage, living room cabinetry, study nooks and tailored solutions for awkward spaces that standard cabinetry cannot solve cleanly.",
+        "wardrobes": "Built-ins and walk-ins with smarter internal planning, cleaner finishes and storage that works harder every day.",
+        "laundry": "Compact and full-size laundries with integrated appliances, tall storage, concealed utility zones and better overall flow.",
+        "renovations": "Joinery-led renovation scopes that connect kitchens, laundries, wardrobes and selected bathroom-ready planning into one cohesive result."
+      }
+    },
+    "featuredProjects": {
+      "eyebrow": "Featured projects",
+      "title": "Selected projects completed across Sydney suburbs.",
+      "intro": "Explore real project pages showing the rooms involved, the joinery scope, the finish decisions and the suburb each project belongs to."
+    },
+    "whyChoose": {
+      "eyebrow": "Why choose us",
+      "title": "Tailored joinery, clearer quoting and better-finished rooms.",
+      "intro": "We focus on tailored cabinetry, renovation-ready planning and finishes that feel integrated into the home — not generic solutions forced into the space."
+    }
+  }
+}

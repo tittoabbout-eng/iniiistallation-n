@@ -1,0 +1,39 @@
+{
+  "slug": "epping",
+  "name": "Epping",
+  "region": "Northern District",
+  "heroImage": "/epping/epping-hero-open-plan.jpg",
+  "heroAlt": "Epping open-plan kitchen, pantry and study joinery fitout",
+  "metaTitle": "Custom Joinery & Renovations Epping | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and full-home joinery for Epping homes and new builds.",
+  "intro": "Epping projects often work best when the kitchen is planned as part of a wider open-plan joinery scope. Pantry storage, study joinery, living-room cabinetry and supporting rooms all have to work together if the home is going to feel calm once it is finished.",
+  "localContext": "We treat those projects as connected spaces rather than isolated cabinets, which usually leads to a cleaner result and better day-to-day function.",
+  "projectReferenceSlug": "epping",
+  "projectReferenceLabel": "New Home Joinery Fitout — Epping",
+  "projectReferenceNote": "This Epping fitout is already part of the new site and makes a strong Northern District reference because it shows open-plan kitchen, pantry, study and living joinery working together.",
+  "whyChoose": [
+    "Whole-home joinery planning instead of isolated rooms",
+    "Warm material palettes that still feel practical",
+    "Custom storage designed around the actual floorplan",
+    "A simple planning and quote process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you take on new-home joinery fitouts in Epping?",
+      "answer": "Yes. We work on new homes as well as renovation projects, with kitchens, storage and supporting joinery planned together."
+    },
+    {
+      "question": "Can you help with study nooks and secondary storage too?",
+      "answer": "Yes. Smaller joinery zones like study nooks, pantries and vanities can be built into the wider scope."
+    },
+    {
+      "question": "Can you quote from plans?",
+      "answer": "Yes. Plans and photos are enough for an initial review and early direction."
+    },
+    {
+      "question": "Can images be updated later?",
+      "answer": "Yes. The project and suburb structure stays in place, and the imagery can be refreshed later."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Epping, send through your plans or site photos and we can help review the next step."
+}

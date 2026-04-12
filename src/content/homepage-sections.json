@@ -1,0 +1,19 @@
+{
+  "beforeAfterTeaser": {
+    "eyebrow": "Before and after teaser",
+    "title": "A real Sydney transformation that shows what better joinery planning can do.",
+    "text": "This Willoughby kitchen shows how thoughtful layout, detailing and finish selection can completely change the feel and function of a home. Explore the projects page to see more before-and-after work across kitchens, wardrobes, laundries and broader joinery-led renovation scopes.",
+    "beforeImage": "/willoughby/willoughby-kitchen-before-1.jpg",
+    "afterImage": "/willoughby/willoughby-kitchen-detail-2.jpg",
+    "beforeAlt": "Willoughby kitchen before transformation",
+    "afterAlt": "Willoughby kitchen after transformation",
+    "buttonLabel": "View projects"
+  },
+  "serviceAreasTeaser": {
+    "eyebrow": "Service areas",
+    "title": "Sydney-wide service across established homes and premium residential areas.",
+    "intro": "We work across Sydney, including the Lower North Shore, Eastern Suburbs, Inner West, Hills District and surrounding suburbs, delivering custom joinery, kitchen renovations and renovation-led cabinetry with a tailored approach.",
+    "bodyText": "Start with our main service areas page or jump straight into suburb pages for selected locations below.",
+    "buttonLabel": "View all service areas"
+  }
+}

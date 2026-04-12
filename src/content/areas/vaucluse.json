@@ -1,0 +1,39 @@
+{
+  "slug": "vaucluse",
+  "name": "Vaucluse",
+  "region": "Eastern Suburbs",
+  "heroImage": "/projects-old/tower-st-vaucluse/1.jpg",
+  "heroAlt": "Vaucluse apartment kitchen remodel with white cabinetry and blue splashback",
+  "metaTitle": "Custom Joinery & Renovations Vaucluse | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Vaucluse homes and apartments across Eastern Suburbs.",
+  "intro": "Vaucluse apartment projects often need a careful balance between finish quality and footprint discipline. The joinery has to feel elevated, but it also has to work within the constraints of the existing room rather than fighting them.",
+  "localContext": "That is why we focus on cabinetry that sharpens the layout, improves storage and keeps the finished room feeling calm and resolved.",
+  "projectReferenceSlug": "vaucluse-kitchen-remodel",
+  "projectReferenceLabel": "Vaucluse Apartment Kitchen Re-model",
+  "projectReferenceNote": "This Vaucluse apartment kitchen remodel is already linked into the site, so the suburb page can point straight back to real area work rather than generic Eastern Suburbs copy.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Vaucluse actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Vaucluse?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Vaucluse and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Vaucluse project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Vaucluse, send through your plans or photos and we can help shape the next step."
+}

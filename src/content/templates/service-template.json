@@ -1,0 +1,48 @@
+{
+  "slug": "new-service-slug",
+  "navLabel": "Service Navigation Label",
+  "title": "Service Title",
+  "heroImage": "/uploads/service-hero.jpg",
+  "heroAlt": "Describe the service hero image",
+  "metaTitle": "Service Page Title | InsideOut Joinery & Renos",
+  "metaDescription": "Service page meta description.",
+  "intro": "Main service introduction.",
+  "includedTitle": "What's included",
+  "included": [
+    "Included item 1",
+    "Included item 2"
+  ],
+  "featureBlocks": [
+    {
+      "title": "Feature block title",
+      "text": "Feature block text"
+    }
+  ],
+  "materialsTitle": "Materials & finishes",
+  "materials": [
+    "Material 1",
+    "Material 2"
+  ],
+  "projectSlugs": [
+    "willoughby"
+  ],
+  "beforeAfter": {
+    "title": "Before & after",
+    "text": "Short before-and-after explanation.",
+    "before": "/uploads/service-before.jpg",
+    "after": "/uploads/service-after.jpg",
+    "beforeAlt": "Before image alt text",
+    "afterAlt": "After image alt text"
+  },
+  "faqs": [
+    {
+      "question": "Question?",
+      "answer": "Answer."
+    }
+  ],
+  "reviewIds": [
+    "rebekkah"
+  ],
+  "ctaTitle": "CTA title",
+  "ctaText": "CTA text"
+}

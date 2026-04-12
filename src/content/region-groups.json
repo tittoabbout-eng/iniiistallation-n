@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Lower North Shore",
+    "intro": "A strong fit for kitchens, wardrobes, laundries and full-home joinery where finish quality matters and the storage has to work hard day to day.",
+    "suburbs": [
+      {
+        "name": "Mosman",
+        "slug": "mosman"
+      },
+      {
+        "name": "Neutral Bay",
+        "slug": "neutral-bay"
+      },
+      {
+        "name": "Cremorne",
+        "slug": "cremorne"
+      },
+      {
+        "name": "Willoughby",
+        "slug": "willoughby"
+      },
+      {
+        "name": "Chatswood",
+        "slug": "chatswood"
+      },
+      {
+        "name": "Lane Cove",
+        "slug": "lane-cove"
+      },
+      {
+        "name": "Hunters Hill",
+        "slug": "hunters-hill"
+      }
+    ]
+  },
+  {
+    "name": "Eastern Suburbs",
+    "intro": "From apartment remodels to premium residential fitouts, we approach Eastern Suburbs projects with a stronger focus on finish quality, cleaner storage planning and room-by-room cohesion.",
+    "suburbs": [
+      {
+        "name": "Vaucluse",
+        "slug": "vaucluse"
+      },
+      {
+        "name": "Randwick",
+        "slug": "randwick"
+      },
+      {
+        "name": "Coogee",
+        "slug": "coogee"
+      },
+      {
+        "name": "Bellevue Hill",
+        "slug": "bellevue-hill"
+      },
+      {
+        "name": "Double Bay",
+        "slug": "double-bay"
+      }
+    ]
+  },
+  {
+    "name": "City Fringe",
+    "intro": "City-fringe homes often need smart storage, compact-space planning and joinery that solves problems quietly rather than making the rooms feel busier.",
+    "suburbs": [
+      {
+        "name": "Darlinghurst",
+        "slug": "darlinghurst"
+      },
+      {
+        "name": "Surry Hills",
+        "slug": "surry-hills"
+      },
+      {
+        "name": "Moore Park",
+        "slug": "moore-park"
+      }
+    ]
+  },
+  {
+    "name": "Inner West",
+    "intro": "Terraces, apartments and renovation-led family homes in the Inner West often suit tailored cabinetry, concealed storage and practical joinery decisions that respect the footprint.",
+    "suburbs": [
+      {
+        "name": "Balmain",
+        "slug": "balmain"
+      },
+      {
+        "name": "Glebe",
+        "slug": "glebe"
+      },
+      {
+        "name": "Croydon",
+        "slug": "croydon"
+      }
+    ]
+  },
+  {
+    "name": "Hills District",
+    "intro": "Kitchen-led renovations and broader multi-room fitouts in the Hills District usually work best when the cabinetry is planned as one connected scope rather than separate add-ons.",
+    "suburbs": [
+      {
+        "name": "Castle Hill",
+        "slug": "castle-hill"
+      },
+      {
+        "name": "Beaumont Hills",
+        "slug": "beaumont-hills"
+      }
+    ]
+  },
+  {
+    "name": "St George & Bayside",
+    "intro": "These suburbs often suit kitchen, pantry, wardrobe and supporting joinery planned together so the finished home feels cleaner and more resolved.",
+    "suburbs": [
+      {
+        "name": "Monterey",
+        "slug": "monterey"
+      },
+      {
+        "name": "Carlton",
+        "slug": "carlton"
+      }
+    ]
+  },
+  {
+    "name": "Western Sydney",
+    "intro": "Western Sydney projects often combine practical layouts, stronger storage and multi-room cabinetry designed to improve how the home functions every day.",
+    "suburbs": [
+      {
+        "name": "Pemulwuy",
+        "slug": "pemulwuy"
+      }
+    ]
+  },
+  {
+    "name": "South West Sydney",
+    "intro": "South west Sydney projects range from single-room kitchen upgrades through to wider renovation joinery scopes that need practical planning and durable finishes.",
+    "suburbs": [
+      {
+        "name": "Harrington Park",
+        "slug": "harrington-park"
+      },
+      {
+        "name": "Rosemeadow",
+        "slug": "rosemeadow"
+      },
+      {
+        "name": "Lurnea",
+        "slug": "lurnea"
+      }
+    ]
+  },
+  {
+    "name": "Northern District",
+    "intro": "These suburbs often call for kitchen, study, pantry and family-living joinery that feels integrated rather than added later.",
+    "suburbs": [
+      {
+        "name": "Epping",
+        "slug": "epping"
+      }
+    ]
+  },
+  {
+    "name": "Upper North Shore",
+    "intro": "Larger family homes on the Upper North Shore usually benefit from wardrobes, kitchens, laundries and supporting joinery that are all planned together.",
+    "suburbs": [
+      {
+        "name": "Wahroonga",
+        "slug": "wahroonga"
+      }
+    ]
+  }
+]

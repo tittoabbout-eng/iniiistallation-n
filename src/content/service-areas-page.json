@@ -1,0 +1,34 @@
+{
+  "seoTitle": "Sydney Service Areas | InsideOut Joinery & Renos",
+  "seoDescription": "Custom kitchens, wardrobes, laundries and joinery-led renovations across Sydney suburbs, with area pages tied back to real project work instead of generic location filler.",
+  "heroEyebrow": "Sydney suburbs we service",
+  "heroTitle": "Real Sydney service areas tied to real joinery projects.",
+  "heroDescription": "Browse the Sydney suburbs and regions we service, each connected to the kinds of kitchens, wardrobes, laundries and renovation-led joinery scopes we take on — and, where possible, linked to real nearby project work.",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroImageAlt": "Darlinghurst kitchen fitout",
+  "listingEyebrow": "Area coverage",
+  "listingTitle": "Sydney regions where we regularly quote and build.",
+  "listingIntro": "We are not trying to publish hundreds of thin suburb pages. These area pages are here to show where we work, the kinds of homes we tend to suit, and the nearby project references that make the service feel real.",
+  "faqEyebrow": "FAQs",
+  "faqTitle": "Questions homeowners often ask about our Sydney service areas.",
+  "faqs": [
+    {
+      "question": "Do you service all of Sydney?",
+      "answer": "We work across a broad Sydney footprint, but we focus on suburbs and project types that are a practical fit for custom joinery, kitchens, wardrobes, laundries and renovation-led cabinetry."
+    },
+    {
+      "question": "Do suburb pages all say the same thing?",
+      "answer": "No. We are using each page to reflect the suburb, the nearby project references and the kinds of rooms or homes that tend to suit our work — not just swapping the suburb name into generic copy."
+    },
+    {
+      "question": "Can I enquire even if my suburb is not listed yet?",
+      "answer": "Yes. The suburb list is only a working structure. If you are in Sydney and planning the right type of joinery or renovation project, get in touch."
+    },
+    {
+      "question": "Do suburb pages link back to service pages and projects?",
+      "answer": "Yes. The area pages are designed to connect straight back to core service pages and real project references so the site stays useful, not bloated."
+    }
+  ],
+  "ctaTitle": "Need to check whether your suburb is the right fit?",
+  "ctaText": "Send through your suburb, project type and any plans or site photos you have. We can tell you whether the scope suits the way we work and point you to the most relevant service or project page."
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "surry-hills",
+  "name": "Surry Hills",
+  "region": "City Fringe",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Compact kitchen and hidden-storage joinery reference relevant to Surry Hills homes",
+  "metaTitle": "Custom Joinery & Renovations Surry Hills | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and apartment-friendly joinery for Surry Hills homes and city-fringe renovations.",
+  "intro": "Surry Hills projects often need joinery that solves storage and function without overcrowding the space. We build kitchens, wardrobes, laundries and tailored cabinetry designed for compact homes and renovation-led layouts.",
+  "localContext": "From apartments to terraces and city-fringe renovations, Surry Hills homes benefit from practical cabinetry, cleaner planning and material choices that feel calm rather than cluttered.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Nearby compact-home joinery fitout — Darlinghurst",
+  "projectReferenceNote": "We are using the nearby Darlinghurst fitout as the live city-fringe reference until a dedicated Surry Hills case study is added, because it shows the same kind of compact-space planning and concealed storage logic.",
+  "whyChoose": [
+    "Joinery designed for compact city-fringe homes",
+    "Storage that works harder without visual clutter",
+    "Warm, tailored finishes instead of generic cabinetry",
+    "A straightforward process from brief to installation"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on apartments and terraces in Surry Hills?",
+      "answer": "Yes. We work on city-fringe homes where custom joinery can improve storage, layout and day-to-day function."
+    },
+    {
+      "question": "Can you quote from plans or site photos?",
+      "answer": "Yes. Plans, reference images and a simple scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only take on full renovations?",
+      "answer": "No. Some projects are whole-home fitouts, while others focus on one key room or storage problem area."
+    },
+    {
+      "question": "Can the reference project be updated later?",
+      "answer": "Yes. A dedicated Surry Hills case study can be linked later without rebuilding the suburb page."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Surry Hills, send through your plans or photos and we can help review the scope."
+}

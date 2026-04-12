@@ -1,0 +1,49 @@
+{
+  "listingPage": {
+    "seoTitle": "Projects | InsideOut Joinery & Renos",
+    "seoDescription": "Explore real joinery and renovation case studies in Willoughby, Darlinghurst, Epping and Cremorne, with project-specific pages for kitchens, wardrobes, laundries and full-home fitouts.",
+    "heroEyebrow": "Projects",
+    "heroTitle": "Joinery and renovation projects completed across Sydney.",
+    "heroDescription": "Explore real kitchens, wardrobes, laundries and full-home fitouts, with project details that show the materials, layout thinking and finished result.",
+    "heroImage": "/epping/epping-hero-open-plan.jpg",
+    "heroImageAlt": "Completed open-plan joinery and kitchen fitout in Epping",
+    "featuredEyebrow": "Featured case studies",
+    "featuredTitle": "Featured projects in Willoughby, Darlinghurst, Epping and Cremorne.",
+    "featuredIntro": "These completed projects show the scope, finish quality and practical detailing behind our joinery and renovation work.",
+    "relatedServicesEyebrow": "Related services",
+    "relatedServicesTitle": "Explore the services behind these projects.",
+    "relatedServicesIntro": "From kitchens and wardrobes to laundries, custom joinery and renovation-led cabinetry, these service pages explain the work in more detail.",
+    "ctaTitle": "Have a project you want quoted room by room?",
+    "ctaText": "Send the plans or photos through and we can help shape the joinery scope, whether it is one room or a full-home fitout."
+  },
+  "detailPage": {
+    "overviewEyebrow": "Project overview",
+    "overviewTitle": "What was built, how the joinery was planned and where it made the biggest difference.",
+    "materialsTitle": "Materials, finishes and key details",
+    "materialsLinks": {
+      "projects": "View all projects",
+      "serviceAreas": "Service areas",
+      "contact": "Contact us"
+    },
+    "finishedSpacesEyebrow": "Finished spaces",
+    "finishedSpacesTitle": "Finished rooms, joinery details and the final result.",
+    "finishedSpacesIntro": "These images show the final rooms, the joinery decisions behind them and the details that shape the finished result.",
+    "beforeEyebrow": "Before and build process",
+    "beforeTitle": "Before photos and progress-stage images.",
+    "beforeIntro": "These earlier images help show where the project started and how the joinery changed the room or wider fitout.",
+    "spacesEyebrow": "Space by space",
+    "spacesTitle": "How each room or storage zone was resolved.",
+    "spacesIntro": "These room-by-room notes explain what the joinery needed to solve, with a direct link back to the related service page.",
+    "spaceLinkLabel": "Explore related service",
+    "reviewEyebrow": "Review",
+    "reviewTitle": "Feedback on the finished work",
+    "outcomeEyebrow": "Outcome",
+    "outcomeTitle": "How the finished project improved storage, flow and finish quality.",
+    "outcomeLinks": {
+      "projects": "View more projects",
+      "serviceAreas": "Browse service areas",
+      "contact": "Request a quote"
+    },
+    "ctaText": "If you have a similar brief, send through the plans, inspiration images or site photos and we will help map out the right joinery approach."
+  }
+}

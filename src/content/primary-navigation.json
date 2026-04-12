@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Home",
+    "path": "/"
+  },
+  {
+    "label": "Projects",
+    "path": "/projects"
+  },
+  {
+    "label": "Service Areas",
+    "path": "/service-areas"
+  },
+  {
+    "label": "Contact",
+    "path": "/contact"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "slug": "darlinghurst",
+  "name": "Darlinghurst",
+  "region": "City Fringe",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Darlinghurst custom kitchen, concealed laundry and compact-home joinery fitout",
+  "metaTitle": "Custom Joinery & Renovations Darlinghurst | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and compact-home joinery for Darlinghurst apartments and terrace-style homes.",
+  "intro": "Darlinghurst is one of our strongest compact-home references because the project shows how much can be achieved when the joinery is planned around the actual constraints of the apartment. Kitchen storage, hidden services, Murphy-bed integration and bedroom joinery all had to work hard without making the home feel cluttered.",
+  "localContext": "That kind of project is exactly why city-fringe homes respond well to tailored cabinetry — it solves layout problems, hides mess and lets smaller rooms feel more intentional.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Full Home Joinery Fitout — Darlinghurst",
+  "projectReferenceNote": "This is a genuine Darlinghurst fitout already on the site, so the suburb page can point to real local work including a custom kitchen, concealed laundry, Murphy bed and supporting storage.",
+  "whyChoose": [
+    "Joinery planned around compact Darlinghurst floorplans",
+    "Storage and cabinetry designed to stay visually calm",
+    "Material choices balanced between warmth and practicality",
+    "A straightforward quote and planning process from scope to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on apartments and terrace-style homes in Darlinghurst?",
+      "answer": "Yes. We regularly design joinery for compact homes, apartments and renovation-led projects where every square metre matters."
+    },
+    {
+      "question": "Can you help with full-home joinery, not just kitchens?",
+      "answer": "Yes. We can handle kitchens, wardrobes, laundries, vanities and supporting custom joinery as one connected scope."
+    },
+    {
+      "question": "Can you quote from plans or photos?",
+      "answer": "Yes. Plans, site photos and a brief summary are enough for an initial review."
+    },
+    {
+      "question": "Can project images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the area or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a custom joinery or renovation project in Darlinghurst, send through your plans or photos and we can help shape the next step."
+}

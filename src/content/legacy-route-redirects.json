@@ -1,0 +1,70 @@
+[
+  {
+    "from": "/custom-kitchens",
+    "to": "/kitchens-renovations"
+  },
+  {
+    "from": "/laundries",
+    "to": "/laundry"
+  },
+  {
+    "from": "/tv-units",
+    "to": "/custom-joinery"
+  },
+  {
+    "from": "/ross-st-glebe.php",
+    "to": "/projects/glebe-kitchen-renovation"
+  },
+  {
+    "from": "/starlight-retreat-harrington-park.php",
+    "to": "/projects/harrington-park-home-renovation"
+  },
+  {
+    "from": "/sanctuary-drive-beaumont-hills.php",
+    "to": "/projects/beaumont-hills-home-renovation"
+  },
+  {
+    "from": "/420-liverpool-road-croydon.php",
+    "to": "/projects/croydon-apartment-renovation"
+  },
+  {
+    "from": "/undercliff-street-neutral-bay.php",
+    "to": "/projects/neutral-bay-home-renovation"
+  },
+  {
+    "from": "/tower-st-vaucluse.php",
+    "to": "/projects/vaucluse-kitchen-remodel"
+  },
+  {
+    "from": "/cowles-road-mosman.php",
+    "to": "/projects/mosman-custom-wardrobes"
+  },
+  {
+    "from": "/archibald-crescent-rosemeadow-nsw.php",
+    "to": "/projects/rosemeadow-kitchen-renovation"
+  },
+  {
+    "from": "/supa-centa-moore-park2-todman-ave-kensington.php",
+    "to": "/projects/james-lane-moore-park"
+  },
+  {
+    "from": "/reily-st-lurnea-nsw.php",
+    "to": "/projects/lurnea-kitchen-renovation"
+  },
+  {
+    "from": "/jones-ave-monterey-nsw.php",
+    "to": "/projects/monterey-kitchen-butlers-wardrobe"
+  },
+  {
+    "from": "/nijong-drpemulwuy-nsw.php",
+    "to": "/projects/pemulwuy-kitchen-office-fitout"
+  },
+  {
+    "from": "/botany-stcarlton-nsw.php",
+    "to": "/projects/carlton-kitchen-renovation"
+  },
+  {
+    "from": "/phoenix-cl-castle-hill-nsw.php",
+    "to": "/projects/castle-hill-kitchen-laundry-renovation"
+  }
+]

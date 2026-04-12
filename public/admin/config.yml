@@ -1,0 +1,445 @@
+
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: public/uploads
+public_folder: /uploads
+publish_mode: editorial_workflow
+site_url: https://insideoutjoinery.au
+logo_url: /favicon.svg
+
+collections:
+  - name: settings
+    label: Global Settings
+    files:
+      - name: siteSettings
+        label: Site Settings
+        file: src/content/site-settings.json
+        format: json
+        fields:
+          - { label: Business Name, name: name, widget: string }
+          - { label: Site URL, name: siteUrl, widget: string, hint: 'Full URL including https://, e.g. https://insideoutjoinery.au' }
+          - { label: Phone (Display), name: phone, widget: string, hint: 'Phone number shown to visitors, e.g. 02 5000 0402' }
+          - { label: Phone Link (tel:), name: phoneHref, widget: string, hint: 'Used for click-to-call links. Format: tel:0250000402 (no spaces)' }
+          - { label: Email (Display), name: email, widget: string, hint: 'Email address shown to visitors' }
+          - { label: Email Link (mailto:), name: emailHref, widget: string, hint: 'Used for email links. Format: mailto:info@example.com.au' }
+          - { label: Base Location, name: baseLocation, widget: string }
+          - { label: Service Area Summary, name: serviceArea, widget: string, hint: 'One-line description of the service area, used in SEO schema' }
+          - { label: Hours Summary, name: hoursSummary, widget: string, hint: 'Short hours line shown in footer and contact sidebar, e.g. Mon-Fri: 8:30am - 4:30pm' }
+          - label: Hours Detail
+            name: hoursDetail
+            widget: list
+            hint: 'Each line appears separately in the contact sidebar. Keep to 2 lines.'
+            field: { label: Line, name: line, widget: string }
+          - { label: ABN, name: abn, widget: string, required: false }
+          - { label: Google Reviews URL, name: googleReviewsUrl, widget: string, required: false, hint: 'Full Google Maps / Google Business URL for the reviews link' }
+          - label: Featured Project Slugs
+            name: featuredProjectSlugs
+            widget: list
+            hint: 'Controls which 3 projects appear on the homepage. Enter exactly 3 slugs in the order you want them to appear. Each slug must exactly match the slug field in a project file, e.g. willoughby, darlinghurst, epping. To change the order, delete all 3 and re-enter them in the new order. Run npm run check:content after saving to confirm slugs are valid.'
+            field: { label: Project Slug, name: slug, widget: string }
+      - name: globalContent
+        label: Homepage & Brand Content
+        file: src/content/global-content.json
+        format: json
+        fields:
+          - label: CTA Labels
+            name: cta
+            widget: object
+            fields:
+              - { label: Primary Label, name: primaryLabel, widget: string, hint: 'Main call-to-action button label used across the site' }
+              - { label: Secondary Projects Label, name: secondaryProjectsLabel, widget: string }
+              - { label: Review Button Label, name: reviewButtonLabel, widget: string }
+          - label: Brand Copy
+            name: brand
+            widget: object
+            fields:
+              - { label: Top Bar Text, name: topBarText, widget: string, hint: 'Short line shown in the top navigation bar' }
+              - { label: Sub Brand Text, name: subBrandText, widget: string, hint: 'Small text shown below the business name in the header' }
+              - { label: Footer Intro, name: footerIntro, widget: text }
+              - { label: Footer Bottom Text, name: footerBottomText, widget: text }
+              - { label: Schema Description, name: schemaDescription, widget: text, hint: 'Used in structured data / SEO schema. Keep factual and concise.' }
+          - label: Homepage
+            name: homepage
+            widget: object
+            fields:
+              - { label: SEO Title, name: seoTitle, widget: string, hint: 'Page title shown in Google search results. Aim for 50-60 characters.' }
+              - { label: SEO Description, name: seoDescription, widget: text, hint: 'Meta description shown in Google results. Aim for 140-160 characters.' }
+              - { label: Hero Eyebrow, name: heroEyebrow, widget: string, hint: 'Small label above the hero title' }
+              - { label: Hero Title, name: heroTitle, widget: string }
+              - { label: Hero Description, name: heroDescription, widget: text }
+              - label: Hero Image
+                name: heroImage
+                widget: image
+                hint: 'Main homepage hero image. Upload the new image to public/uploads/ first, then select it here. Recommended: 1600px wide, under 400 KB. Use a strong finished project shot.'
+              - { label: Hero Image Alt Text, name: heroImageAlt, widget: string, hint: 'Describe the image for accessibility and SEO, e.g. Custom kitchen renovation in Darlinghurst by InsideOut Joinery' }
+              - { label: Quote Helper Text, name: quoteHelperText, widget: text }
+              - label: Trust Bar Items
+                name: trustBarItems
+                widget: list
+                hint: 'Short trust statements shown in the bar below the hero. Keep to 4 items.'
+                field: { label: Item, name: item, widget: string }
+              - label: Services Section
+                name: services
+                widget: object
+                fields:
+                  - { label: Eyebrow, name: eyebrow, widget: string }
+                  - { label: Title, name: title, widget: string }
+                  - { label: Intro, name: intro, widget: text }
+                  - label: Card Copy
+                    name: cardCopy
+                    widget: object
+                    hint: 'Short description shown on each service card on the homepage. One field per service.'
+                    fields:
+                      - { label: Kitchens, name: kitchens-renovations, widget: text }
+                      - { label: Custom Joinery, name: custom-joinery, widget: text }
+                      - { label: Wardrobes, name: wardrobes, widget: text }
+                      - { label: Laundry, name: laundry, widget: text }
+                      - { label: Renovations, name: renovations, widget: text }
+              - label: Featured Projects
+                name: featuredProjects
+                widget: object
+                hint: 'Section heading copy only. To change which projects appear, edit Featured Project Slugs in Site Settings.'
+                fields:
+                  - { label: Eyebrow, name: eyebrow, widget: string }
+                  - { label: Title, name: title, widget: string }
+                  - { label: Intro, name: intro, widget: text }
+              - label: Why Choose Section
+                name: whyChoose
+                widget: object
+                fields:
+                  - { label: Eyebrow, name: eyebrow, widget: string }
+                  - { label: Title, name: title, widget: string }
+                  - { label: Intro, name: intro, widget: text }
+      - name: projectContent
+        label: Project Shared Content
+        file: src/content/project-content.json
+        format: json
+        fields:
+          - label: Listing Page
+            name: listingPage
+            widget: object
+            fields:
+              - { label: SEO Title, name: seoTitle, widget: string, hint: 'Page title shown in Google search results. Aim for 50-60 characters.' }
+              - { label: SEO Description, name: seoDescription, widget: text, hint: 'Meta description shown in Google results. Aim for 140-160 characters.' }
+              - { label: Hero Eyebrow, name: heroEyebrow, widget: string }
+              - { label: Hero Title, name: heroTitle, widget: string }
+              - { label: Hero Description, name: heroDescription, widget: text }
+              - label: Hero Image
+                name: heroImage
+                widget: image
+                hint: 'Hero image for the projects listing page. Upload to public/uploads/ first. Recommended: 1600px wide, under 400 KB.'
+              - { label: Hero Image Alt Text, name: heroImageAlt, widget: string, hint: 'Describe the image for accessibility and SEO' }
+              - { label: Featured Eyebrow, name: featuredEyebrow, widget: string }
+              - { label: Featured Title, name: featuredTitle, widget: string }
+              - { label: Featured Intro, name: featuredIntro, widget: text }
+              - { label: Related Services Eyebrow, name: relatedServicesEyebrow, widget: string }
+              - { label: Related Services Title, name: relatedServicesTitle, widget: string }
+              - { label: Related Services Intro, name: relatedServicesIntro, widget: text }
+              - { label: CTA Title, name: ctaTitle, widget: string }
+              - { label: CTA Text, name: ctaText, widget: text }
+          - label: Detail Page
+            name: detailPage
+            widget: object
+            fields:
+              - { label: Overview Eyebrow, name: overviewEyebrow, widget: string }
+              - { label: Overview Title, name: overviewTitle, widget: string }
+              - { label: Materials Title, name: materialsTitle, widget: string }
+              - label: Materials Links
+                name: materialsLinks
+                widget: object
+                fields:
+                  - { label: Projects Link Label, name: projects, widget: string }
+                  - { label: Service Areas Link Label, name: serviceAreas, widget: string }
+                  - { label: Contact Link Label, name: contact, widget: string }
+              - { label: Finished Spaces Eyebrow, name: finishedSpacesEyebrow, widget: string }
+              - { label: Finished Spaces Title, name: finishedSpacesTitle, widget: string }
+              - { label: Finished Spaces Intro, name: finishedSpacesIntro, widget: text }
+              - { label: Before Eyebrow, name: beforeEyebrow, widget: string }
+              - { label: Before Title, name: beforeTitle, widget: string }
+              - { label: Before Intro, name: beforeIntro, widget: text }
+              - { label: Spaces Eyebrow, name: spacesEyebrow, widget: string }
+              - { label: Spaces Title, name: spacesTitle, widget: string }
+              - { label: Spaces Intro, name: spacesIntro, widget: text }
+              - { label: Space Link Label, name: spaceLinkLabel, widget: string }
+              - { label: Review Eyebrow, name: reviewEyebrow, widget: string }
+              - { label: Review Title, name: reviewTitle, widget: string }
+              - { label: Outcome Eyebrow, name: outcomeEyebrow, widget: string }
+              - { label: Outcome Title, name: outcomeTitle, widget: string }
+              - label: Outcome Links
+                name: outcomeLinks
+                widget: object
+                fields:
+                  - { label: Projects Link Label, name: projects, widget: string }
+                  - { label: Service Areas Link Label, name: serviceAreas, widget: string }
+                  - { label: Contact Link Label, name: contact, widget: string }
+              - { label: CTA Text, name: ctaText, widget: text }
+      - name: homepageSections
+        label: Homepage Extra Sections
+        file: src/content/homepage-sections.json
+        format: json
+        fields:
+          - label: Before / After Teaser
+            name: beforeAfterTeaser
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Title, name: title, widget: string }
+              - { label: Text, name: text, widget: text }
+              - label: Before Image
+                name: beforeImage
+                widget: image
+                hint: 'The "before" image for the homepage slider. Must be the real before state — construction, demolition, or original room. Upload to public/uploads/. Recommended: 1200px wide, under 400 KB.'
+              - label: After Image
+                name: afterImage
+                widget: image
+                hint: 'The "after" image for the homepage slider. Must be the finished, installed result — not a mid-construction shot. Upload to public/uploads/. Recommended: 1200px wide, under 400 KB.'
+              - { label: Before Image Alt Text, name: beforeAlt, widget: string, hint: 'Describe the before image for accessibility, e.g. Kitchen before renovation — original layout before demolition' }
+              - { label: After Image Alt Text, name: afterAlt, widget: string, hint: 'Describe the after image for accessibility, e.g. Kitchen after custom joinery fitout with shaker cabinetry and stone benchtop' }
+              - { label: Button Label, name: buttonLabel, widget: string }
+          - label: Service Areas Teaser
+            name: serviceAreasTeaser
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Title, name: title, widget: string }
+              - { label: Intro, name: intro, widget: text }
+              - { label: Body Text, name: bodyText, widget: text }
+              - { label: Button Label, name: buttonLabel, widget: string }
+      - name: serviceAreasPage
+        label: Service Areas Page
+        file: src/content/service-areas-page.json
+        format: json
+        fields:
+          - { label: SEO Title, name: seoTitle, widget: string, hint: 'Page title shown in Google search results. Aim for 50-60 characters.' }
+          - { label: SEO Description, name: seoDescription, widget: text, hint: 'Meta description shown in Google results. Aim for 140-160 characters.' }
+          - { label: Hero Eyebrow, name: heroEyebrow, widget: string }
+          - { label: Hero Title, name: heroTitle, widget: string }
+          - { label: Hero Description, name: heroDescription, widget: text }
+          - label: Hero Image
+            name: heroImage
+            widget: image
+            hint: 'Hero image for the service areas page. Upload to public/uploads/ first. Recommended: 1600px wide, under 400 KB.'
+          - { label: Hero Image Alt Text, name: heroImageAlt, widget: string, hint: 'Describe the image for accessibility and SEO' }
+          - { label: Listing Eyebrow, name: listingEyebrow, widget: string }
+          - { label: Listing Title, name: listingTitle, widget: string }
+          - { label: Listing Intro, name: listingIntro, widget: text }
+          - { label: FAQ Eyebrow, name: faqEyebrow, widget: string }
+          - { label: FAQ Title, name: faqTitle, widget: string }
+          - label: FAQs
+            name: faqs
+            widget: list
+            fields:
+              - { label: Question, name: question, widget: string }
+              - { label: Answer, name: answer, widget: text }
+          - { label: CTA Title, name: ctaTitle, widget: string }
+          - { label: CTA Text, name: ctaText, widget: text }
+      - name: notFoundPage
+        label: Not Found Page
+        file: src/content/not-found-page.json
+        format: json
+        fields:
+          - { label: SEO Title, name: seoTitle, widget: string }
+          - { label: SEO Description, name: seoDescription, widget: text }
+          - { label: Eyebrow, name: eyebrow, widget: string }
+          - { label: Title, name: title, widget: string }
+          - { label: Description, name: description, widget: text }
+          - label: Image
+            name: image
+            widget: image
+            hint: 'Image shown on the 404 page. Upload to public/uploads/ first. Recommended: 1200px wide, under 400 KB.'
+          - { label: Image Alt Text, name: imageAlt, widget: string, hint: 'Describe the image for accessibility' }
+          - { label: Primary Button Label, name: primaryButtonLabel, widget: string }
+          - { label: Secondary Button Label, name: secondaryButtonLabel, widget: string }
+  - name: projects
+    label: Projects
+    label_singular: Project
+    folder: src/content/projects
+    create: true
+    slug: '{{slug}}'
+    extension: json
+    format: json
+    identifier_field: title
+    summary: '{{title}} — {{suburb}}'
+    fields:
+      - { label: Slug, name: slug, widget: string, hint: 'URL-safe identifier used in the page path, e.g. rosebery-kitchen-project. Use lowercase letters and hyphens only. Must match the filename exactly. This is also used in Featured Project Slugs and Related Project Slugs.' }
+      - { label: Title, name: title, widget: string, hint: 'Full project title shown on the project page and listings' }
+      - { label: Short Title, name: shortTitle, widget: string, hint: 'Shorter version used in breadcrumbs or compact listings, e.g. Willoughby' }
+      - { label: Suburb, name: suburb, widget: string, hint: 'Suburb name shown on project cards and the detail page' }
+      - { label: Summary, name: summary, widget: text, hint: 'One or two sentences summarising the project. Shown on project cards and the listing page.' }
+      - label: Hero Image
+        name: heroImage
+        widget: image
+        hint: 'Main image for this project. Shown at the top of the project page and on listing cards. To add a new image: upload it to public/uploads/ first, then select it here. To replace: upload the new image first, update this field, then delete the old file from public/uploads/ only after confirming the new one loads. Recommended: 1600px wide, under 400 KB.'
+      - { label: Hero Image Alt Text, name: heroAlt, widget: string, hint: 'Describe the hero image clearly for accessibility and SEO, e.g. Custom kitchen renovation in Willoughby with shaker-style cabinetry and marble island' }
+      - { label: Overview, name: overview, widget: text, hint: 'Project story paragraph shown near the top of the detail page. Keep it specific to this project.' }
+      - label: Materials & Finishes
+        name: materials
+        widget: list
+        hint: 'List the key materials and finishes used. Each item appears as a bullet point on the project page.'
+        field: { label: Material or Finish, name: material, widget: string }
+      - label: Finished Images (After Gallery)
+        name: afterImages
+        widget: list
+        hint: 'Gallery of finished project images. Order matters — the first image appears first in the gallery. To reorder: drag items up or down using the handle on the left of each row. To add: click Add Finished Images and upload to public/uploads/. To remove: click the delete icon on that row, then run npm run check:images to confirm the file is no longer referenced before deleting it from public/. Each image requires alt text.'
+        fields:
+          - label: Image
+            name: src
+            widget: image
+            hint: 'Upload to public/uploads/ first, then select here. Recommended: 1200px wide, under 400 KB. Use clean finished shots — avoid mid-construction or cluttered images.'
+          - { label: Alt Text, name: alt, widget: string, hint: 'Describe what is shown in this image, e.g. Willoughby kitchen island with stone benchtop and handleless cabinetry' }
+          - { label: Caption (optional), name: caption, widget: text, required: false, hint: 'Optional caption shown below the image. Leave blank if not needed.' }
+      - label: Before Images (Before Gallery)
+        name: beforeImages
+        widget: list
+        hint: 'Gallery of before images. Order matters — the first image appears first. To reorder: drag items up or down. To add: click Add Before Images and upload to public/uploads/. To remove: delete the row here first, then confirm with npm run check:images before removing the file from public/.'
+        fields:
+          - label: Image
+            name: src
+            widget: image
+            hint: 'Upload to public/uploads/ first, then select here. Recommended: 1200px wide, under 400 KB.'
+          - { label: Alt Text, name: alt, widget: string, hint: 'Describe what is shown in this before image, e.g. Willoughby kitchen before renovation — original layout' }
+          - { label: Caption (optional), name: caption, widget: text, required: false, hint: 'Optional caption. Leave blank if not needed.' }
+      - label: Space-by-Space Sections
+        name: spaces
+        widget: list
+        hint: 'Each entry creates a dedicated section on the project page for one room or area. Add one entry per space covered in this project. To reorder: drag items up or down.'
+        fields:
+          - { label: Space Title, name: title, widget: string, hint: 'Name of the space, e.g. Kitchen, Laundry, Wardrobe' }
+          - { label: Space Description, name: text, widget: text, hint: 'Short paragraph describing the joinery scope and finish for this space' }
+          - label: Space Image
+            name: image
+            widget: image
+            hint: 'Image representing this space. Upload to public/uploads/ first. Recommended: 1200px wide, under 400 KB.'
+          - { label: Image Alt Text, name: alt, widget: string, hint: 'Describe the space image for accessibility and SEO' }
+          - label: Related Service
+            name: servicePath
+            widget: select
+            hint: 'Select the service most relevant to this space. Used to link to the matching service page.'
+            options:
+              - /kitchens-renovations
+              - /custom-joinery
+              - /wardrobes
+              - /laundry
+              - /renovations
+      - { label: Outcome, name: outcome, widget: text, hint: 'One or two sentences summarising the finished result. Shown near the bottom of the project page.' }
+      - { label: CTA Text, name: ctaText, widget: text, hint: 'Call-to-action paragraph shown at the bottom of the project page. Keep it relevant to this project type.' }
+      - label: Review IDs
+        name: reviewIds
+        widget: list
+        hint: 'IDs of reviews to show on this project page. Each ID must match a review entry in the reviews data file, e.g. julie or michael.'
+        field: { label: Review ID, name: reviewId, widget: string }
+  - name: services
+    label: Services
+    label_singular: Service
+    folder: src/content/services
+    create: true
+    slug: '{{slug}}'
+    extension: json
+    format: json
+    identifier_field: title
+    summary: '{{title}}'
+    fields:
+      - { label: Slug, name: slug, widget: string, hint: 'URL-safe identifier, e.g. kitchens-renovations. Use lowercase letters and hyphens only.' }
+      - { label: Navigation Label, name: navLabel, widget: string, hint: 'Short label shown in the services dropdown in the navigation' }
+      - { label: Title, name: title, widget: string }
+      - label: Hero Image
+        name: heroImage
+        widget: image
+        hint: 'Main image for this service page. To replace: upload the new image to public/uploads/ first, update this field, then confirm the old file is no longer referenced with npm run check:images before deleting it. Recommended: 1600px wide, under 400 KB.'
+      - { label: Hero Image Alt Text, name: heroAlt, widget: string, hint: 'Describe the hero image for accessibility and SEO' }
+      - { label: Meta Title, name: metaTitle, widget: string, hint: 'Page title shown in Google search results. Aim for 50-60 characters.' }
+      - { label: Meta Description, name: metaDescription, widget: text, hint: 'Meta description shown in Google results. Aim for 140-160 characters.' }
+      - { label: Intro, name: intro, widget: text }
+      - { label: Included Section Title, name: includedTitle, widget: string }
+      - label: Included Items
+        name: included
+        widget: list
+        hint: 'List of what is included in this service. Each item appears as a bullet point.'
+        field: { label: Item, name: item, widget: string }
+      - label: Feature Blocks
+        name: featureBlocks
+        widget: list
+        hint: 'Short feature highlight blocks shown on the service page. Each needs a title and description.'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Text, name: text, widget: text }
+      - { label: Materials Section Title, name: materialsTitle, widget: string }
+      - label: Materials
+        name: materials
+        widget: list
+        field: { label: Material, name: material, widget: string }
+      - label: Related Project Slugs
+        name: projectSlugs
+        widget: list
+        hint: 'Slugs of projects to show as related on this service page. Each must match a project slug exactly, e.g. willoughby or darlinghurst. Run npm run check:content after saving to confirm slugs are valid.'
+        field: { label: Project Slug, name: projectSlug, widget: string }
+      - label: Before/After Section
+        name: beforeAfter
+        widget: object
+        hint: 'Before and after image pair shown on the service page. The "before" must show the original or construction state. The "after" must show the finished, installed result. Do not swap them — the slider labels are fixed.'
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Text, name: text, widget: text }
+          - label: Before Image
+            name: before
+            widget: image
+            hint: 'The BEFORE image — must show the original room, demolition, or pre-renovation state. Upload to public/uploads/ first. Recommended: 1200px wide, under 400 KB.'
+          - label: After Image
+            name: after
+            widget: image
+            hint: 'The AFTER image — must show the finished, installed joinery result. Upload to public/uploads/ first. Recommended: 1200px wide, under 400 KB.'
+          - { label: Before Image Alt Text, name: beforeAlt, widget: string, hint: 'Describe the before image for accessibility, e.g. Kitchen before renovation — original layout' }
+          - { label: After Image Alt Text, name: afterAlt, widget: string, hint: 'Describe the after image for accessibility, e.g. Kitchen after custom joinery fitout with shaker cabinetry' }
+      - label: FAQs
+        name: faqs
+        widget: list
+        fields:
+          - { label: Question, name: question, widget: string }
+          - { label: Answer, name: answer, widget: text }
+      - label: Review IDs
+        name: reviewIds
+        widget: list
+        hint: 'IDs of reviews to show on this service page. Each ID must match a review entry in the reviews data file.'
+        field: { label: Review ID, name: reviewId, widget: string }
+      - { label: CTA Title, name: ctaTitle, widget: string }
+      - { label: CTA Text, name: ctaText, widget: text }
+  - name: areas
+    label: Service Areas
+    label_singular: Area
+    folder: src/content/areas
+    create: true
+    slug: '{{slug}}'
+    extension: json
+    format: json
+    identifier_field: name
+    summary: '{{name}} — {{region}}'
+    fields:
+      - { label: Slug, name: slug, widget: string, hint: 'URL-safe identifier, e.g. willoughby. Use lowercase letters and hyphens only. Must match the filename.' }
+      - { label: Area Name, name: name, widget: string, hint: 'Full suburb or area name, e.g. Willoughby' }
+      - { label: Region, name: region, widget: string, hint: 'Broader region this suburb belongs to, e.g. Lower North Shore' }
+      - label: Hero Image
+        name: heroImage
+        widget: image
+        hint: 'Hero image for this suburb page. Upload to public/uploads/ first. Recommended: 1600px wide, under 400 KB.'
+      - { label: Hero Image Alt Text, name: heroAlt, widget: string, hint: 'Describe the hero image for accessibility and SEO' }
+      - { label: Meta Title, name: metaTitle, widget: string, hint: 'Page title shown in Google search results. Aim for 50-60 characters.' }
+      - { label: Meta Description, name: metaDescription, widget: text, hint: 'Meta description shown in Google results. Aim for 140-160 characters.' }
+      - { label: Intro, name: intro, widget: text }
+      - { label: Local Context, name: localContext, widget: text, hint: 'Paragraph connecting the service to this specific suburb. Keep it specific and real.' }
+      - { label: Project Reference Slug, name: projectReferenceSlug, widget: string, hint: 'Slug of a related project to link from this suburb page, e.g. willoughby' }
+      - { label: Project Reference Label, name: projectReferenceLabel, widget: string, hint: 'Link text for the related project, e.g. View the Willoughby project' }
+      - { label: Project Reference Note, name: projectReferenceNote, widget: text, hint: 'Short sentence providing context for the project reference' }
+      - label: Why Choose Items
+        name: whyChoose
+        widget: list
+        hint: 'Short reasons to choose InsideOut for this suburb. Each item appears as a bullet point.'
+        field: { label: Item, name: item, widget: string }
+      - label: FAQs
+        name: faqs
+        widget: list
+        fields:
+          - { label: Question, name: question, widget: string }
+          - { label: Answer, name: answer, widget: text }
+      - { label: CTA Text, name: ctaText, widget: text }

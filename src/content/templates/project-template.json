@@ -1,0 +1,42 @@
+{
+  "slug": "new-project-slug",
+  "title": "New Project Title",
+  "shortTitle": "Suburb or Short Name",
+  "suburb": "Suburb",
+  "summary": "One-sentence summary of the project and the main spaces included.",
+  "heroImage": "/uploads/project-hero.jpg",
+  "heroAlt": "Describe the hero image clearly",
+  "overview": "Write the overall project story here.",
+  "materials": [
+    "Material or finish 1",
+    "Material or finish 2"
+  ],
+  "afterImages": [
+    {
+      "src": "/uploads/project-after-1.jpg",
+      "alt": "Describe the finished image",
+      "caption": "Optional caption for the finished image"
+    }
+  ],
+  "beforeImages": [
+    {
+      "src": "/uploads/project-before-1.jpg",
+      "alt": "Describe the before image",
+      "caption": "Optional caption for the before image"
+    }
+  ],
+  "spaces": [
+    {
+      "title": "Kitchen",
+      "text": "Short explanation of the space.",
+      "image": "/uploads/project-space-1.jpg",
+      "alt": "Describe the space image",
+      "servicePath": "/kitchens-renovations"
+    }
+  ],
+  "outcome": "Summarise the finished outcome.",
+  "ctaText": "Call to action for similar projects.",
+  "reviewIds": [
+    "julie"
+  ]
+}

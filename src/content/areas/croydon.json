@@ -1,0 +1,39 @@
+{
+  "slug": "croydon",
+  "name": "Croydon",
+  "region": "Inner West",
+  "heroImage": "/projects-old/420-liverpool-road-croydon/1.jpg",
+  "heroAlt": "Croydon apartment joinery renovation with compact cabinetry and built-in storage",
+  "metaTitle": "Custom Joinery & Renovations Croydon | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Croydon homes and apartments across Inner West.",
+  "intro": "Croydon projects often suit compact, renovation-led joinery that solves real storage problems without overfilling the rooms. Apartment upgrades and smaller home remodels usually come down to layout discipline and cleaner cabinetry lines.",
+  "localContext": "We focus on joinery that gives the space a more resolved everyday workflow while still feeling calm enough for tighter footprints.",
+  "projectReferenceSlug": "croydon-apartment-renovation",
+  "projectReferenceLabel": "Croydon Apartment Unit Renovation",
+  "projectReferenceNote": "This Croydon apartment renovation is already built into the site, giving the suburb page a real nearby project reference instead of generic location copy.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Croydon actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Croydon?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Croydon and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Croydon project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Croydon, send through your plans or photos and we can help shape the next step."
+}

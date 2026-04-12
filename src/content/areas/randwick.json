@@ -1,0 +1,39 @@
+{
+  "slug": "randwick",
+  "name": "Randwick",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Apartment-friendly kitchen and concealed storage reference fitout relevant to Randwick homes",
+  "metaTitle": "Custom Joinery & Renovations Randwick | InsideOut Joinery & Renos",
+  "metaDescription": "Randwick joinery and renovation services for kitchens, wardrobes, laundries and custom storage, with project-led proof from across Sydney.",
+  "intro": "Randwick projects often sit somewhere between apartment practicality and renovation-level finish. Kitchens, wardrobes and utility areas usually need to work harder, but the rooms still have to feel calm and easy to live with.",
+  "localContext": "That is why we focus on cabinetry that improves storage and workflow without turning the fitout into visual clutter.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home reference",
+  "projectReferenceNote": "The nearby Darlinghurst fitout is being used as a reference because it shows how concealed storage, compact kitchens and room-by-room joinery can be handled neatly in a tighter city-side footprint.",
+  "whyChoose": [
+    "Flexible enough for family homes, semis and apartment projects",
+    "Kitchen, wardrobe and laundry planning built around real use",
+    "Good fit for renovation briefs that need tailored storage",
+    "Internal links to service pages and project references throughout the site"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on semis and family homes in Randwick?",
+      "answer": "Yes. We quote joinery for a range of home types across Randwick and the wider Eastern Suburbs."
+    },
+    {
+      "question": "Can you improve storage without changing the whole layout?",
+      "answer": "Often, yes. Many projects focus on making the cabinetry work better within the existing room footprint."
+    },
+    {
+      "question": "Can kitchens and laundries be done together?",
+      "answer": "Yes. Grouping those rooms often helps with finish consistency and the overall renovation flow."
+    },
+    {
+      "question": "Do you also service nearby beachside suburbs?",
+      "answer": "Yes. Randwick, Coogee and surrounding suburbs all sit within our Sydney-wide service area."
+    }
+  ],
+  "ctaText": "Need smarter joinery for a Randwick home? We can help you define the right scope."
+}

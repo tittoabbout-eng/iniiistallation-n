@@ -1,0 +1,39 @@
+{
+  "slug": "beaumont-hills",
+  "name": "Beaumont Hills",
+  "region": "Hills District",
+  "heroImage": "/projects-old/beaumont-hills/after/1.jpeg",
+  "heroAlt": "Beaumont Hills renovation joinery with hallway storage and integrated cabinetry",
+  "metaTitle": "Custom Joinery & Renovations Beaumont Hills | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Beaumont Hills homes and apartments across Hills District.",
+  "intro": "Beaumont Hills projects often come down to getting the renovation joinery to feel integrated rather than bolted on. Entry storage, kitchens, wardrobes and utility cabinetry all need to work with the way the home is actually used.",
+  "localContext": "We focus on cabinetry that helps the house function better while still looking calm and properly built into the renovation, not like a set of unrelated joinery pieces.",
+  "projectReferenceSlug": "beaumont-hills-home-renovation",
+  "projectReferenceLabel": "Beaumont Hills Home Renovation",
+  "projectReferenceNote": "This is a real Beaumont Hills project already imported into the new site, which means the suburb page can point back to genuine local work instead of generic suburb filler.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Beaumont Hills actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Beaumont Hills?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Beaumont Hills and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Beaumont Hills project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Beaumont Hills, send through your plans or photos and we can help shape the next step."
+}

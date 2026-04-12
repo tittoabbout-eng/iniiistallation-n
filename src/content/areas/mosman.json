@@ -1,0 +1,39 @@
+{
+  "slug": "mosman",
+  "name": "Mosman",
+  "region": "Lower North Shore",
+  "heroImage": "/projects-old/cowles-road-mosman/1.jpeg",
+  "heroAlt": "Mosman floor-to-ceiling wardrobe joinery with oak-look panels and dark shelving",
+  "metaTitle": "Custom Joinery & Renovations Mosman | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and renovation-led joinery for Mosman homes and apartments across Lower North Shore.",
+  "intro": "Mosman wardrobe projects often need the storage to feel built into the room rather than simply fitted along one wall. Floor-to-ceiling cabinetry, better internal planning and stronger material choices usually make the difference between basic storage and a premium result.",
+  "localContext": "We focus on wardrobe work that suits the room properly, keeps the lines clean and improves how the space functions every day.",
+  "projectReferenceSlug": "mosman-custom-wardrobes",
+  "projectReferenceLabel": "Custom Wardrobes — Mosman",
+  "projectReferenceNote": "This real Mosman wardrobe project is already imported into the site, giving the suburb page a genuine Lower North Shore reference instead of generic wardrobe copy.",
+  "whyChoose": [
+    "Joinery planned around the way homes in Mosman actually function",
+    "Cleaner cabinetry and storage that feels integrated, not added on",
+    "Material and finish choices kept practical as well as premium",
+    "A straightforward quote and planning process from brief to install"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchens and custom joinery in Mosman?",
+      "answer": "Yes. We take on kitchen renovations, wardrobes, laundries and broader custom joinery projects in Mosman and nearby suburbs."
+    },
+    {
+      "question": "Can you quote from plans or existing site photos for a Mosman project?",
+      "answer": "Yes. Plans, reference photos and a short scope summary are enough for an initial review."
+    },
+    {
+      "question": "Do you only work on full renovations?",
+      "answer": "No. Some projects are full fitouts, while others focus on one key room or a storage problem area."
+    },
+    {
+      "question": "Can the project page images be updated later?",
+      "answer": "Yes. The current gallery can be replaced with your preferred final images later without rebuilding the suburb or project structure."
+    }
+  ],
+  "ctaText": "If you are planning a joinery or renovation project in Mosman, send through your plans or photos and we can help shape the next step."
+}

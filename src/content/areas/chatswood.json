@@ -1,0 +1,39 @@
+{
+  "slug": "chatswood",
+  "name": "Chatswood",
+  "region": "Lower North Shore",
+  "heroImage": "/epping/epping-hero-open-plan.jpg",
+  "heroAlt": "Open-plan kitchen and living joinery reference fitout relevant to Chatswood homes",
+  "metaTitle": "Custom Joinery & Renovations Chatswood | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and joinery-led renovations for Chatswood homes and apartments, with Sydney-wide quoting and installation.",
+  "intro": "Chatswood projects often span apartments, townhouses and family homes where the joinery has to work across more than one room. Kitchens, pantries, study nooks and living-room storage all need to feel coordinated instead of pieced together.",
+  "localContext": "That is why we focus on joinery planning that improves the way the whole home flows, not just the look of one cabinet run.",
+  "projectReferenceSlug": "epping",
+  "projectReferenceLabel": "Epping new-home fitout",
+  "projectReferenceNote": "The Epping fitout is being used as a nearby Northern District reference because it shows open-plan kitchen, pantry and study joinery working together as one calm scheme.",
+  "whyChoose": [
+    "Useful for both apartment upgrades and larger residential fitouts",
+    "Open-plan joinery planning for kitchens, pantries and living zones",
+    "Wardrobe and laundry solutions that are built around daily use",
+    "Clear internal links to service and project pages for easier comparison"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on apartments in Chatswood?",
+      "answer": "Yes. Apartment joinery is well suited to custom wardrobes, laundries, kitchens and compact storage upgrades."
+    },
+    {
+      "question": "Can you help with a larger full-home fitout as well?",
+      "answer": "Yes. Projects that involve multiple rooms can be quoted and planned together."
+    },
+    {
+      "question": "What kinds of finishes do clients choose?",
+      "answer": "It depends on the brief, but we regularly work with polyurethane, timber-look laminates and more architectural material schedules."
+    },
+    {
+      "question": "Do you service the wider North Shore?",
+      "answer": "Yes. We work across Chatswood, Willoughby, Lane Cove and surrounding Sydney suburbs."
+    }
+  ],
+  "ctaText": "Need joinery that suits the way a Chatswood home is actually used? We can help plan the scope."
+}
