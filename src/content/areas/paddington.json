@@ -1,0 +1,39 @@
+{
+  "slug": "paddington",
+  "name": "Paddington",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Custom joinery and kitchen fitout reference suited to Paddington terrace renovations",
+  "metaTitle": "Custom Joinery & Renovations Paddington | InsideOut Joinery & Renos",
+  "metaDescription": "Paddington custom joinery and renovation services for terrace homes and apartments. Kitchens, wardrobes, bathrooms and concealed storage. Free quotes. Call us today.",
+  "intro": "Paddington terraces are among the most renovated homes in Sydney — and for good reason. The bones are usually excellent, but the original layout rarely suits how people live today. A well-planned joinery scope can transform a Paddington terrace: a kitchen that opens properly, a bathroom that feels resolved, wardrobes that actually hold everything, and storage integrated into walls and stairwells that were previously wasted.",
+  "localContext": "Working within the constraints of a terrace — narrow frontage, vertical living, heritage overlay in some streets — requires joinery that is planned around the architecture rather than imposed on it. That is the kind of work we enjoy.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst fitout is the closest reference we have for the Paddington terrace environment — same style of home, same storage challenges, same need for joinery that works with the building rather than against it.",
+  "whyChoose": [
+    "Terrace renovation experience with joinery designed around narrow, vertical floor plans",
+    "Concealed storage, stairwell joinery and under-stair solutions",
+    "Kitchen and bathroom renovation in heritage-adjacent properties",
+    "Material direction that respects the character of older homes while lifting the finish"
+  ],
+  "faqs": [
+    {
+      "question": "Do you renovate kitchens in Paddington terraces?",
+      "answer": "Yes. We take on kitchen renovations in terrace homes regularly. We understand the challenges of working with constrained layouts, original walls and older service locations."
+    },
+    {
+      "question": "Can you build concealed storage into a terrace stairwell or hallway?",
+      "answer": "Yes. Custom joinery built into stairwells, under stairs and along hallways is one of the most effective ways to add storage to a terrace without changing the floor plan."
+    },
+    {
+      "question": "Do I need council approval for internal joinery work in Paddington?",
+      "answer": "Internal joinery and renovation work generally does not require council approval unless it involves structural changes. We can help clarify the scope during the quoting process."
+    },
+    {
+      "question": "Can you match the style of an existing renovation already underway?",
+      "answer": "Yes. If a renovation is already in progress, we can review what has been specified and match the material and finish direction across the joinery scope."
+    }
+  ],
+  "ctaText": "If your Paddington terrace is ready for a kitchen renovation, new wardrobes or smarter storage built into the home, we can help make the most of the space."
+}

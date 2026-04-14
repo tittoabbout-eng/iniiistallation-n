@@ -1,0 +1,39 @@
+{
+  "slug": "newtown",
+  "name": "Newtown",
+  "region": "Inner West",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Terrace home joinery and kitchen renovation reference suited to Newtown homes",
+  "metaTitle": "Custom Joinery & Renovations Newtown | InsideOut Joinery & Renos",
+  "metaDescription": "Newtown custom joinery and renovation services for terrace homes, semis and apartments. Kitchens, wardrobes, bathrooms and storage. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Newtown terraces have a lot going for them — character, space (by inner-city standards), and usually a renovation already underway or recently completed. The joinery brief in Newtown often centres on the kitchen, which in older terrace homes was typically a narrow afterthought at the back of the house and is now one of the most important rooms in the property. Getting that kitchen right — layout, storage, flow into the outdoor area — makes a disproportionate difference to how the home lives.",
+  "localContext": "Beyond the kitchen, Newtown homes often need wardrobes that make the most of older bedroom proportions and bathrooms rebuilt properly rather than patched. The goal is joinery that suits the character of the home without trying to modernise it beyond what it is.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst project is a strong reference for Newtown terrace joinery — the same inner-city residential context, the same compact-home constraints and the same emphasis on considered storage and calm material direction.",
+  "whyChoose": [
+    "Terrace and semi-detached home joinery experience across the Inner West",
+    "Kitchen renovations designed around the rear-of-terrace layout challenge",
+    "Wardrobe and bathroom solutions suited to older home proportions",
+    "Joinery that works with the character of the building rather than against it"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchen renovations in Newtown terraces?",
+      "answer": "Yes. We take on kitchen renovations in terrace homes, semis and apartment buildings throughout Newtown and the surrounding Inner West."
+    },
+    {
+      "question": "Can you open up a rear terrace kitchen to connect it to the outdoor area?",
+      "answer": "Yes. Where the scope includes opening a rear wall or improving the kitchen-to-outdoor flow, we coordinate the structural and joinery elements as part of the same project."
+    },
+    {
+      "question": "Can you build wardrobes that suit an older bedroom with cornicing and skirting?",
+      "answer": "Yes. We design built-in wardrobes that work with existing cornicing, skirting and ceiling heights rather than simply being installed over them."
+    },
+    {
+      "question": "Do you quote bathroom renovations as well as kitchens?",
+      "answer": "Yes. We quote bathroom renovations including full rebuilds with waterproofing, tiling and joinery alongside kitchen and wardrobe scopes."
+    }
+  ],
+  "ctaText": "If your Newtown terrace is ready for a kitchen renovation, new wardrobes or a bathroom that finally works properly, we can help plan the right approach."
+}

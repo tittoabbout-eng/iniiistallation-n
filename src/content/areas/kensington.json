@@ -1,0 +1,39 @@
+{
+  "slug": "kensington",
+  "name": "Kensington",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Compact kitchen and storage joinery reference suited to Kensington terrace homes and apartments",
+  "metaTitle": "Custom Joinery & Renovations Kensington | InsideOut Joinery & Renos",
+  "metaDescription": "Kensington custom joinery and renovation services for terraces, apartments and family homes. Kitchens, wardrobes and storage. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Kensington is a suburb where terrace homes, older apartment blocks and student share-houses sit alongside well-maintained family properties close to UNSW and the Prince of Wales Hospital. The joinery needs here vary a lot depending on the property — but the common thread is usually a home that needs to function harder without losing its character.",
+  "localContext": "A well-planned kitchen layout, properly built wardrobes or a concealed laundry can make a real difference in a Kensington terrace or apartment. The goal is joinery that earns its space rather than just filling it.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst fitout demonstrates the kind of tight, considered joinery that translates well to Kensington terraces and apartments — where footprint is fixed and every design decision has to justify itself.",
+  "whyChoose": [
+    "Experience with terrace homes and compact apartments that need smart storage",
+    "Kitchen and wardrobe joinery built to suit older home proportions",
+    "Concealed laundry and utility storage to help homes stay flexible",
+    "Straightforward quoting process with no unnecessary upselling"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on terrace homes in Kensington?",
+      "answer": "Yes. Terraces are a regular part of our work across the Eastern Suburbs. We understand the storage constraints and layout challenges that come with them."
+    },
+    {
+      "question": "Can you quote a single room rather than a full renovation?",
+      "answer": "Yes. We take on single-room scopes including kitchens, wardrobes and bathroom vanities, as well as broader multi-room fitouts."
+    },
+    {
+      "question": "Do you work in rental investment properties as well as owner-occupied homes?",
+      "answer": "Yes. We can tailor the brief and materials to suit investment property budgets or owner-occupier finishes."
+    },
+    {
+      "question": "How long does a kitchen renovation typically take?",
+      "answer": "Most kitchen renovations are completed within two to three weeks once the scope and materials are confirmed. We can give a more specific timeline once we have reviewed your brief."
+    }
+  ],
+  "ctaText": "If your Kensington home needs a kitchen renovation, new wardrobes or smarter joinery, send through your brief and we can help shape the right approach."
+}

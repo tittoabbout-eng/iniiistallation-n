@@ -1,0 +1,39 @@
+{
+  "slug": "redfern",
+  "name": "Redfern",
+  "region": "Inner City",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Compact joinery and kitchen renovation reference suited to Redfern terrace homes and apartments",
+  "metaTitle": "Custom Joinery & Renovations Redfern | InsideOut Joinery & Renos",
+  "metaDescription": "Redfern custom joinery and renovation services for terraces, apartments and compact homes. Kitchens, wardrobes and storage. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Redfern has changed significantly in the past decade — older terrace homes have been renovated thoughtfully, new apartment developments have added to the housing mix, and the suburb now attracts owners who want their home to reflect how they actually want to live. That usually translates into a kitchen that is properly resolved, storage that is built rather than bought, and a bathroom that has been properly rebuilt rather than cosmetically patched.",
+  "localContext": "In terrace homes particularly, joinery is often the biggest opportunity — a kitchen that opens better, a hallway that hides coats and bags, or a bedroom wall that holds an entire wardrobe without losing the room. The constraint is the brief, not the budget.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst project is a directly relevant reference for Redfern terrace work — same inner-city context, same compact home planning challenges and the same approach to concealed storage and clean material direction.",
+  "whyChoose": [
+    "Inner-city joinery experience for terrace homes, apartments and compact properties",
+    "Kitchen and wardrobe solutions for homes where space is at a premium",
+    "Concealed storage and integrated cabinetry to make tighter floor plans work harder",
+    "Transparent quoting and a clear process from first contact to completion"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchen renovations in Redfern?",
+      "answer": "Yes. We quote kitchen renovations and custom joinery for terrace homes, apartments and properties throughout Redfern and the inner city."
+    },
+    {
+      "question": "Can you add storage to a terrace without changing the layout?",
+      "answer": "Yes. Custom built-in joinery along walls, in alcoves, under stairs and in hallways can add significant storage without any structural changes."
+    },
+    {
+      "question": "Are you able to quote a bathroom renovation in a terrace?",
+      "answer": "Yes. Bathroom renovations in older terrace homes are a regular part of our work. We manage the waterproofing, tiling and joinery scope including vanities and storage."
+    },
+    {
+      "question": "How do I get a quote started?",
+      "answer": "Photos of the existing space and a short description of what you want to change are enough to get started. We will review and come back with questions before arranging a site visit."
+    }
+  ],
+  "ctaText": "If your Redfern terrace or apartment is ready for a kitchen renovation, better wardrobes or smarter storage throughout, send us your brief and we can help."
+}

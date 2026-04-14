@@ -1,0 +1,39 @@
+{
+  "slug": "bronte",
+  "name": "Bronte",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Custom kitchen and joinery reference suited to Bronte coastal homes and renovations",
+  "metaTitle": "Custom Joinery & Renovations Bronte | InsideOut Joinery & Renos",
+  "metaDescription": "Bronte custom joinery and renovation services for coastal homes, terraces and apartments. Kitchens, wardrobes and bathrooms. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Bronte attracts owners who care about how their home looks and functions — and who know the difference between renovation work that is done properly and work that just looks like it is. In a suburb where properties are tightly held and highly valued, the joinery brief usually comes down to getting more out of the kitchen, resolving a bathroom that has not been touched in years, or adding wardrobe and storage space that actually solves the problem.",
+  "localContext": "Good joinery in a Bronte home needs to respect what makes the property work — often older bones with good bones — while lifting the practical side of daily living without trying to turn it into something it is not.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst project shows the type of controlled, purposeful joinery that tends to suit Bronte homes — where materials are chosen carefully and layouts are driven by how the space is actually used rather than how it photographs.",
+  "whyChoose": [
+    "Kitchen, wardrobe and bathroom joinery for coastal Eastern Suburbs homes",
+    "Renovation experience in terrace and semi-detached homes",
+    "Material and finish direction suited to homes near the coast",
+    "Honest scoping and quoting without padding or unnecessary extras"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchen renovations in Bronte?",
+      "answer": "Yes. We quote kitchen renovations, custom cabinetry and full joinery fitouts for homes across Bronte and the surrounding Eastern Suburbs."
+    },
+    {
+      "question": "Can you renovate a bathroom in a terrace or semi-detached home?",
+      "answer": "Yes. Bathroom renovations in older home types are a regular part of our work. We understand the specific challenges around waterproofing, layout and plumbing in heritage-era homes."
+    },
+    {
+      "question": "What is included in a kitchen renovation quote?",
+      "answer": "Our quotes cover cabinetry, benchtop, hardware, installation and coordination of any trade work needed. We can also include appliance supply at trade pricing."
+    },
+    {
+      "question": "How do I start a project with InsideOut?",
+      "answer": "Send us photos of the existing space and a brief description of what you want to achieve. We can review the scope and follow up with questions before booking a site visit."
+    }
+  ],
+  "ctaText": "If your Bronte home is ready for a kitchen renovation, a bathroom rebuild or new wardrobes, send us your brief and we can help map out the right scope."
+}

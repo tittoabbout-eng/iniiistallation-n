@@ -1,0 +1,39 @@
+{
+  "slug": "woollahra",
+  "name": "Woollahra",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Premium custom joinery and kitchen renovation reference suited to Woollahra homes",
+  "metaTitle": "Custom Joinery & Renovations Woollahra | InsideOut Joinery & Renos",
+  "metaDescription": "Woollahra custom joinery and renovation services for premium homes and apartments. Kitchens, wardrobes, bathrooms and bespoke storage. Free quotes. Call us today.",
+  "intro": "Woollahra homes are often renovation projects where the brief calls for joinery that is genuinely premium — not premium in a brochure sense, but in the sense that proportions are right, materials are chosen carefully, and the finished result feels like it was always part of the building. In a suburb of federation homes, Victorian terraces and prestige apartments, joinery that does not meet that standard is immediately noticeable.",
+  "localContext": "We approach Woollahra projects with a higher level of detail at the design stage — thinking carefully about how cabinetry sits within cornicing and architraves, how benchtop edges relate to existing surfaces, and how finish selections hold up against the quality of the surrounding renovation.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst project demonstrates the kind of considered material direction and careful detailing that suits Woollahra renovation work — where the joinery needs to integrate with an existing premium interior rather than compete with it.",
+  "whyChoose": [
+    "Premium joinery planned to integrate with high-quality existing interiors",
+    "Kitchen, wardrobe and bathroom experience in prestige Eastern Suburbs homes",
+    "Careful material and finish selection that suits heritage and contemporary renovation alike",
+    "Attention to detail in installation tolerances, cornicing integration and hardware specification"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on kitchen renovations in Woollahra?",
+      "answer": "Yes. We take on kitchen renovations, custom joinery and full renovation scopes for homes, terraces and apartments in Woollahra and surrounding Eastern Suburbs."
+    },
+    {
+      "question": "Can you match existing joinery in an older heritage-style home?",
+      "answer": "Yes. We can match profile, finish direction and hardware specification to complement existing joinery in federation or period homes."
+    },
+    {
+      "question": "Do you work with interior designers and architects on joint projects?",
+      "answer": "Yes. We are comfortable working alongside architects and designers, following a provided specification or contributing to the design process where that is welcomed."
+    },
+    {
+      "question": "What is your process for a premium kitchen renovation?",
+      "answer": "We start with a detailed brief and site measure, then develop the design through to a 3D render before confirming any materials or pricing. This ensures the result matches the expectation before any work begins."
+    }
+  ],
+  "ctaText": "If your Woollahra home deserves joinery that genuinely suits its quality, we would like to understand the brief and help develop something worth building."
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "bathrooms",
+  "navLabel": "Bathrooms & Bathroom Renovations",
+  "title": "Bathrooms & Bathroom Renovations",
+  "heroImage": "/epping/epping-bathroom.jpg",
+  "heroAlt": "Premium bathroom renovation — vanity, freestanding bath and timber cabinetry",
+  "metaTitle": "Bathroom Renovations Sydney | InsideOut Joinery & Renos",
+  "metaDescription": "Custom bathroom renovations across Sydney. From vanity joinery and storage to full bathroom fitouts — tailored layouts, quality materials and a clear process from start to finish.",
+  "intro": "A bathroom renovation done well is about more than new tiles. It is about getting the layout right, choosing materials that hold up over time, and making sure the joinery and fixtures work together so the finished room feels resolved rather than assembled. We manage bathroom projects from design through to completion, or we can work from your existing design and handle the build.",
+  "includedTitle": "What a bathroom project can include",
+  "included": [
+    "Custom vanity joinery designed around the room dimensions and your storage needs",
+    "Layout planning to maximise space efficiency without compromising on feel",
+    "Tile selection guidance and coordination with tilers for floor and wall finishes",
+    "Tapware and bathroom fixtures chosen to complement the overall design",
+    "Full renovation management from demolition through to final handover",
+    "Focused fitout work for clients who have a design and need a reliable builder to execute it"
+  ],
+  "featureBlocks": [
+    {
+      "title": "Measure first, design second",
+      "text": "Every bathroom starts with a thorough measure of the space including windows, doors, niches and any fixed plumbing positions. Getting this right at the start prevents costly decisions later."
+    },
+    {
+      "title": "Materials that last",
+      "text": "Bathrooms take more wear than most rooms in the house. We focus on materials and finishes that hold up to daily use — not just finishes that photograph well on the day of completion."
+    },
+    {
+      "title": "A clear process",
+      "text": "We give clients a start date and a finish date. Our bathroom renovation process follows a structured sequence — measure, layout, tile selection, fixture briefing, then build — so you always know where the project stands."
+    }
+  ],
+  "materialsTitle": "Bathroom finishes clients commonly ask for",
+  "materials": [
+    "Matte and gloss porcelain floor and wall tiles in a range of formats from large-format slabs to smaller feature tiles",
+    "Custom vanity cabinetry in painted polyurethane, timber-look laminates or two-pac finishes",
+    "Stone benchtops and shower niches for a more premium, resolved finish",
+    "Tapware and hardware in matte black, brushed nickel and chrome depending on the design direction"
+  ],
+  "projectSlugs": [
+  "epping"
+],
+"beforeAfter": {
+  "title": "Before & after",
+  "text": "The Epping project shows how vanity joinery, material selection and a resolved layout can transform a bathroom into a space that feels properly finished rather than just refitted.",
+  "before": "/epping/epping-before-1.jpg",
+  "after": "/epping/epping-bathroom.jpg",
+  "beforeAlt": "Epping bathroom before renovation",
+  "afterAlt": "Epping bathroom after renovation — freestanding bath, timber vanity and stone finishes"
+},
+
+  "faqs": [
+    {
+      "question": "Do you manage the full bathroom renovation or just the joinery?",
+      "answer": "Both. We can manage the full renovation from design through to completion including tiling, plumbing coordination and joinery. Or if you have a design and just need a builder to execute it, we can work that way too."
+    },
+    {
+      "question": "How long does a bathroom renovation take?",
+      "answer": "A standard bathroom renovation typically takes three to five weeks. The timeline depends on the size of the room, whether plumbing is being relocated, and the complexity of the tiling and joinery scope."
+    },
+    {
+      "question": "Do I need council approval for a bathroom renovation?",
+      "answer": "Most internal bathroom renovations do not require council approval unless structural walls are being altered or plumbing is being significantly relocated. We recommend checking with your local council if you are unsure about your specific project."
+    },
+    {
+      "question": "Can you work with small bathrooms?",
+      "answer": "Yes. Compact bathrooms benefit most from careful planning. We focus on layout efficiency, smart storage and joinery proportions that make a smaller space feel deliberate rather than cramped."
+    },
+    {
+      "question": "Can you handle both the joinery and coordinate trades like tilers and plumbers?",
+      "answer": "Yes. On full renovation projects we coordinate the trade sequence so the bathroom is built in the right order and the different trades do not create problems for each other."
+    }
+    
+  ],
+  "reviewIds": [
+  "lisa"
+],
+  "ctaTitle": "Planning a bathroom renovation?",
+  "ctaText": "Send your plans, site photos or a description of what you are trying to achieve and we can help scope the work and give you a clear next step."
+}

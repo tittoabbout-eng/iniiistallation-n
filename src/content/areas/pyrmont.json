@@ -1,0 +1,39 @@
+{
+  "slug": "pyrmont",
+  "name": "Pyrmont",
+  "region": "Inner City",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Apartment joinery and kitchen renovation reference suited to Pyrmont high-rise and mid-rise homes",
+  "metaTitle": "Custom Joinery & Renovations Pyrmont | InsideOut Joinery & Renos",
+  "metaDescription": "Pyrmont custom joinery and renovation services for apartments and inner-city homes. Kitchens, wardrobes, bathrooms and smart storage. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Pyrmont is almost entirely an apartment suburb — mid-rise and high-rise buildings on the western edge of the CBD, with harbour views and compact floor plans that make every square metre count. Joinery in this context needs to be genuinely space-efficient: a kitchen that works within a galley or open-plan layout, wardrobes that hold a full wardrobe without taking over the bedroom, and storage that is built into walls rather than added in front of them.",
+  "localContext": "Apartment renovation in Pyrmont also means navigating strata requirements, working within building access constraints and coordinating trades carefully. We handle that side of the process so it does not become the owner's problem to manage.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst fitout is the closest reference for Pyrmont apartment work — compact living, high-density context, and the same requirement for joinery that solves storage problems without making the space feel smaller.",
+  "whyChoose": [
+    "Apartment joinery experience in high-rise and mid-rise buildings",
+    "Kitchen and wardrobe solutions for compact open-plan floor plans",
+    "Strata-aware project management including building access and trade coordination",
+    "Storage that integrates into apartment walls rather than occupying floor space"
+  ],
+  "faqs": [
+    {
+      "question": "Do you renovate apartments in Pyrmont?",
+      "answer": "Yes. Apartment renovations are a core part of our work. We quote kitchen renovations, wardrobes, bathrooms and custom joinery across Pyrmont and the inner city."
+    },
+    {
+      "question": "Can you manage strata requirements for the renovation?",
+      "answer": "Yes. We are familiar with strata renovation processes and can help prepare the relevant documentation, coordinate with the building manager and follow required working hours."
+    },
+    {
+      "question": "How do you handle installation logistics in a high-rise building?",
+      "answer": "We coordinate delivery schedules, lift bookings and waste removal to minimise disruption. We follow building rules and protect common areas throughout the project."
+    },
+    {
+      "question": "Can you replace a kitchen in a small apartment without making it feel more cramped?",
+      "answer": "Yes. Good kitchen joinery in a small apartment is about layout, proportion and light — not about fitting in more cabinetry. We design around the floor plan and the way you actually cook."
+    }
+  ],
+  "ctaText": "If your Pyrmont apartment needs a kitchen renovation, smarter wardrobes or integrated storage, we can help design a solution that works within the floor plan."
+}

@@ -555,12 +555,12 @@
       <image:caption>Completed wardrobe wall in Mosman with oak-look panels and open shelving.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/projects-old/cowles-road-mosman/5.jpg</image:loc>
+      <image:loc>https://insideoutjoinery.au/projects-old/cowles-road-mosman/5.jpeg</image:loc>
       <image:title>Mosman built-in wardrobe with hanging section</image:title>
       <image:caption>Built-in wardrobe in Mosman showing the hanging section and integrated storage.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/projects-old/cowles-road-mosman/6.jpg</image:loc>
+      <image:loc>https://insideoutjoinery.au/projects-old/cowles-road-mosman/6.jpeg</image:loc>
       <image:title>Mosman wardrobe panel and overhead storage detail</image:title>
       <image:caption>Panel and overhead storage detail from the Mosman wardrobe project.</image:caption>
     </image:image>
@@ -730,14 +730,14 @@
       <image:caption>Additional finished joinery detail from the Willoughby renovation showing the consistency of the cabinetry.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-kitchen-detail-1.jpg</image:loc>
+      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-vanity-single.jpg</image:loc>
       <image:title>Willoughby kitchen joinery detail</image:title>
       <image:caption>Vanity storage detail from the Willoughby renovation.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-kitchen-detail-3.jpg</image:loc>
+      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-vanity-double.jpg</image:loc>
       <image:title>Willoughby home joinery fitout detail</image:title>
-      <image:caption>Finished joinery detail showing how the Willoughby fitout ties the rooms together.</image:caption>
+      <image:caption>Double Drawers and double basin with Curved open shelving on both ends along with matching open shelving on top and mirror Storage cabinets .</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://insideoutjoinery.au/willoughby/willoughby-kitchen-wide-after.jpg</image:loc>
@@ -815,11 +815,6 @@
       <image:caption>The wardrobe area before the built-in joinery was installed.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-vanity-double.jpg</image:loc>
-      <image:title>Willoughby vanities joinery detail</image:title>
-      <image:caption>Willoughby Vanities</image:caption>
-    </image:image>
-    <image:image>
       <image:loc>https://insideoutjoinery.au/willoughby/willoughby-laundry-hero.jpg</image:loc>
       <image:title>Willoughby laundry joinery detail</image:title>
       <image:caption>Willoughby Laundry</image:caption>
@@ -827,6 +822,14 @@
   </url>
   <url>
     <loc>https://insideoutjoinery.au/contact</loc>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/bathrooms</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/epping/epping-bathroom.jpg</image:loc>
+      <image:title>Premium bathroom renovation — vanity, freestanding bath and timber cabinetry</image:title>
+      <image:caption>Premium bathroom renovation — vanity, freestanding bath and timber cabinetry</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://insideoutjoinery.au/custom-joinery</loc>
