@@ -848,11 +848,19 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/kitchens</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen renovation with handleless cabinetry and stone benchtop — InsideOut Joinery Sydney</image:title>
+      <image:caption>Custom kitchen renovation with handleless cabinetry and stone benchtop — InsideOut Joinery Sydney</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/laundry</loc>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-laundry-open.jpg</image:loc>
-      <image:title>Concealed laundry joinery with stacked appliances in Darlinghurst</image:title>
-      <image:caption>Concealed laundry joinery with stacked appliances in Darlinghurst</image:caption>
+      <image:loc>https://insideoutjoinery.au/epping/epping-bathroom.jpg</image:loc>
+      <image:title>Custom laundry renovation with built-in cabinetry and stone benchtop — InsideOut Joinery Sydney</image:title>
+      <image:caption>Custom laundry renovation with built-in cabinetry and stone benchtop — InsideOut Joinery Sydney</image:caption>
     </image:image>
   </url>
   <url>
@@ -866,13 +874,21 @@
   <url>
     <loc>https://insideoutjoinery.au/wardrobes</loc>
     <image:image>
-      <image:loc>https://insideoutjoinery.au/services/wardrobes-service-support.jpg</image:loc>
-      <image:title>Custom wardrobe in Coastal Oak finish in Cremorne</image:title>
-      <image:caption>Custom wardrobe in Coastal Oak finish in Cremorne</image:caption>
+      <image:loc>https://insideoutjoinery.au/projects-old/beaumont-hills/after/1.jpeg</image:loc>
+      <image:title>Custom built-in wardrobe with full-height cabinetry and integrated storage — InsideOut Joinery Sydney</image:title>
+      <image:caption>Custom built-in wardrobe with full-height cabinetry and integrated storage — InsideOut Joinery Sydney</image:caption>
     </image:image>
   </url>
   <url>
     <loc>https://insideoutjoinery.au/service-areas</loc>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/annandale</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen and joinery renovation reference suited to Annandale terrace and federation homes</image:title>
+      <image:caption>Custom kitchen and joinery renovation reference suited to Annandale terrace and federation homes</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://insideoutjoinery.au/service-areas/balmain</loc>
@@ -896,6 +912,30 @@
       <image:loc>https://insideoutjoinery.au/projects-old/penkivil-st-willoghby/after/1.jpeg</image:loc>
       <image:title>Premium multi-room joinery reference fitout relevant to Bellevue Hill homes</image:title>
       <image:caption>Premium multi-room joinery reference fitout relevant to Bellevue Hill homes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/bondi-junction</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Apartment kitchen and joinery renovation reference suited to Bondi Junction homes</image:title>
+      <image:caption>Apartment kitchen and joinery renovation reference suited to Bondi Junction homes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/bondi</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Coastal kitchen and joinery renovation reference suited to Bondi apartments and homes</image:title>
+      <image:caption>Coastal kitchen and joinery renovation reference suited to Bondi apartments and homes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/bronte</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen and joinery reference suited to Bronte coastal homes and renovations</image:title>
+      <image:caption>Custom kitchen and joinery reference suited to Bronte coastal homes and renovations</image:caption>
     </image:image>
   </url>
   <url>
@@ -923,6 +963,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/clovelly</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Premium joinery and kitchen cabinetry reference suited to Clovelly coastal homes</image:title>
+      <image:caption>Premium joinery and kitchen cabinetry reference suited to Clovelly coastal homes</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/coogee</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
@@ -936,6 +984,14 @@
       <image:loc>https://insideoutjoinery.au/cremorne/cremorne-hero.jpg</image:loc>
       <image:title>Cremorne custom joinery wardrobes and laundry fitout</image:title>
       <image:caption>Cremorne custom joinery wardrobes and laundry fitout</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/crows-nest</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen and joinery renovation reference suited to Crows Nest apartments and terrace homes</image:title>
+      <image:caption>Custom kitchen and joinery renovation reference suited to Crows Nest apartments and terrace homes</image:caption>
     </image:image>
   </url>
   <url>
@@ -971,6 +1027,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/five-dock</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen and joinery renovation reference suited to Five Dock family homes</image:title>
+      <image:caption>Custom kitchen and joinery renovation reference suited to Five Dock family homes</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/glebe</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/ross-st-glebe/after/1.jpg</image:loc>
@@ -995,6 +1059,22 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/kensington</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Compact kitchen and storage joinery reference suited to Kensington terrace homes and apartments</image:title>
+      <image:caption>Compact kitchen and storage joinery reference suited to Kensington terrace homes and apartments</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/kingsford</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen and storage joinery reference relevant to Kingsford homes and apartments</image:title>
+      <image:caption>Custom kitchen and storage joinery reference relevant to Kingsford homes and apartments</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/lane-cove</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/penkivil-st-willoghby/after/1.jpeg</image:loc>
@@ -1003,11 +1083,43 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/leichhardt</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Kitchen renovation and joinery reference suited to Leichhardt terrace and semi-detached homes</image:title>
+      <image:caption>Kitchen renovation and joinery reference suited to Leichhardt terrace and semi-detached homes</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/lurnea</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/reily-st-lurnea-nsw/2.jpeg</image:loc>
       <image:title>Lurnea kitchen renovation with dark lower cabinets and updated island layout</image:title>
       <image:caption>Lurnea kitchen renovation with dark lower cabinets and updated island layout</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/manly</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Premium coastal kitchen and joinery renovation reference suited to Manly homes and apartments</image:title>
+      <image:caption>Premium coastal kitchen and joinery renovation reference suited to Manly homes and apartments</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/maroubra</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom joinery and kitchen cabinetry reference relevant to Maroubra homes and apartments</image:title>
+      <image:caption>Custom joinery and kitchen cabinetry reference relevant to Maroubra homes and apartments</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/marrickville</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen and joinery renovation reference suited to Marrickville terrace and federation homes</image:title>
+      <image:caption>Custom kitchen and joinery renovation reference suited to Marrickville terrace and federation homes</image:caption>
     </image:image>
   </url>
   <url>
@@ -1043,11 +1155,35 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/newtown</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Terrace home joinery and kitchen renovation reference suited to Newtown homes</image:title>
+      <image:caption>Terrace home joinery and kitchen renovation reference suited to Newtown homes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/paddington</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Custom joinery and kitchen fitout reference suited to Paddington terrace renovations</image:title>
+      <image:caption>Custom joinery and kitchen fitout reference suited to Paddington terrace renovations</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/pemulwuy</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/nijong-drpemulwuy-nsw/5.jpeg</image:loc>
       <image:title>Pemulwuy kitchen remodel with study nook and living-room storage before renovation</image:title>
       <image:caption>Pemulwuy kitchen remodel with study nook and living-room storage before renovation</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/pyrmont</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Apartment joinery and kitchen renovation reference suited to Pyrmont high-rise and mid-rise homes</image:title>
+      <image:caption>Apartment joinery and kitchen renovation reference suited to Pyrmont high-rise and mid-rise homes</image:caption>
     </image:image>
   </url>
   <url>
@@ -1059,11 +1195,35 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/redfern</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Compact joinery and kitchen renovation reference suited to Redfern terrace homes and apartments</image:title>
+      <image:caption>Compact joinery and kitchen renovation reference suited to Redfern terrace homes and apartments</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/rose-bay</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Premium joinery and kitchen renovation reference suited to Rose Bay prestige homes</image:title>
+      <image:caption>Premium joinery and kitchen renovation reference suited to Rose Bay prestige homes</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/rosemeadow</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/archibald-crescent-rosemeadow-nsw/3.jpeg</image:loc>
       <image:title>Rosemeadow kitchen renovation with updated white shaker-style cabinetry</image:title>
       <image:caption>Rosemeadow kitchen renovation with updated white shaker-style cabinetry</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/rozelle</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Premium joinery and kitchen renovation reference suited to Rozelle terrace homes</image:title>
+      <image:caption>Premium joinery and kitchen renovation reference suited to Rozelle terrace homes</image:caption>
     </image:image>
   </url>
   <url>
@@ -1096,6 +1256,22 @@
       <image:loc>https://insideoutjoinery.au/projects-old/penkivil-st-willoghby/after/1.jpeg</image:loc>
       <image:title>Willoughby renovation with custom kitchen, mudroom, wardrobes, vanities and laundry joinery</image:title>
       <image:caption>Willoughby renovation with custom kitchen, mudroom, wardrobes, vanities and laundry joinery</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/woollahra</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Premium custom joinery and kitchen renovation reference suited to Woollahra homes</image:title>
+      <image:caption>Premium custom joinery and kitchen renovation reference suited to Woollahra homes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/zetland</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
+      <image:title>Apartment kitchen and joinery renovation reference suited to Zetland inner city homes</image:title>
+      <image:caption>Apartment kitchen and joinery renovation reference suited to Zetland inner city homes</image:caption>
     </image:image>
   </url>
 </urlset>
