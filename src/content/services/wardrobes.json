@@ -1,76 +1,82 @@
 {
   "slug": "wardrobes",
-  "navLabel": "Wardrobes",
-  "title": "Wardrobes",
-  "heroImage": "/services/wardrobes-service-support.jpg",
-  "heroAlt": "Custom wardrobe in Coastal Oak finish in Cremorne",
-  "metaTitle": "Custom Wardrobes Sydney | InsideOut Joinery & Renos",
-  "metaDescription": "Custom built-in, walk-in, hinged and sliding wardrobes across Sydney with tailored internals, white polyurethane and timber-look finishes, and made-to-measure storage that suits the room properly.",
-  "intro": "A wardrobe should feel planned into the room, not dropped against a wall at the end of the job. We design built-in, walk-in, hinged and sliding wardrobes around how much needs to be stored, how the room opens and what finish will sit comfortably with the rest of the home. The result is cleaner elevations, better internals and storage that works properly every day.",
-  "includedTitle": "Wardrobe solutions we build",
+  "navLabel": "Wardrobes & Custom Storage",
+  "title": "Wardrobes & Custom Storage",
+  "heroImage": "/projects-old/beaumont-hills/after/1.jpeg",
+  "heroAlt": "Custom built-in wardrobe with full-height cabinetry and integrated storage — InsideOut Joinery Sydney",
+  "metaTitle": "Custom Wardrobes Sydney | Built-In & Walk-In | InsideOut Joinery & Renos",
+  "metaDescription": "Custom built-in and walk-in wardrobes across Sydney — designed around your room and what you actually need to store. Free quotes. Call 02 5000 0402.",
+  "intro": "The problem with most wardrobes is not the wardrobe — it is that nobody thought about what was going in it. A flat-pack unit gives you fixed shelf heights and a standard hanging rail. A wardrobe built specifically for your room, your clothes and the way you get dressed in the morning is a completely different thing. We design and build built-in wardrobes, walk-in robes and custom storage across Sydney — starting with what you actually need to store, not with a showroom configuration.",
+  "includedTitle": "What a wardrobe or storage project can include",
   "included": [
-    "Built-in wardrobes sized wall-to-wall and floor-to-ceiling so awkward gaps are not wasted",
-    "Walk-in wardrobe fitouts with hanging, drawers, shelving, accessories and dressing-space planning",
-    "Sliding wardrobes where swing clearance is tight and the room needs a cleaner footprint",
-    "Hinged wardrobes for easier full-access opening and more classic bedroom joinery detailing",
-    "White polyurethane, timber-look and mixed-finish wardrobes designed to suit the home rather than fight it",
-    "Internal layouts tailored to the way you actually store clothing, shoes, linen and day-to-day items"
+    "Built-in wardrobes designed to fill the full height and width of the wall — no gaps at the top, no filler strips at the side",
+    "Walk-in robe fitouts planned around hanging length, folded clothing, shoes and accessories — not just shelves and a rail",
+    "Sliding door systems where swing clearance is tight or the room calls for it",
+    "Bedroom storage walls that combine robe, display shelving and bedside cabinetry into one clean run",
+    "Internal configurations including double hanging, long hanging, shoe racks, drawer banks, pull-out tie storage and jewellery trays",
+    "Joinery integrated with existing cornicing and skirting so it reads as part of the room, not placed into it"
   ],
   "featureBlocks": [
     {
-      "title": "Built-ins that use the room properly",
-      "text": "Made-to-measure wardrobes let you use alcoves, ceiling height and awkward wall lengths much more effectively than freestanding storage or modular inserts."
+      "title": "Start with what goes in it",
+      "text": "Before we talk about door profiles or handle styles, we ask what you actually need to store. How many hanging items? How much folded clothing? Shoes, bags, suits, kids' clothes? The answers shape the internal layout — and the internal layout is what makes a wardrobe either genuinely useful or just a better-looking version of what you had before."
     },
     {
-      "title": "Walk-in, hinged or sliding",
-      "text": "The right wardrobe format depends on the room. Some spaces need full hinged access, some benefit from sliding doors and others deserve a walk-in layout with a stronger dressing-room feel."
+      "title": "Built to the room, not to a module",
+      "text": "A wardrobe that fills the full wall height and sits flush with the ceiling looks like it was always part of the house. A wardrobe built to a standard module height with a gap at the top looks like it was purchased and placed. The difference is visible immediately and affects how the room feels. We build to the actual dimensions of your room — ceiling height, cornicing, sloped ceilings, awkward walls and all."
     },
     {
-      "title": "Internals matter as much as doors",
-      "text": "Drawers, shelf spacing, double hanging, longer hanging zones and accessory storage all make a bigger difference than most people expect. We plan the inside so the outside actually works."
+      "title": "Walk-in robes that work as a room",
+      "text": "The walk-in robes that feel genuinely good to use are the ones where the lighting is right, the hanging heights are set for the person using them, and there is a logical flow between sections. We plan walk-ins with the same level of detail we apply to a kitchen layout — because the same logic applies. Get the brief right, and the space works every single day."
     }
   ],
-  "materialsTitle": "Wardrobe finishes and layout options",
+  "materialsTitle": "Finishes we work with regularly",
   "materials": [
-    "White polyurethane for a crisp built-in wardrobe that sits quietly in the room",
-    "Timber-look finishes such as Coastal Oak where warmth and texture are important",
-    "Mixed hanging, shelving, drawers and accessory zones tailored to the room and wardrobe type",
-    "Door formats and handle details chosen to suit both the layout and the wider home style"
+    "Two-pac polyurethane doors in matte or satin — the cleanest, most durable painted finish for bedroom joinery",
+    "Timber veneer and timber-look laminate for warmth in rooms where white cabinetry would feel cold",
+    "Shaker door profiles for homes where a more classic or period-sympathetic look is right",
+    "Frameless and profile-framed sliding door systems in a range of configurations and glass insert options",
+    "Soft-close hinges and drawer runners as standard — not an upgrade",
+    "Integrated LED strip lighting inside robes and under overhead cabinetry so the space is actually usable at night",
+    "Brushed nickel, matte black and chrome handles to suit the room's existing hardware direction"
   ],
   "projectSlugs": [
     "willoughby",
-    "darlinghurst",
-    "cremorne-project"
+    "beaumont-hills-home-renovation"
   ],
   "beforeAfter": {
     "title": "Before & after",
-    "text": "Willoughby shows how an underused bedroom wall can become fitted storage that feels like part of the architecture once the wardrobe layout and finish are properly resolved.",
-    "before": "/willoughby/willoughby-wardrobe-before-2.jpg",
-    "after": "/willoughby/willoughby-wardrobe-after.jpg",
-    "beforeAlt": "Willoughby bedroom wall before custom wardrobe installation",
-    "afterAlt": "Willoughby custom wardrobe after installation with timber-look finish"
+    "text": "The Beaumont Hills project shows what happens when bedroom storage is treated as a design problem rather than a box-ticking exercise. Same room — completely different experience.",
+    "before": "/projects-old/beaumont-hills/before/1.jpeg",
+    "after": "/projects-old/beaumont-hills/after/1.jpeg",
+    "beforeAlt": "Beaumont Hills bedroom before — existing storage",
+    "afterAlt": "Beaumont Hills bedroom after — custom built-in wardrobe and integrated storage wall"
   },
   "faqs": [
     {
-      "question": "Do you do built-in and walk-in wardrobes?",
-      "answer": "Yes. We build both built-in wardrobes and full walk-in fitouts depending on the room and the storage brief."
+      "question": "What is the difference between a built-in wardrobe and a walk-in robe?",
+      "answer": "A built-in wardrobe sits within the bedroom — doors close across the front, and you access it from outside the cabinetry. A walk-in robe is a dedicated space you step into, typically open-fronted, where everything is visible and accessible at once. Both are built to your exact dimensions and storage requirements."
     },
     {
-      "question": "Can you customise the internals?",
-      "answer": "Absolutely. Drawer layouts, shelving heights, double hanging, long hanging and accessory storage can all be tailored."
+      "question": "How much does a custom built-in wardrobe cost?",
+      "answer": "A single-bay built-in wardrobe starts from around $3,000 to $5,000 depending on size, door style and internal fitout. Walk-in robes vary more depending on the room size and how detailed the internal layout needs to be. We quote each job specifically — there is no useful ballpark without knowing what the space is."
     },
     {
-      "question": "Can wardrobes match other joinery in the home?",
-      "answer": "Yes. We can align wardrobe finishes with nearby vanities, bedroom joinery or the broader fitout if you want a more cohesive result."
+      "question": "Can you build a wardrobe in a room with a sloped ceiling or unusual shape?",
+      "answer": "That is exactly the kind of problem custom joinery is built for. Flat-pack wardrobes cannot deal with sloped ceilings, low beams or odd wall angles. We measure the actual space and build around it."
     },
     {
-      "question": "What suburbs do you service for wardrobe projects?",
-      "answer": "We work across Sydney, including the Lower North Shore, Eastern Suburbs, Inner West and Hills District."
+      "question": "Do you do the installation as well as the build?",
+      "answer": "Yes. We design, build and install everything. One team from start to finish."
+    },
+    {
+      "question": "Can you match a new wardrobe to existing joinery already in the house?",
+      "answer": "Yes. If there is joinery elsewhere in the home we are working around — a kitchen, a bathroom vanity, built-in shelving — we can match door profiles, finishes and hardware so the new wardrobe feels consistent rather than added later."
     }
   ],
   "reviewIds": [
     "lisa"
   ],
-  "ctaTitle": "Need a wardrobe that fits the room properly?",
-  "ctaText": "Tell us whether you are planning a built-in, walk-in, hinged or sliding wardrobe and we can help shape the right layout, finish and next step."
+  "ctaTitle": "Want a wardrobe that actually works?",
+  "ctaText": "Tell us the room dimensions, what you need to store and what is not working about the current setup. We will come back with a layout and a quote."
 }

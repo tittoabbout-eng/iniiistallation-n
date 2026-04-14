@@ -1,0 +1,86 @@
+{
+  "slug": "kitchens",
+  "navLabel": "Kitchens & Kitchen Renovations",
+  "title": "Kitchens & Kitchen Renovations",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Custom kitchen renovation with handleless cabinetry and stone benchtop — InsideOut Joinery Sydney",
+  "metaTitle": "Kitchen Renovations Sydney | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchen renovations across Sydney. Proper layouts, quality cabinetry and trade-cost appliances — all managed end to end. Free quotes. Call 02 5000 0402.",
+  "intro": "Most kitchens that need renovating have the same problems — not enough bench space, storage in the wrong spots, a layout that made sense to whoever built it 20 years ago but not to the people using it now. We fix that. Every kitchen we build starts with how you actually cook and how the room actually sits in the house, not with a catalogue of finishes. Get the layout right first, and everything else follows.",
+  "includedTitle": "What we can take care of",
+  "included": [
+    "Custom cabinetry built to the exact dimensions of your kitchen — no fillers, no wasted corners",
+    "3D design renders before anything is ordered or touched, so you can see the result and change what you want",
+    "Benchtops in stone, porcelain, timber or laminate — we will tell you honestly what suits the space and the budget",
+    "Appliances sourced at trade cost and installed as part of the job — ovens, cooktops, rangehoods, dishwashers, integrated fridges",
+    "Splashback, lighting and hardware sorted so you are not chasing three separate suppliers",
+    "Full project management from demolition through to the day you start using it — or we can work from your existing design if you prefer"
+  ],
+  "featureBlocks": [
+    {
+      "title": "The layout has to work before anything else",
+      "text": "Where your sink sits relative to the cooktop and the fridge matters more than the colour of your doors. It sounds obvious, but a lot of kitchen renovations skip this part and go straight to finishes. We spend time on the layout first — bench run, storage positions, how the kitchen connects to the room around it — because a kitchen that works well on a Tuesday is more valuable than one that looked good in a render."
+    },
+    {
+      "title": "You see it in 3D before we order anything",
+      "text": "Every kitchen goes through a 3D design stage before materials are confirmed or any work begins. This is not a sales tool — it is how we catch problems early. You can review door profiles, benchtop colour, handle position and proportion in context and ask for changes when they cost nothing to make. The render is a working document, not a presentation."
+    },
+    {
+      "title": "Appliances without the markup",
+      "text": "We buy appliances at trade pricing and pass that on. Whether you want a basic 60cm oven or a fully integrated fridge, we can source and install it as part of the project. It is cheaper for you and easier for everyone — one point of contact rather than three."
+    }
+  ],
+  "materialsTitle": "Finishes and materials we work with regularly",
+  "materials": [
+    "Two-pac polyurethane in matte or satin — the most durable painted finish for cabinetry and worth the extra cost on a kitchen",
+    "Timber veneer and timber-look laminate for warmth, especially in kitchens that open to a living area",
+    "Porcelain slab benchtops — now the mainstream alternative to engineered stone and available in excellent quality",
+    "Natural stone for clients who want the real thing — marble, granite and travertine all have different maintenance profiles we will explain honestly",
+    "Laminate benchtops in a wide range of colours and textures — still a strong result at a sensible budget",
+    "Handleless profiles and integrated pulls for a clean look, or shaker doors if the house calls for something more classic",
+    "Matte black, brushed brass and brushed nickel hardware — we will help you choose based on what does not date quickly"
+  ],
+  "projectSlugs": [
+    "willoughby",
+    "darlinghurst"
+  ],
+  "beforeAfter": {
+    "title": "Before & after",
+    "text": "The Darlinghurst project is a good example of what careful layout planning does in a compact kitchen. The footprint did not change — the thinking did.",
+    "before": "/darlinghurst/darlinghurst-before-kitchen.jpg",
+    "after": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+    "beforeAlt": "Darlinghurst kitchen before renovation",
+    "afterAlt": "Darlinghurst kitchen after renovation — custom cabinetry, stone benchtop and integrated appliances"
+  },
+  "faqs": [
+    {
+      "question": "How much does a kitchen renovation cost in Sydney?",
+      "answer": "A mid-range kitchen renovation in Sydney usually sits between $25,000 and $55,000. The main variables are how much of the layout changes, what benchtop material you choose, and whether appliances are included. We give you a detailed quote after looking at the brief — no ballpark figures that blow out later."
+    },
+    {
+      "question": "How long will we be without a kitchen?",
+      "answer": "Most kitchens take two to three weeks from the day we start demolition to the day you are cooking in it. Kitchens with structural changes or complex plumbing relocation take longer. We give you a realistic start-to-finish timeline before any work begins."
+    },
+    {
+      "question": "Do you manage the whole job or just the cabinetry?",
+      "answer": "We can do both. On most projects we manage everything — demolition, electrical, plumbing, tiling, cabinetry and installation — so you have one contact for the whole job. If you have a design you want us to build from, we can work that way too."
+    },
+    {
+      "question": "Can I see what it will look like before you start?",
+      "answer": "Yes, always. We do not order materials or start work until you have signed off on the 3D design. The render shows the full kitchen — cabinetry, benchtop, handles and appliances — so there are no surprises on the day."
+    },
+    {
+      "question": "Do you supply the appliances or do I organise that separately?",
+      "answer": "We can supply appliances at trade cost and install them as part of the project. Most clients find this easier and cheaper than buying retail and coordinating installation separately."
+    },
+    {
+      "question": "Can you renovate a really small kitchen?",
+      "answer": "Small kitchens are often where the thinking matters most. The less space you have, the more carefully the layout and storage need to be planned. We have done plenty of compact kitchens — the brief just requires more problem-solving upfront."
+    }
+  ],
+  "reviewIds": [
+    "rebekkah"
+  ],
+  "ctaTitle": "Ready to fix your kitchen?",
+  "ctaText": "Send us a photo of the existing space and a rough idea of what you want to change. We will come back with a scope and a realistic quote — no pressure, no obligation."
+}

@@ -1,77 +1,81 @@
 {
   "slug": "laundry",
-  "navLabel": "Laundry",
-  "title": "Laundry",
-  "heroImage": "/darlinghurst/darlinghurst-laundry-open.jpg",
-  "heroAlt": "Concealed laundry joinery with stacked appliances in Darlinghurst",
-  "metaTitle": "Laundry Joinery Sydney | InsideOut Joinery & Renos",
-  "metaDescription": "Laundry joinery across Sydney for concealed laundries, compact utility rooms, stacked appliances, stone benchtops, moisture-resistant cabinetry and better day-to-day storage.",
-  "intro": "Laundry joinery works best when it is compact, durable and easy to use. Whether the laundry is a dedicated room or a hidden utility zone inside another space, the cabinetry needs to handle appliance sizing, ventilation, cleaning storage, bench space and daily wear without feeling bulky or makeshift.",
-  "includedTitle": "Laundry joinery we regularly build",
+  "navLabel": "Laundry Renovations",
+  "title": "Laundry Renovations",
+  "heroImage": "/epping/epping-bathroom.jpg",
+  "heroAlt": "Custom laundry renovation with built-in cabinetry and stone benchtop — InsideOut Joinery Sydney",
+  "metaTitle": "Laundry Renovations Sydney | Custom Joinery | InsideOut Joinery & Renos",
+  "metaDescription": "Custom laundry renovations across Sydney. Proper storage, stone benchtops and cabinetry built for daily use. Free quotes. Call InsideOut Joinery on 02 5000 0402.",
+  "intro": "The laundry gets used every day and renovated almost never. Most of the laundries we walk into are the same — washing machine on one side, not enough bench space, nowhere logical to put anything, and cabinetry that has been collecting moisture damage for a decade. A well-designed laundry does not need to be large to work well. It needs the right amount of bench, the right storage, and joinery that is built to handle the conditions. We can fix yours.",
+  "includedTitle": "What we can take care of",
   "included": [
-    "Concealed laundries for apartments, hallways or multi-use rooms where the utility zone needs to close away neatly",
-    "Cabinetry for stacked washer and dryer layouts, side-by-side appliances and integrated tall storage",
-    "Moisture-resistant cabinetry, stone benchtops and finishes chosen for harder daily use",
-    "Overhead storage, broom cupboards, hamper storage and folding surfaces sized to the room",
-    "Laundry layouts that improve appliance access, door swings and circulation in tight footprints",
-    "Joinery that can tie into adjoining kitchens, mudrooms or bathrooms when the rooms need to feel connected"
+    "Custom overhead and under-bench cabinetry designed around the actual dimensions of your laundry",
+    "Appliance bays for front-loader or top-loader configurations — side by side or stacked depending on what the space allows",
+    "Stone or laminate benchtops on moisture-resistant substrate built for a room that gets wet",
+    "Trough selection and plumbing coordination so the finished layout works with your existing service positions or the new ones",
+    "Integrated ironing board storage, pull-out hamper drawers and linen cupboard sections where the brief calls for it",
+    "Concealed cabinetry for homes where the laundry doubles as a mudroom or entry storage area"
   ],
   "featureBlocks": [
     {
-      "title": "Hidden laundry planning",
-      "text": "A concealed laundry only feels easy to live with when the doors open fully, the appliance clearances are right and the bench space is still useful. We plan those details from the start."
+      "title": "More bench space than you think you need",
+      "text": "Ask anyone who has renovated a laundry what they would do differently and the answer is almost always: more bench. It is used for sorting, folding, treating stains, putting things down while you load the machine. We plan bench runs generously and make sure the height works for the people using it — not just for the standard cabinet module underneath."
     },
     {
-      "title": "Compact but hard-working",
-      "text": "Many Sydney laundries are small, so every shelf, tower and benchtop has to earn its place. The goal is not to fill the room with cupboards. It is to make the room genuinely more usable."
+      "title": "Joinery that handles moisture",
+      "text": "A laundry takes more moisture than almost any other room in the house. Substrate choice, finish type and how cabinets are sealed at the base all affect how long the joinery lasts. We do not cut corners here because the problems show up fast — within a couple of years of a poorly specified laundry fitout you will start to see swelling, warping and peel. We use materials and methods that hold up."
     },
     {
-      "title": "Better finishes for wet areas",
-      "text": "Laundry cabinetry needs a tougher finish than a styling exercise. We choose materials, handles and layouts that stand up to moisture, cleaning products and daily family use."
+      "title": "Small room, lots of decisions",
+      "text": "Laundries are small and almost every decision in a small room matters. Where the trough sits relative to the machine, whether you have a single deep drawer or two shallower ones, whether the overhead cabinets go full height or leave a shelf gap — these are the details that make the difference between a laundry that is good to use and one that is just better looking than what was there before."
     }
   ],
-  "materialsTitle": "Laundry details clients often ask for",
+  "materialsTitle": "What we typically spec in a laundry fitout",
   "materials": [
-    "Moisture-resistant cabinetry and durable internal hardware suited to wet utility spaces",
-    "Stone or stone-look benchtops where a stronger folding and utility surface is needed",
-    "Pocketing or hinged concealment details where the laundry sits inside another room",
-    "Appliance towers, tall storage and overhead cupboards to maximise limited floor space"
+    "Moisture-resistant board substrate as the base for all cabinetry — not standard MDF, which fails quickly in wet environments",
+    "Two-pac polyurethane or high-pressure laminate door finishes, both of which handle humidity well",
+    "Stone benchtops for clients who want a premium finish and a surface that does not stain or warp",
+    "Laminate benchtops in a solid colour or stone-look finish — a practical choice for laundries where budget is better spent elsewhere",
+    "Stainless steel or stone laundry troughs in undermount and freestanding configurations",
+    "Soft-close cabinetry hardware as standard — hinges and drawer runners that do not rattle or slam in a room that gets daily use"
   ],
   "projectSlugs": [
-    "darlinghurst",
-    "willoughby",
     "epping",
-    "cremorne-project"
+    "willoughby"
   ],
   "beforeAfter": {
     "title": "Before & after",
-    "text": "The Darlinghurst concealed laundry shows how an exposed utility nook can be wrapped in joinery so it opens properly when needed and disappears cleanly when the doors are closed.",
-    "before": "/darlinghurst/darlinghurst-laundry-before.jpg",
-    "after": "/darlinghurst/darlinghurst-laundry-open.jpg",
-    "beforeAlt": "Darlinghurst exposed laundry nook before concealed joinery",
-    "afterAlt": "Darlinghurst concealed laundry after joinery installation"
+    "text": "The Epping project included a laundry fitout that turned an underused, poorly planned room into proper functional storage. Same footprint — completely different daily experience.",
+    "before": "/epping/epping-before-1.jpg",
+    "after": "/epping/epping-bathroom.jpg",
+    "beforeAlt": "Epping laundry before renovation",
+    "afterAlt": "Epping laundry after renovation — custom cabinetry, stone benchtop and organised storage"
   },
   "faqs": [
     {
-      "question": "Can you build a laundry in a very small space?",
-      "answer": "Yes. Compact laundries and concealed utility zones are often where custom joinery is most valuable."
+      "question": "How much does a laundry renovation cost?",
+      "answer": "Most laundry renovations sit between $5,000 and $15,000 depending on the size of the room, the benchtop material and whether plumbing needs to move. We give you a detailed quote after seeing the brief — the range is wide because laundries vary a lot."
     },
     {
-      "question": "Can washers and dryers be stacked or hidden?",
-      "answer": "Yes. We can plan stacked towers, hidden appliance cupboards and layouts that keep the room practical without looking crowded."
+      "question": "How long does a laundry renovation take?",
+      "answer": "Most laundry fitouts are completed in one to three weeks. If plumbing is being relocated or the room is being fully stripped and rebuilt, add a bit more time. We give you a clear timeline before starting."
     },
     {
-      "question": "Do you include stone benchtops and splashback coordination?",
-      "answer": "Yes. Where the brief calls for it, we can design the laundry joinery to suit stone benchtops and a more finished material schedule."
+      "question": "Can you work with an existing trough position, or do you move it?",
+      "answer": "Both. We can design the layout around your existing plumbing to keep costs down, or we can move the trough and waste if a different position makes more sense for how the room should work. We will tell you honestly which approach suits your situation."
     },
     {
-      "question": "Can laundry work be part of a broader renovation?",
-      "answer": "Definitely. Many clients include the laundry alongside kitchen, wardrobe or wider renovation work so the detailing stays consistent."
+      "question": "Can the laundry also work as a mudroom or storage for the entry?",
+      "answer": "Yes — this is a common brief, particularly in homes where the laundry is near the back door. We can integrate coat hooks, shoe storage, bag shelving and utility cabinetry into the same fitout so the space handles more than just washing."
+    },
+    {
+      "question": "Do you manage the plumbing as part of the project?",
+      "answer": "Yes. We coordinate the plumber as part of the renovation so the cabinetry and service positions are sequenced correctly. You do not need to separately organise a plumber and then a joiner."
     }
   ],
   "reviewIds": [
     "rebekkah"
   ],
-  "ctaTitle": "Upgrading a laundry or hidden utility zone?",
-  "ctaText": "Send through your current laundry photos or plans and we can help map out a cleaner layout, better storage and the right joinery scope."
+  "ctaTitle": "Time to fix your laundry?",
+  "ctaText": "Send us a photo of the existing space and tell us what is not working. We will scope the job and quote it properly — no guesswork."
 }
