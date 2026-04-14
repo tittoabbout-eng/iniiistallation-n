@@ -1,0 +1,39 @@
+{
+  "slug": "zetland",
+  "name": "Zetland",
+  "region": "Inner City",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Apartment kitchen and joinery renovation reference suited to Zetland inner city homes",
+  "metaTitle": "Custom Joinery & Renovations Zetland | InsideOut Joinery & Renos",
+  "metaDescription": "Zetland custom joinery and renovation services for apartments and inner-city homes. Kitchens, wardrobes and smart storage. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Zetland has transformed over the past decade into one of Sydney's most active inner-city apartment markets — young professionals, couples and investors who want modern living close to the CBD. In a suburb built almost entirely around apartment living, joinery needs to solve the compact-space problem: a kitchen that works within an open-plan layout, wardrobes that hold a full wardrobe without dominating the bedroom, and storage built into walls rather than placed in front of them.",
+  "localContext": "Apartment renovation in Zetland also means understanding strata processes, managing building access efficiently and delivering work that meets the expectations of owners who have invested heavily in the property itself.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst fitout is a directly relevant reference for Zetland apartment work — compact urban living, open-plan kitchen planning and integrated storage that maximises the available space.",
+  "whyChoose": [
+    "Apartment joinery experience for inner-city open-plan floor plans",
+    "Kitchen renovations designed to work within compact and galley-style layouts",
+    "Integrated wardrobe and storage solutions that maximise every square metre",
+    "Strata-aware project management and building access coordination"
+  ],
+  "faqs": [
+    {
+      "question": "Do you renovate kitchens in Zetland apartments?",
+      "answer": "Yes. We quote kitchen renovations, wardrobe fitouts and custom joinery for apartments across Zetland and the surrounding inner city."
+    },
+    {
+      "question": "Can you manage strata requirements for the renovation?",
+      "answer": "Yes. We handle strata documentation, building manager coordination and working hour compliance as part of the apartment renovation process."
+    },
+    {
+      "question": "Can you replace a kitchen in a small open-plan apartment without making it feel cramped?",
+      "answer": "Yes. Compact kitchen design is about layout efficiency and proportion, not adding more cabinetry. We design around how the kitchen is actually used and what the floor plan allows."
+    },
+    {
+      "question": "Do you work on investment property renovations as well as owner-occupied apartments?",
+      "answer": "Yes. We can tailor the scope and materials to suit investment property budgets or premium owner-occupier finishes depending on the brief."
+    }
+  ],
+  "ctaText": "If your Zetland apartment needs a kitchen renovation, better wardrobes or integrated storage, we can help design a solution that works within the floor plan."
+}

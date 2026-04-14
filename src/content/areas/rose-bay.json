@@ -1,0 +1,39 @@
+{
+  "slug": "rose-bay",
+  "name": "Rose Bay",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Premium joinery and kitchen renovation reference suited to Rose Bay prestige homes",
+  "metaTitle": "Custom Joinery & Renovations Rose Bay | InsideOut Joinery & Renos",
+  "metaDescription": "Rose Bay custom joinery and renovation services for prestige homes and apartments. Premium kitchens, wardrobes and bathrooms. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Rose Bay is one of the Eastern Suburbs' most prestigious addresses — harbourfront homes, large family properties and premium apartment buildings where renovation investment is expected to reflect the calibre of the surrounding real estate. Joinery in this context needs to be genuinely excellent: proportions resolved carefully, materials chosen for how they age, and workmanship that meets the standard of the overall interior.",
+  "localContext": "We approach Rose Bay projects with a higher level of design consideration at every stage — thinking about how cabinetry integrates with the architecture, how finish selections read in different lighting conditions, and how the result holds up over years of daily use rather than just looking good at handover.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "While the Darlinghurst project is smaller in scale, it demonstrates the quality of material thinking and installation detail we bring to all projects including Rose Bay, where the expectation for finish and precision is high.",
+  "whyChoose": [
+    "Premium joinery experience for prestige Eastern Suburbs homes and apartments",
+    "Kitchen, wardrobe and bathroom renovation with a high standard of finish and detail",
+    "Material selection guided by longevity and integration with existing interiors",
+    "A process that involves close collaboration from brief through to installation"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on premium kitchen renovations in Rose Bay?",
+      "answer": "Yes. We take on kitchen renovations, custom joinery and full renovation scopes for prestige homes, waterfront properties and apartments in Rose Bay and the Eastern Suburbs."
+    },
+    {
+      "question": "Can you work with an architect or interior designer on a joint project?",
+      "answer": "Yes. We are experienced working alongside architects, designers and project managers, either following a provided specification or contributing to the design process."
+    },
+    {
+      "question": "What sets premium joinery apart from standard renovation cabinetry?",
+      "answer": "Primarily resolution — how cabinets sit within the room, how tolerances are managed at corners and junctions, how hardware is specified, and how the finished result holds up at close range over time."
+    },
+    {
+      "question": "Do you provide 3D renders before committing to a kitchen design?",
+      "answer": "Yes. For kitchen renovations we develop the design through to a 3D render before confirming materials or pricing, so the result matches the expectation before any work begins."
+    }
+  ],
+  "ctaText": "If your Rose Bay home deserves a kitchen renovation or joinery scope that genuinely reflects its quality, we would like to understand the brief and help develop the right approach."
+}

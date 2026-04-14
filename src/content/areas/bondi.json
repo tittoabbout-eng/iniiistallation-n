@@ -1,0 +1,39 @@
+{
+  "slug": "bondi",
+  "name": "Bondi",
+  "region": "Eastern Suburbs",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Coastal kitchen and joinery renovation reference suited to Bondi apartments and homes",
+  "metaTitle": "Custom Joinery & Renovations Bondi | InsideOut Joinery & Renos",
+  "metaDescription": "Bondi custom joinery and renovation services for coastal homes and apartments. Kitchens, wardrobes, bathrooms and storage. Free quotes. Call InsideOut Joinery today.",
+  "intro": "Bondi is arguably Sydney's most recognisable suburb — and its renovation market reflects that. Apartments, terrace conversions and freestanding homes all command strong prices, and owners here consistently invest in quality renovation work to match the lifestyle the suburb represents. The joinery brief is usually a kitchen that needs to perform as well as it looks, a bathroom rebuilt to a proper standard, or storage that has never been resolved in an otherwise premium property.",
+  "localContext": "In a suburb where properties are this tightly held and this highly valued, joinery quality is not a detail — it is a baseline expectation. We approach Bondi projects with that standard in mind from the start.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst compact-home fitout",
+  "projectReferenceNote": "The Darlinghurst fitout is a relevant reference for Bondi apartment and terrace joinery — compact Eastern Suburbs proportions, high-visibility cabinetry, and a material direction that has to hold up in a coastal environment.",
+  "whyChoose": [
+    "Premium joinery for one of Sydney's most in-demand Eastern Suburbs addresses",
+    "Kitchen, bathroom and wardrobe experience across coastal homes and apartments",
+    "Material and finish selection suited to coastal environments and premium interiors",
+    "A high standard of workmanship that matches the expectations of Bondi homeowners"
+  ],
+  "faqs": [
+    {
+      "question": "Do you renovate kitchens in Bondi?",
+      "answer": "Yes. We take on kitchen renovations, bathroom rebuilds and custom joinery for homes and apartments across Bondi and the surrounding Eastern Suburbs."
+    },
+    {
+      "question": "Can you work in a Bondi apartment building?",
+      "answer": "Yes. We manage strata requirements, building access coordination and working hour compliance as part of every apartment renovation."
+    },
+    {
+      "question": "What finish and material options work well near the beach?",
+      "answer": "We recommend finishes and hardware that perform well in high-humidity, sea-air environments. This is part of the material selection conversation we have at the start of every coastal project."
+    },
+    {
+      "question": "How far in advance should I contact you for a Bondi renovation?",
+      "answer": "As early as possible is ideal, particularly if you have a deadline. For standard kitchen or wardrobe scopes, allow six to eight weeks from confirmed brief to installation."
+    }
+  ],
+  "ctaText": "If your Bondi home is ready for a kitchen renovation, bathroom rebuild or premium joinery throughout, we would like to hear about the project."
+}
