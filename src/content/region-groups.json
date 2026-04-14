@@ -42,20 +42,48 @@
         "slug": "vaucluse"
       },
       {
-        "name": "Randwick",
-        "slug": "randwick"
+        "name": "Woollahra",
+        "slug": "woollahra"
       },
       {
-        "name": "Coogee",
-        "slug": "coogee"
+        "name": "Double Bay",
+        "slug": "double-bay"
       },
       {
         "name": "Bellevue Hill",
         "slug": "bellevue-hill"
       },
       {
-        "name": "Double Bay",
-        "slug": "double-bay"
+        "name": "Paddington",
+        "slug": "paddington"
+      },
+      {
+        "name": "Bronte",
+        "slug": "bronte"
+      },
+      {
+        "name": "Clovelly",
+        "slug": "clovelly"
+      },
+      {
+        "name": "Coogee",
+        "slug": "coogee"
+      },
+      {
+        "name": "Randwick",
+        "slug": "randwick"
+      },
+      {
+        "name": "Kensington",
+        "slug": "kensington"
+      },
+      {
+        "name": "Kingsford",
+        "slug": "kingsford"
+      },
+      {
+        "name": "Maroubra",
+        "slug": "maroubra"
       }
     ]
   },
@@ -72,6 +100,14 @@
         "slug": "surry-hills"
       },
       {
+        "name": "Redfern",
+        "slug": "redfern"
+      },
+      {
+        "name": "Pyrmont",
+        "slug": "pyrmont"
+      },
+      {
         "name": "Moore Park",
         "slug": "moore-park"
       }
@@ -81,6 +117,10 @@
     "name": "Inner West",
     "intro": "Terraces, apartments and renovation-led family homes in the Inner West often suit tailored cabinetry, concealed storage and practical joinery decisions that respect the footprint.",
     "suburbs": [
+      {
+        "name": "Newtown",
+        "slug": "newtown"
+      },
       {
         "name": "Balmain",
         "slug": "balmain"
