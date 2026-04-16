@@ -189,8 +189,20 @@ export { projects } from './projects'
 const serviceModules = import.meta.glob<ServicePageData>('../content/services/*.json', { eager: true, import: 'default' })
 const areaModules = import.meta.glob<AreaPageData>('../content/areas/*.json', { eager: true, import: 'default' })
 
-export const services = Object.values(serviceModules) as ServicePageData[]
-export const areaPages = Object.values(areaModules) as AreaPageData[]
+const allServices = Object.values(serviceModules) as ServicePageData[]
+
+const serviceOrder = [
+  'custom-joinery',
+  'kitchens',
+  'laundry',
+  'renovations',
+  'bathrooms',
+]
+
+export const services = serviceOrder
+  .map((slug) => allServices.find((service) => service.slug === slug))
+  .filter((service): service is ServicePageData => Boolean(service))
+  export const areaPages = Object.values(areaModules) as AreaPageData[]
 export const regionGroups = regionGroupsJson as RegionGroup[]
 export const homepageFaqs = homepageFaqsJson as FaqItem[]
 export const homepageSections = homepageSectionsJson as HomepageSectionsContent
