@@ -6,75 +6,94 @@
   "heroAlt": "Premium bathroom renovation — vanity, freestanding bath and timber cabinetry",
   "metaTitle": "Bathroom Renovations Sydney | InsideOut Joinery & Renos",
   "metaDescription": "Custom bathroom renovations across Sydney. From vanity joinery and storage to full bathroom fitouts — tailored layouts, quality materials and a clear process from start to finish.",
-  "intro": "A bathroom renovation done well is about more than new tiles. It is about getting the layout right, choosing materials that hold up over time, and making sure the joinery and fixtures work together so the finished room feels resolved rather than assembled. We manage bathroom projects from design through to completion, or we can work from your existing design and handle the build.",
+  "intro": "A bathroom renovation done well is about more than new tiles. It is about getting the layout right, choosing materials that hold up over time, and making sure the joinery and fixtures work together so the finished room feels resolved rather than assembled. We manage bathroom projects from design through to completion — or we can work from your existing design and handle the build. Either way, the process is the same: measure properly, plan the layout before selecting finishes, and build it in the right sequence so nothing has to be undone.",
   "includedTitle": "What a bathroom project can include",
   "included": [
-    "Custom vanity joinery designed around the room dimensions and your storage needs",
-    "Layout planning to maximise space efficiency without compromising on feel",
-    "Tile selection guidance and coordination with tilers for floor and wall finishes",
-    "Tapware and bathroom fixtures chosen to complement the overall design",
-    "Full renovation management from demolition through to final handover",
-    "Focused fitout work for clients who have a design and need a reliable builder to execute it"
+    "Custom vanity joinery designed around the room dimensions and your actual storage needs — not a standard box in a standard size",
+    "Layout planning to maximise the usable space without compromising how the room feels to move around in",
+    "Waterproofing and substrate prep done properly before any tiling starts",
+    "Tile selection guidance and tiler coordination for floor, wall and feature finishes",
+    "Shower screen and niche detailing that suits the tile format and overall design direction",
+    "Tapware and bathroom fixtures chosen to complement the joinery and material palette",
+    "Full renovation management from demolition through to final handover including trades coordination",
+    "Focused fitout work for clients who have an existing design and need a reliable builder to execute it without reinterpreting everything"
   ],
   "featureBlocks": [
     {
       "title": "Measure first, design second",
-      "text": "Every bathroom starts with a thorough measure of the space including windows, doors, niches and any fixed plumbing positions. Getting this right at the start prevents costly decisions later."
+      "text": "Every bathroom starts with a thorough site measure — windows, doors, niches, existing plumbing positions, ceiling height variations. Getting this right at the start means the layout decisions are based on the actual room, not an approximation of it. That prevents expensive changes once work is underway."
     },
     {
-      "title": "Materials that last",
-      "text": "Bathrooms take more wear than most rooms in the house. We focus on materials and finishes that hold up to daily use — not just finishes that photograph well on the day of completion."
+      "title": "Waterproofing is not optional",
+      "text": "Bathrooms fail from the inside out. Waterproofing done properly at the substrate stage means the renovation holds up for decades rather than showing movement, mould or grout failure within a few years. We do not cut corners on what goes behind the tiles."
     },
     {
-      "title": "A clear process",
-      "text": "We give clients a start date and a finish date. Our bathroom renovation process follows a structured sequence — measure, layout, tile selection, fixture briefing, then build — so you always know where the project stands."
+      "title": "Materials that last daily use",
+      "text": "Bathrooms take more wear than most rooms in the house. We focus on materials and finishes that hold up to daily use — not just finishes that photograph well on the day of completion. Stone, full-body porcelain and quality hardware make a difference over time."
+    },
+    {
+      "title": "Trades coordinated in the right order",
+      "text": "A bathroom has a strict sequence — plumbing rough-in, waterproofing, tiling, joinery, fixtures. When the sequence is wrong, trades undo each other's work. We manage that coordination so the bathroom is built correctly the first time."
+    },
+    {
+      "title": "A clear start and finish date",
+      "text": "We give clients a start date and a completion date upfront. Our bathroom renovation process follows a structured sequence — measure, layout, tile selection, fixture briefing, then build — so you always know where the project stands and when it will be finished."
     }
   ],
   "materialsTitle": "Bathroom finishes clients commonly ask for",
   "materials": [
-    "Matte and gloss porcelain floor and wall tiles in a range of formats from large-format slabs to smaller feature tiles",
-    "Custom vanity cabinetry in painted polyurethane, timber-look laminates or two-pac finishes",
-    "Stone benchtops and shower niches for a more premium, resolved finish",
-    "Tapware and hardware in matte black, brushed nickel and chrome depending on the design direction"
+    "Large-format porcelain floor and wall tiles — including 600x1200 and slab formats that minimise grout lines",
+    "Smaller format feature tiles for shower niches, floor insets and wall highlights",
+    "Custom vanity cabinetry in painted polyurethane, timber-look laminates or two-pac finishes built to the room dimensions",
+    "Stone benchtops and shower niches in engineered stone or natural stone depending on the design brief",
+    "Tapware and hardware in matte black, brushed nickel, brushed brass and chrome — matched to the overall finish direction",
+    "Frameless and semi-frameless shower screens in clear, tinted or fluted glass depending on the layout and privacy requirements",
+    "In-wall cisterns and wall-hung suites where layout and floor space make them the better solution"
   ],
   "projectSlugs": [
-  "epping"
-],
-"beforeAfter": {
-  "title": "Before & after",
-  "text": "The Epping project shows how vanity joinery, material selection and a resolved layout can transform a bathroom into a space that feels properly finished rather than just refitted.",
-  "before": "/epping/epping-before-1.jpg",
-  "after": "/epping/epping-bathroom.jpg",
-  "beforeAlt": "Epping bathroom before renovation",
-  "afterAlt": "Epping bathroom after renovation — freestanding bath, timber vanity and stone finishes"
-},
-
+    "epping"
+  ],
+  "beforeAfter": {
+    "title": "Before & after",
+    "text": "The Epping project shows how vanity joinery, material selection and a resolved layout can transform a bathroom into a space that feels properly finished rather than just refitted.",
+    "before": "/epping/epping-before-1.jpg",
+    "after": "/epping/epping-bathroom.jpg",
+    "beforeAlt": "Epping bathroom before renovation",
+    "afterAlt": "Epping bathroom after renovation — freestanding bath, timber vanity and stone finishes"
+  },
   "faqs": [
     {
       "question": "Do you manage the full bathroom renovation or just the joinery?",
-      "answer": "Both. We can manage the full renovation from design through to completion including tiling, plumbing coordination and joinery. Or if you have a design and just need a builder to execute it, we can work that way too."
+      "answer": "Both. We can manage the full renovation from design through to completion including waterproofing, tiling, plumbing coordination and joinery. Or if you have an existing design and need a builder to execute it, we can work that way too."
     },
     {
       "question": "How long does a bathroom renovation take?",
-      "answer": "A standard bathroom renovation typically takes three to five weeks. The timeline depends on the size of the room, whether plumbing is being relocated, and the complexity of the tiling and joinery scope."
+      "answer": "A standard bathroom renovation typically takes three to five weeks from demolition to completion. The timeline depends on the size of the room, whether plumbing is being relocated, and the complexity of the tiling and joinery scope. We give you a start date and a finish date before any work begins."
     },
     {
       "question": "Do I need council approval for a bathroom renovation?",
-      "answer": "Most internal bathroom renovations do not require council approval unless structural walls are being altered or plumbing is being significantly relocated. We recommend checking with your local council if you are unsure about your specific project."
+      "answer": "Most internal bathroom renovations do not require council approval unless structural walls are being altered or plumbing is being significantly relocated. We can help clarify this during the quoting process based on your specific scope."
     },
     {
-      "question": "Can you work with small bathrooms?",
-      "answer": "Yes. Compact bathrooms benefit most from careful planning. We focus on layout efficiency, smart storage and joinery proportions that make a smaller space feel deliberate rather than cramped."
+      "question": "Can you work with a small or awkward bathroom layout?",
+      "answer": "Yes. Compact bathrooms benefit most from careful planning. We focus on layout efficiency, smart storage and joinery proportions that make a smaller space feel deliberate rather than cramped. Getting the layout right before selecting tiles and fixtures makes the biggest difference."
     },
     {
       "question": "Can you handle both the joinery and coordinate trades like tilers and plumbers?",
-      "answer": "Yes. On full renovation projects we coordinate the trade sequence so the bathroom is built in the right order and the different trades do not create problems for each other."
+      "answer": "Yes. On full renovation projects we manage the trade sequence — plumbing rough-in, waterproofing, tiling, joinery, fixtures — so each trade works in the right order and does not create problems for the next one."
+    },
+    {
+      "question": "What is the difference between a full bathroom renovation and a bathroom refresh?",
+      "answer": "A full renovation involves stripping the bathroom back to the substrate — waterproofing, new tiles, new joinery, new fixtures. A refresh might involve replacing the vanity, retiling over existing tiles or upgrading tapware and screens without a full strip-out. We quote both and will give you an honest view on which one the room actually needs."
+    },
+    {
+      "question": "Can you match joinery finishes across the bathroom and other rooms in the home?",
+      "answer": "Yes. On projects that include kitchen, laundry or wardrobe joinery alongside a bathroom, we carry the same material and detailing language across all rooms so the renovation feels like a cohesive result rather than separate jobs."
     }
-    
   ],
   "reviewIds": [
-  "lisa"
-],
+    "lisa"
+  ],
   "ctaTitle": "Planning a bathroom renovation?",
-  "ctaText": "Send your plans, site photos or a description of what you are trying to achieve and we can help scope the work and give you a clear next step."
+  "ctaText": "Send your plans, site photos or a description of what you are trying to achieve and we can help scope the work, give you a realistic timeline and work out the right next step."
 }
