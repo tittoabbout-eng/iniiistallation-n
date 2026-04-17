@@ -20,6 +20,17 @@
   "featuredProjectSlugs": [
     "willoughby",
     "darlinghurst",
-    "epping"
+    "epping",
+    "beaumont-hills-home-renovation",
+    "neutral-bay-home-renovation",
+    "vaucluse-kitchen-remodel"
+  ],
+  "featuredAreaSlugs": [
+    "willoughby",
+    "mosman",
+    "double-bay",
+    "paddington",
+    "chatswood",
+    "castle-hill"
   ]
 }
