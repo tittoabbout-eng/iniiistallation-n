@@ -14,6 +14,8 @@ import ProjectDetail from './pages/ProjectDetail'
 import Projects from './pages/Projects'
 import ServiceAreas from './pages/ServiceAreas'
 import ServiceDetail from './pages/ServiceDetail'
+import Blog from './pages/Blog'
+import BlogPost from './pages/BlogPost'
 
 export default function App() {
   return (
