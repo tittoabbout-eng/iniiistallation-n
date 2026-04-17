@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import { ChevronDown, Menu, Phone, X } from 'lucide-react'
@@ -18,6 +17,10 @@ export default function Navigation() {
 
   const isActive = (path: string) => pathname === path
   const isServiceActive = services.some((service) => pathname === `/${service.slug}`)
+
+  const desktopNavItems = primaryNavigation.filter(
+    (item) => item.path === '/' || item.path === '/projects' || item.path === '/service-areas',
+  )
 
   return (
     <header className="fixed inset-x-0 top-0 z-50">
@@ -49,7 +52,7 @@ export default function Navigation() {
           </Link>
 
           <div className="hidden items-center gap-8 lg:flex">
-            {primaryNavigation.slice(0, 3).map((item) => (
+            {desktopNavItems.map((item) => (
               <Link
                 key={item.path}
                 to={item.path}
@@ -128,7 +131,7 @@ export default function Navigation() {
           <div className="border-t border-white/10 bg-navy-950 lg:hidden">
             <div className="container-custom px-4 py-5 md:px-8">
               <div className="space-y-2 rounded-3xl bg-white/5 p-3">
-                {primaryNavigation.slice(0, 3).map((item) => (
+                {desktopNavItems.map((item) => (
                   <Link
                     key={item.path}
                     to={item.path}

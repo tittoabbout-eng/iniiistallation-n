@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ArrowRight } from 'lucide-react'
@@ -29,30 +28,42 @@ function GallerySection({
   gridClassName: string
 }) {
   const [expanded, setExpanded] = useState(false)
+  const [activeIndex, setActiveIndex] = useState<number | null>(null)
   const hasOverflow = images.length > initialCount
   const visibleImages = expanded || !hasOverflow ? images : images.slice(0, initialCount)
 
   return (
     <>
       <div className={gridClassName}>
-        {visibleImages.map((image) => (
-          <figure
-            key={image.src}
-            className="overflow-hidden rounded-3xl border border-navy-100 bg-white shadow-sm"
-          >
-            <SmartImage
-              src={image.src}
-              alt={image.alt}
-              loading="lazy"
-              decoding="async"
-              className="aspect-[4/3] w-full object-cover"
-              sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
-            />
-            <figcaption className="p-5 text-sm leading-relaxed text-navy-600">
-              {image.caption}
-            </figcaption>
-          </figure>
-        ))}
+        {visibleImages.map((image) => {
+          const fullIndex = images.findIndex((item) => item.src === image.src)
+
+          return (
+            <figure
+              key={image.src}
+              className="overflow-hidden rounded-3xl border border-navy-100 bg-white shadow-sm"
+            >
+              <button
+                type="button"
+                onClick={() => setActiveIndex(fullIndex)}
+                className="block w-full text-left"
+                aria-label={`Open larger image view for ${image.alt}`}
+              >
+                <SmartImage
+                  src={image.src}
+                  alt={image.alt}
+                  loading="lazy"
+                  decoding="async"
+                  className="aspect-[4/3] w-full object-cover transition-transform duration-300 hover:scale-[1.02]"
+                  sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
+                />
+              </button>
+              <figcaption className="p-5 text-sm leading-relaxed text-navy-600">
+                {image.caption}
+              </figcaption>
+            </figure>
+          )
+        })}
       </div>
 
       {hasOverflow ? (
@@ -66,6 +77,61 @@ function GallerySection({
               ? 'Show fewer photos'
               : `View ${images.length - initialCount} more photos`}
           </button>
+        </div>
+      ) : null}
+
+      {activeIndex !== null ? (
+        <div
+          className="fixed inset-0 z-[100] flex items-center justify-center bg-navy-950/90 p-4"
+          onClick={() => setActiveIndex(null)}
+          role="dialog"
+          aria-modal="true"
+          aria-label="Project image enlarged view"
+        >
+          <div
+            className="relative w-full max-w-6xl"
+            onClick={(event) => event.stopPropagation()}
+          >
+            <button
+              type="button"
+              onClick={() => setActiveIndex(null)}
+              className="absolute right-3 top-3 z-10 rounded-full bg-white/90 px-4 py-2 text-sm font-semibold text-navy-950 shadow-lg"
+            >
+              Close
+            </button>
+            <div className="overflow-hidden rounded-3xl bg-white shadow-2xl">
+              <SmartImage
+                src={images[activeIndex].src}
+                alt={images[activeIndex].alt}
+                loading="eager"
+                decoding="async"
+                className="max-h-[80vh] w-full object-contain bg-navy-950"
+                sizes="100vw"
+              />
+              <div className="border-t border-navy-100 bg-white p-5 text-sm leading-relaxed text-navy-600">
+                {images[activeIndex].caption}
+              </div>
+            </div>
+            <div className="mt-4 flex items-center justify-between gap-3">
+              <button
+                type="button"
+                onClick={() => setActiveIndex((activeIndex - 1 + images.length) % images.length)}
+                className="btn-outline bg-white text-navy-950"
+              >
+                Previous
+              </button>
+              <p className="text-sm font-medium text-white">
+                {activeIndex + 1} / {images.length}
+              </p>
+              <button
+                type="button"
+                onClick={() => setActiveIndex((activeIndex + 1) % images.length)}
+                className="btn-outline bg-white text-navy-950"
+              >
+                Next
+              </button>
+            </div>
+          </div>
         </div>
       ) : null}
     </>

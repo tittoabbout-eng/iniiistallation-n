@@ -5,6 +5,8 @@
   "phoneHref": "tel:0250000402",
   "email": "info@insideoutjoinery.au",
   "emailHref": "mailto:info@insideoutjoinery.au",
+  "secondaryEmail": "info@insideoutjoinery.com.au",
+  "secondaryEmailHref": "mailto:info@insideoutjoinery.com.au",
   "baseLocation": "Liverpool, Sydney NSW 2170",
   "serviceArea": "Sydney-wide custom joinery, kitchen, laundry and renovation service",
   "hoursSummary": "Mon-Fri: 8:30am - 4:30pm",

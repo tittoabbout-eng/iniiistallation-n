@@ -8,6 +8,30 @@
     "path": "/projects"
   },
   {
+    "label": "Kitchens & Kitchen Renovations",
+    "path": "/kitchens"
+  },
+  {
+    "label": "Wardrobes",
+    "path": "/wardrobes"
+  },
+  {
+    "label": "Custom Joinery",
+    "path": "/custom-joinery"
+  },
+  {
+    "label": "Laundry",
+    "path": "/laundry"
+  },
+  {
+    "label": "Renovations",
+    "path": "/renovations"
+  },
+  {
+    "label": "Bathrooms",
+    "path": "/bathrooms"
+  },
+  {
     "label": "Service Areas",
     "path": "/service-areas"
   },

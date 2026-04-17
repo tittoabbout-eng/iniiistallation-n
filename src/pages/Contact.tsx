@@ -1,4 +1,3 @@
-
 import { useState } from 'react'
 import { AlertCircle, Clock3, Mail, MapPin, Phone, Send } from 'lucide-react'
 import { Link } from 'react-router-dom'
@@ -15,10 +14,19 @@ import {
 } from '../utils/schema'
 import { trackEvent } from '../utils/trackEvent'
 
+type SiteSettingsWithSecondaryEmail = typeof siteSettings & {
+  secondaryEmail?: string
+  secondaryEmailHref?: string
+}
+
 export default function Contact() {
   const [submitted, setSubmitted] = useState(false)
   const [submitting, setSubmitting] = useState(false)
   const [error, setError] = useState(false)
+
+  const settings = siteSettings as SiteSettingsWithSecondaryEmail
+  const secondaryEmail = settings.secondaryEmail?.trim()
+  const secondaryEmailHref = settings.secondaryEmailHref?.trim()
 
   const handleSubmit = async (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault()
@@ -66,53 +74,57 @@ export default function Contact() {
         schema={schema}
       />
 
-     <PageHero
-  eyebrow="Contact"
-  title="Start your quote request"
-  description="Send plans, measurements, inspiration images or site photos. The more detail you share, the better we can guide the next step and prepare your quote."
-  image="/epping/epping-kitchenette.jpg"
-  imageAlt="InsideOut Joinery & Renos kitchen project"
-  actions={
-    <>
-      <a
-        href={siteSettings.phoneHref}
-        className="btn-outline border-white text-white hover:bg-white hover:text-navy-950"
-        onClick={() => trackEvent('cta_click', { location: 'contact_hero', type: 'phone' })}
-      >
-        <Phone size={16} />
-        Call {siteSettings.phone}
-      </a>
+      <PageHero
+        eyebrow="Contact"
+        title="Start your quote request"
+        description="Send plans, measurements, inspiration images or site photos. The more detail you share, the better we can guide the next step and prepare your quote."
+        image="/epping/epping-kitchenette.jpg"
+        imageAlt="InsideOut Joinery & Renos kitchen project"
+        actions={
+          <>
+            <a
+              href={siteSettings.phoneHref}
+              className="btn-outline border-white text-white hover:bg-white hover:text-navy-950"
+              onClick={() => trackEvent('cta_click', { location: 'contact_hero', type: 'phone' })}
+            >
+              <Phone size={16} />
+              Call {siteSettings.phone}
+            </a>
 
-      <a
-        href="#quote-form"
-        className="btn-primary bg-gold-400 text-navy-950 hover:bg-gold-300"
-        onClick={() => trackEvent('cta_click', { location: 'contact_hero', type: 'scroll_to_form' })}
-      >
-Fill out form 
-      </a>
-    </>
-  }
-/>
+            <a
+              href="#quote-form"
+              className="btn-primary bg-gold-400 text-navy-950 hover:bg-gold-300"
+              onClick={() => trackEvent('cta_click', { location: 'contact_hero', type: 'scroll_to_form' })}
+            >
+              Fill out form
+            </a>
+          </>
+        }
+      />
 
       <section className="section-padding bg-white">
         <div className="container-custom px-4 md:px-8">
           <div className="grid gap-10 lg:grid-cols-[1.1fr_0.9fr]">
-<div id="quote-form" className="scroll-mt-32 rounded-3xl border border-navy-100 bg-white p-6 shadow-sm md:p-8">
-                  <h2 className="text-3xl font-display font-bold text-navy-950">
+            <div id="quote-form" className="scroll-mt-32 rounded-3xl border border-navy-100 bg-white p-6 shadow-sm md:p-8">
+              <h2 className="text-3xl font-display font-bold text-navy-950">
                 Request a free quote
               </h2>
               <p className="mt-4 text-base leading-relaxed text-navy-600">
-Tell us which rooms are involved, what stage the project is at and any finish or storage priorities. Fill out the form below and we will review the details before guiding you on the next step.
+                Tell us which rooms are involved, what stage the project is at and any finish or storage priorities. Fill out the form below and we will review the details before guiding you on the next step.
               </p>
 
               <div className="mt-6 grid gap-4 md:grid-cols-2">
                 <div className="rounded-2xl border border-gold-200 bg-gold-50 p-5">
                   <p className="text-sm font-semibold text-navy-950">Helpful to include</p>
-                  <p className="mt-2 text-sm leading-relaxed text-navy-600">Plans, rough measurements, inspiration images, room photos, your suburb and the rooms involved. Quotes are tailored to the actual scope, finish level and site conditions.</p>
+                  <p className="mt-2 text-sm leading-relaxed text-navy-600">
+                    Plans, rough measurements, inspiration images, room photos, your suburb and the rooms involved. Quotes are tailored to the actual scope, finish level and site conditions.
+                  </p>
                 </div>
                 <div className="rounded-2xl border border-navy-100 bg-navy-50 p-5">
                   <p className="text-sm font-semibold text-navy-950">What happens next</p>
-                  <p className="mt-2 text-sm leading-relaxed text-navy-600">We review the scope, confirm whether a call or site discussion is the right next move, and then come back with clearer direction on pricing and timing.</p>
+                  <p className="mt-2 text-sm leading-relaxed text-navy-600">
+                    We review the scope, confirm whether a call or site discussion is the right next move, and then come back with clearer direction on pricing and timing.
+                  </p>
                 </div>
               </div>
 
@@ -263,12 +275,22 @@ Tell us which rooms are involved, what stage the project is at and any finish or
                       {siteSettings.phone}
                     </a>
                   </p>
-                  <p className="flex items-start gap-3">
+
+                  <div className="flex items-start gap-3">
                     <Mail size={17} className="mt-0.5 shrink-0 text-gold-300" />
-                    <a href={siteSettings.emailHref} className="hover:text-gold-200">
-                      {siteSettings.email}
-                    </a>
-                  </p>
+                    <div className="space-y-1">
+                      <a href={siteSettings.emailHref} className="block hover:text-gold-200">
+                        {siteSettings.email}
+                      </a>
+
+                      {secondaryEmail && secondaryEmailHref ? (
+                        <a href={secondaryEmailHref} className="block hover:text-gold-200">
+                          {secondaryEmail}
+                        </a>
+                      ) : null}
+                    </div>
+                  </div>
+
                   <p className="flex items-start gap-3">
                     <MapPin size={17} className="mt-0.5 shrink-0 text-gold-300" />
                     <span>{siteSettings.baseLocation}</span>

@@ -173,6 +173,8 @@ export interface SiteSettings {
   phoneHref: string
   email: string
   emailHref: string
+  secondaryEmail?: string
+  secondaryEmailHref?: string
   baseLocation: string
   serviceArea: string
   hoursSummary: string
@@ -181,6 +183,7 @@ export interface SiteSettings {
   googleReviewsUrl: string
   defaultSocialImage?: string
   featuredProjectSlugs?: string[]
+  featuredAreaSlugs?: string[]
 }
 
 export const siteSettings = siteSettingsJson as SiteSettings
@@ -194,6 +197,7 @@ const allServices = Object.values(serviceModules) as ServicePageData[]
 const serviceOrder = [
   'custom-joinery',
   'kitchens',
+  'wardrobes',
   'laundry',
   'renovations',
   'bathrooms',
@@ -202,7 +206,8 @@ const serviceOrder = [
 export const services = serviceOrder
   .map((slug) => allServices.find((service) => service.slug === slug))
   .filter((service): service is ServicePageData => Boolean(service))
-  export const areaPages = Object.values(areaModules) as AreaPageData[]
+
+export const areaPages = Object.values(areaModules) as AreaPageData[]
 export const regionGroups = regionGroupsJson as RegionGroup[]
 export const homepageFaqs = homepageFaqsJson as FaqItem[]
 export const homepageSections = homepageSectionsJson as HomepageSectionsContent
@@ -218,9 +223,24 @@ export const serviceLinks = services.map((service) => ({
   path: `/${service.slug}`,
 }))
 
+const _featuredAreaSlugs = siteSettings.featuredAreaSlugs
+const _featuredAreaSource =
+  _featuredAreaSlugs && _featuredAreaSlugs.length > 0
+    ? _featuredAreaSlugs
+        .map((slug) => areaPages.find((area) => area.slug === slug))
+        .filter((area): area is AreaPageData => area !== undefined)
+    : areaPages.slice(0, 6)
+
+export const featuredAreas = _featuredAreaSource
+
+export const featuredAreaLinks = _featuredAreaSource.map((area) => ({
+  label: area.name,
+  path: `/service-areas/${area.slug}`,
+}))
+
 // Resolve featured projects: use explicit slugs from site-settings if present,
 // otherwise fall back to the first 3 projects in the registry.
-const _featuredSlugs = siteSettingsJson.featuredProjectSlugs as string[] | undefined
+const _featuredSlugs = siteSettings.featuredProjectSlugs
 const _featuredSource =
   _featuredSlugs && _featuredSlugs.length > 0
     ? _featuredSlugs
@@ -237,10 +257,7 @@ export const featuredProjectCards = _featuredSource.map((project) => ({
   path: `/projects/${project.slug}`,
 }))
 
-export const footerSuburbLinks = areaPages.slice(0, 6).map((area) => ({
-  label: area.name,
-  path: `/service-areas/${area.slug}`,
-}))
+export const footerSuburbLinks = featuredAreaLinks
 
 export function getProjectBySlug(slug: string) {
   return projects.find((project) => project.slug === slug)
