@@ -53,6 +53,9 @@ export default function App() {
             />
           ))}
 
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogPost />} />
+
           <Route path="/contact" element={<Contact />} />
 
           {legacyRouteRedirects.map((route) => (
