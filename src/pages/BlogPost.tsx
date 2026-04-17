@@ -1,6 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 import { getBlogPost } from '../data/blog'
 import NotFound from './NotFound'
+import Seo from '../components/Seo'
 import { siteSettings } from '../data/site'
 
 export default function BlogPost() {
@@ -11,9 +12,12 @@ export default function BlogPost() {
 
   return (
     <>
-      <title>{post.metaTitle}</title>
-      <meta name="description" content={post.metaDescription} />
-      <link rel="canonical" href={`${siteSettings.siteUrl}/blog/${post.slug}`} />
+      <Seo
+        title={post.metaTitle}
+        description={post.metaDescription}
+        path={`/blog/${post.slug}`}
+        image={post.heroImage}
+      />
 
       <section className="bg-navy-950 pb-16 pt-32 md:pt-40">
         <div className="container-custom px-4 md:px-8">
