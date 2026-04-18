@@ -91,6 +91,13 @@ export default function Navigation() {
             </div>
 
             <Link
+              to="/blog"
+              className={`nav-link ${isActive('/blog') ? 'text-gold-300' : 'text-white hover:text-gold-200'}`}
+            >
+              Blog
+            </Link>
+
+            <Link
               to="/contact"
               className={`nav-link ${isActive('/contact') ? 'text-gold-300' : 'text-white hover:text-gold-200'}`}
             >
@@ -167,6 +174,13 @@ export default function Navigation() {
                     </div>
                   ) : null}
                 </div>
+
+                <Link
+                  to="/blog"
+                  className={`block rounded-2xl px-4 py-3 text-sm font-semibold ${isActive('/blog') ? 'bg-gold-500 text-navy-950' : 'text-white hover:bg-white/5'}`}
+                >
+                  Blog
+                </Link>
 
                 <Link
                   to="/contact"

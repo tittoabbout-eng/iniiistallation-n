@@ -864,6 +864,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/shelving-storage</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-murphy-feature.jpg</image:loc>
+      <image:title>Custom built-in shelving and storage joinery in Sydney</image:title>
+      <image:caption>Custom built-in shelving and storage joinery in Sydney</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/wardrobes</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/beaumont-hills/after/1.jpeg</image:loc>
@@ -888,6 +896,14 @@
       <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
       <image:title>Compact kitchen and concealed joinery reference fitout relevant to Balmain terraces</image:title>
       <image:caption>Compact kitchen and concealed joinery reference fitout relevant to Balmain terraces</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/bankstown</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/carlton/carlton-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen renovation in South West Sydney — InsideOut Joinery</image:title>
+      <image:caption>Custom kitchen renovation in South West Sydney — InsideOut Joinery</image:caption>
     </image:image>
   </url>
   <url>
@@ -928,6 +944,14 @@
       <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
       <image:title>Custom kitchen and joinery reference suited to Bronte coastal homes and renovations</image:title>
       <image:caption>Custom kitchen and joinery reference suited to Bronte coastal homes and renovations</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/campbelltown</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/harrington-park/harrington-park-hero.jpg</image:loc>
+      <image:title>Custom kitchen renovation in South West Sydney — InsideOut Joinery</image:title>
+      <image:caption>Custom kitchen renovation in South West Sydney — InsideOut Joinery</image:caption>
     </image:image>
   </url>
   <url>
@@ -1083,6 +1107,14 @@
     </image:image>
   </url>
   <url>
+    <loc>https://insideoutjoinery.au/service-areas/liverpool</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen joinery and renovation — InsideOut Joinery based in Liverpool Sydney</image:title>
+      <image:caption>Custom kitchen joinery and renovation — InsideOut Joinery based in Liverpool Sydney</image:caption>
+    </image:image>
+  </url>
+  <url>
     <loc>https://insideoutjoinery.au/service-areas/lurnea</loc>
     <image:image>
       <image:loc>https://insideoutjoinery.au/projects-old/reily-st-lurnea-nsw/2.jpeg</image:loc>
@@ -1160,6 +1192,14 @@
       <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
       <image:title>Custom joinery and kitchen fitout reference suited to Paddington terrace renovations</image:title>
       <image:caption>Custom joinery and kitchen fitout reference suited to Paddington terrace renovations</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/service-areas/parramatta</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/epping/epping-hero-open-plan.jpg</image:loc>
+      <image:title>Open-plan kitchen and living renovation — custom joinery in Western Sydney</image:title>
+      <image:caption>Open-plan kitchen and living renovation — custom joinery in Western Sydney</image:caption>
     </image:image>
   </url>
   <url>
@@ -1264,6 +1304,25 @@
       <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-kitchen-hero.jpg</image:loc>
       <image:title>Apartment kitchen and joinery renovation reference suited to Zetland inner city homes</image:title>
       <image:caption>Apartment kitchen and joinery renovation reference suited to Zetland inner city homes</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/blog</loc>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/blog/custom-joinery-vs-flat-pack-sydney</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/darlinghurst/darlinghurst-murphy-feature.jpg</image:loc>
+      <image:title>Custom built-in joinery in Darlinghurst showing Murphy bed and bespoke storage wall</image:title>
+      <image:caption>Custom built-in joinery in Darlinghurst showing Murphy bed and bespoke storage wall</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://insideoutjoinery.au/blog/kitchen-renovation-cost-sydney</loc>
+    <image:image>
+      <image:loc>https://insideoutjoinery.au/willoughby/willoughby-kitchen-hero.jpg</image:loc>
+      <image:title>Custom kitchen renovation in Willoughby Sydney showing shaker cabinetry and stone island</image:title>
+      <image:caption>Custom kitchen renovation in Willoughby Sydney showing shaker cabinetry and stone island</image:caption>
     </image:image>
   </url>
 </urlset>

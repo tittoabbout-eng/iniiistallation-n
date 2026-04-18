@@ -36,6 +36,10 @@
     "path": "/service-areas"
   },
   {
+    "label": "Blog",
+    "path": "/blog"
+  },
+  {
     "label": "Contact",
     "path": "/contact"
   }

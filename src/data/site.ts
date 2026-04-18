@@ -201,6 +201,7 @@ const serviceOrder = [
   'laundry',
   'renovations',
   'bathrooms',
+  'shelving-storage',
 ]
 
 export const services = serviceOrder

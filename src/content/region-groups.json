@@ -88,13 +88,17 @@
     "name": "Western Sydney",
     "intro": "Western Sydney projects often combine practical layouts, stronger storage and multi-room cabinetry designed to improve how the home functions every day.",
     "suburbs": [
-      { "name": "Pemulwuy", "slug": "pemulwuy" }
+      { "name": "Pemulwuy", "slug": "pemulwuy" },
+      { "name": "Parramatta", "slug": "parramatta" }
     ]
   },
   {
     "name": "South West Sydney",
-    "intro": "South west Sydney projects range from single-room kitchen upgrades through to wider renovation joinery scopes that need practical planning and durable finishes.",
+    "intro": "South west Sydney is our home base. Projects here range from single-room kitchen upgrades through to wider renovation joinery scopes that need practical planning and durable finishes.",
     "suburbs": [
+      { "name": "Liverpool", "slug": "liverpool" },
+      { "name": "Bankstown", "slug": "bankstown" },
+      { "name": "Campbelltown", "slug": "campbelltown" },
       { "name": "Harrington Park", "slug": "harrington-park" },
       { "name": "Rosemeadow", "slug": "rosemeadow" },
       { "name": "Lurnea", "slug": "lurnea" }

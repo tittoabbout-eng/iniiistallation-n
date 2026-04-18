@@ -6,7 +6,10 @@ import Footer from './components/Footer'
 import Navigation from './components/Navigation'
 import ScrollToTop from './components/ScrollToTop'
 import { areaPages, legacyRouteRedirects, projects, services } from './data/site'
+import { blogPosts } from './data/blog'
 import AreaDetail from './pages/AreaDetail'
+import Blog from './pages/Blog'
+import BlogPost from './pages/BlogPost'
 import Contact from './pages/Contact'
 import Home from './pages/Home'
 import NotFound from './pages/NotFound'
@@ -48,6 +51,15 @@ export default function App() {
               key={area.slug}
               path={`/service-areas/${area.slug}`}
               element={<AreaDetail area={area} />}
+            />
+          ))}
+
+          <Route path="/blog" element={<Blog />} />
+          {blogPosts.map((post) => (
+            <Route
+              key={post.slug}
+              path={`/blog/${post.slug}`}
+              element={<BlogPost post={post} />}
             />
           ))}
 

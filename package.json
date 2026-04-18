@@ -6,6 +6,7 @@
     "generate:seo": "node scripts/generate-seo-files.mjs",
     "dev": "vite",
     "build": "tsc && vite build",
+    "postbuild": "node scripts/prerender.mjs",
     "preview": "vite preview",
     "check:content": "node scripts/validate-content.mjs",
     "new:project": "node scripts/create-entry.mjs project",

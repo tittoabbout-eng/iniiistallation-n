@@ -15,7 +15,7 @@ type BreadcrumbItem = {
 export function buildLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
-    '@type': 'HomeAndConstructionBusiness',
+    '@type': ['LocalBusiness', 'HomeAndConstructionBusiness', 'KitchenRemodeler'],
     name: siteSettings.name,
     image: `${siteSettings.siteUrl}/og-insideoutjoinery-au.jpg`,
     url: siteSettings.siteUrl,

@@ -9,11 +9,12 @@ const siteSettings = JSON.parse(fs.readFileSync(path.join(contentDir, 'site-sett
 const services = readJsonDir(path.join(contentDir, 'services'))
 const areas = readJsonDir(path.join(contentDir, 'areas'))
 const projects = readJsonDir(path.join(contentDir, 'projects'))
+const blogPosts = readJsonDir(path.join(contentDir, 'blog'))
 const imageDimensions = buildImageDimensions(publicDir)
 
 writeFile(path.join(contentDir, 'image-dimensions.json'), `${JSON.stringify(imageDimensions, null, 2)}\n`)
 writeFile(path.join(publicDir, 'robots.txt'), buildRobots(siteSettings.siteUrl))
-writeFile(path.join(publicDir, 'sitemap.xml'), buildSitemap({ siteUrl: siteSettings.siteUrl, services, areas, projects }))
+writeFile(path.join(publicDir, 'sitemap.xml'), buildSitemap({ siteUrl: siteSettings.siteUrl, services, areas, projects, blogPosts }))
 
 function readJsonDir(dir) {
   return fs
@@ -98,7 +99,7 @@ function dedupeImages(items) {
   })
 }
 
-function buildSitemap({ siteUrl, services, areas, projects }) {
+function buildSitemap({ siteUrl, services, areas, projects, blogPosts }) {
   const urls = []
   urls.push(urlEntry(siteUrl, '/'))
   urls.push(urlEntry(siteUrl, '/projects'))
@@ -120,6 +121,12 @@ function buildSitemap({ siteUrl, services, areas, projects }) {
   areas.forEach((area) => {
     const images = area.heroImage ? [imageEntry(siteUrl, { src: area.heroImage, alt: area.heroAlt }, `${area.name} service area image`, area.metaDescription)] : []
     urls.push(urlEntry(siteUrl, `/service-areas/${area.slug}`, images))
+  })
+  // Blog listing + individual posts
+  urls.push(urlEntry(siteUrl, '/blog'))
+  ;(blogPosts || []).forEach((post) => {
+    const images = post.heroImage ? [imageEntry(siteUrl, { src: post.heroImage, alt: post.heroAlt }, post.title, post.metaDescription)] : []
+    urls.push(urlEntry(siteUrl, `/blog/${post.slug}`, images))
   })
 
   return `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n${urls.join('\n')}\n</urlset>\n`

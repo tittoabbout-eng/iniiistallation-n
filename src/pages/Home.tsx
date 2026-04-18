@@ -9,7 +9,7 @@ import SectionHeading from '../components/SectionHeading'
 import Seo from '../components/Seo'
 import SmartImage from '../components/SmartImage'
 import {
-  areaPages,
+  featuredAreaLinks,
   featuredProjectCards,
   homepageFaqs,
   homepageSections,
@@ -32,7 +32,7 @@ import {
 
 
 export default function Home() {
-  const highlightedAreas = areaPages.slice(0, 6)
+  const highlightedAreas = featuredAreaLinks
   const home = globalContent.homepage
   const homeSections = homepageSections
   const schema = [
@@ -279,12 +279,12 @@ export default function Home() {
               </Link>{' '}
               or jump straight into suburb pages for{' '}
               {highlightedAreas.map((area, index) => (
-                <span key={area.slug}>
+                <span key={area.path}>
                   <Link
-                    to={`/service-areas/${area.slug}`}
+                    to={area.path}
                     className="font-semibold text-gold-700 hover:text-gold-600"
                   >
-                    {area.name}
+                    {area.label}
                   </Link>
                   {index < highlightedAreas.length - 2
                     ? ', '
