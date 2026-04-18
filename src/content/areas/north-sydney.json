@@ -1,0 +1,39 @@
+{
+  "slug": "north-sydney",
+  "name": "North Sydney",
+  "region": "Lower North Shore",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroAlt": "Custom kitchen and joinery fitout reference suited to North Sydney apartments and homes",
+  "metaTitle": "Custom Joinery & Renovations North Sydney | InsideOut Joinery & Renos",
+  "metaDescription": "Custom kitchens, wardrobes, laundries and joinery-led renovations for North Sydney apartments and homes. Free quotes. Call InsideOut Joinery on 02 5000 0402.",
+  "intro": "North Sydney has a high concentration of apartments and older residential buildings that were built well but have never had the storage resolved properly. The kitchen is usually the first room people want to fix — and for good reason. A kitchen rebuilt around how the apartment actually functions makes the whole property feel better to live in. Wardrobes, laundries and bathroom vanities are usually next.",
+  "localContext": "Apartment joinery in North Sydney tends to need careful planning around existing service locations, body corporate requirements and floor-to-ceiling heights that vary from building to building. We work around those constraints rather than treating every job as if it is a blank-slate new build.",
+  "projectReferenceSlug": "darlinghurst",
+  "projectReferenceLabel": "Darlinghurst apartment joinery fitout",
+  "projectReferenceNote": "The Darlinghurst fitout is the closest reference for North Sydney apartment work — the same compact footprint, the same need for storage that earns its space and the same emphasis on cabinetry that reads as part of the apartment rather than added to it.",
+  "whyChoose": [
+    "Apartment joinery experience with builds planned around real service and access constraints",
+    "Kitchen renovations that improve layout and storage without requiring structural changes",
+    "Wardrobe and laundry solutions built to suit the proportions of older North Sydney apartments",
+    "A straightforward quote process from plans or site visit through to installation"
+  ],
+  "faqs": [
+    {
+      "question": "Do you work on apartment renovations in North Sydney?",
+      "answer": "Yes. Apartments are a significant part of our work, especially where smarter joinery can improve storage, layout and the overall feel of the space without major structural changes."
+    },
+    {
+      "question": "Do you need body corporate approval before starting joinery work?",
+      "answer": "Internal joinery work generally does not require body corporate approval, but any penetrations to walls or changes to wet areas may. We can help clarify the scope during the quoting process and work around your building's requirements."
+    },
+    {
+      "question": "Can you quote kitchens and wardrobes together for a North Sydney apartment?",
+      "answer": "Yes. Quoting multiple rooms together allows us to plan the joinery with one material direction, which usually produces a better result and a more competitive combined price."
+    },
+    {
+      "question": "Can you start from plans or photos rather than a site visit?",
+      "answer": "Yes. Plans, photos and a basic scope summary are enough to get an initial quote started. We follow up with a site measure before finalising anything."
+    }
+  ],
+  "ctaText": "If you are planning a kitchen renovation, new wardrobes or a laundry upgrade in North Sydney, send through your plans or photos and we can help shape the scope."
+}

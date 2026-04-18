@@ -1,3 +1,4 @@
+
 export interface BlogSection {
   heading: string
   body: string
