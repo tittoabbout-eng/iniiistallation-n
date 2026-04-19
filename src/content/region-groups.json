@@ -3,6 +3,7 @@
     "name": "Lower North Shore",
     "intro": "A strong fit for kitchens, wardrobes, laundries and full-home joinery where finish quality matters and the storage has to work hard day to day.",
     "suburbs": [
+      { "name": "North Sydney", "slug": "north-sydney" },
       { "name": "Mosman", "slug": "mosman" },
       { "name": "Neutral Bay", "slug": "neutral-bay" },
       { "name": "Cremorne", "slug": "cremorne" },
@@ -58,7 +59,8 @@
       { "name": "Marrickville", "slug": "marrickville" },
       { "name": "Five Dock", "slug": "five-dock" },
       { "name": "Glebe", "slug": "glebe" },
-      { "name": "Croydon", "slug": "croydon" }
+      { "name": "Croydon", "slug": "croydon" },
+      { "name": "Strathfield", "slug": "strathfield" }
     ]
   },
   {
