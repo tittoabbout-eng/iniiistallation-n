@@ -42,18 +42,13 @@
   "beforeImages": [
     {
       "src": "/projects-old/undercliff-street-neutral-bay/1.jpeg",
-      "alt": "Neutral Bay kitchen during renovation with cabinetry carcasses being installed",
-      "caption": "Kitchen during renovation with cabinetry carcasses being installed before doors and finishes were added."
-    },
-    {
-      "src": "/projects-old/undercliff-street-neutral-bay/4.jpeg",
-      "alt": "Neutral Bay laundry carcasses installed before doors and finishes",
-      "caption": "Laundry carcasses installed before doors, benchtop and final finishes were added."
+      "alt": "Neutral Bay kitchen during renovation — cabinetry carcasses being installed",
+      "caption": "Kitchen mid-renovation with carcasses in position before doors, benchtop and finishes were fitted."
     },
     {
       "src": "/projects-old/undercliff-street-neutral-bay/5.jpeg",
-      "alt": "Neutral Bay kitchen from a different angle during installation",
-      "caption": "Another angle of the kitchen during installation showing the island and cabinetry taking shape."
+      "alt": "Neutral Bay kitchen from opposite angle during installation",
+      "caption": "Opposite angle during installation showing the island and surrounding cabinetry taking shape before completion."
     }
   ],
   "spaces": [

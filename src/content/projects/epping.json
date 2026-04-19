@@ -17,50 +17,50 @@
   "afterImages": [
     {
       "src": "/epping/epping-kitchen-island.jpg",
-      "alt": "Epping open-plan kitchen with island and timber joinery",
-      "caption": "The main kitchen anchors the open-plan space with a warm timber finish and clean integrated detailing."
+      "alt": "Epping open-plan kitchen, dining and living with stone island and herringbone floor",
+      "caption": "The kitchen, dining and living zone open up as one space — stone island with brass sink, full-height timber joinery on the left, herringbone flooring throughout and full-width glazing to the garden."
     },
     {
       "src": "/epping/epping-study-nook.jpg",
-      "alt": "Epping study nook with floating desk and shelving",
-      "caption": "A compact study nook was built into the home without feeling like an afterthought."
+      "alt": "Epping study nook with built-in timber desk, drawers and floating shelves",
+      "caption": "Study nook with a built-in timber desk, centre drawers and floating shelves — a proper work zone that sits neatly within the home without taking over a room."
     },
     {
       "src": "/epping/epping-pantry-detail.jpg",
-      "alt": "Epping pantry shelving and storage detail",
-      "caption": "Pantry storage was planned as part of the architecture so it felt accessible, ordered and visually calm."
+      "alt": "Epping butler's pantry with open shelving, stone splashback nook and bar storage",
+      "caption": "Butler's pantry with adjustable open shelving, a stone splashback nook and dedicated bar storage — keeps the main kitchen clean while giving everything a proper home."
     },
     {
       "src": "/epping/epping-kitchenette.jpg",
-      "alt": "Epping secondary joinery zone and kitchenette detail",
-      "caption": "Secondary joinery details supported the main living areas and kept the material palette consistent."
+      "alt": "Epping fluted folding door divider and kitchen oven wall with full-height timber cabinetry",
+      "caption": "A fluted folding door separates the entry zone while the kitchen oven wall behind shows the full run of timber cabinetry and integrated appliances — two details working together across the same floor plan."
     },
     {
       "src": "/epping/epping-living-divider.jpg",
-      "alt": "Epping vanity and living divider joinery detail",
-      "caption": "Joinery and screening helped define zones in the home without breaking the open-plan feel."
+      "alt": "Epping secondary kitchen with full timber cabinetry, oven and small dining table",
+      "caption": "Secondary kitchen with full-height timber cabinetry, integrated oven, sink and a small dining setting — a self-contained zone that carries the same finish as the main kitchen."
     },
     {
       "src": "/epping/epping-bathroom.jpg",
-      "alt": "Epping bathroom vanity and storage joinery",
-      "caption": "The vanity detail continued the timber palette into the bathroom for a more resolved full-home finish."
+      "alt": "Epping bathroom with freestanding bath, reeded timber vanity, vessel sink and brass tapware",
+      "caption": "Main bathroom with a freestanding bath, reeded timber floating vanity, vessel sink, brass tapware and a round backlit mirror — the timber finish carried through from the kitchen at the same level of quality."
     }
   ],
   "beforeImages": [
     {
       "src": "/epping/epping-before-1.jpg",
-      "alt": "Epping kitchen during early installation stage",
-      "caption": "The early build stage shows how the joinery fitout started from a bare new-build shell."
+      "alt": "Epping kitchen zone during early installation — bare shell with first carcasses being set",
+      "caption": "Early installation stage — first carcasses going in on a bare new-build shell before any doors, benchtops or finishes were fitted."
     },
     {
       "src": "/epping/epping-before-2.jpg",
-      "alt": "Epping joinery carcasses during installation",
-      "caption": "Cabinetry installation and layout planning happened together to keep the joinery aligned with the architecture."
+      "alt": "Epping kitchen carcasses mid-installation with upper and lower cabinets being set out",
+      "caption": "Upper and lower carcasses being set out during installation — the layout taking shape before doors and fronts went on."
     },
     {
       "src": "/epping/epping-before-3.jpg",
-      "alt": "Epping cabinetry before final fronts and finishes",
-      "caption": "Before the finished fronts and details went on, the project already showed how the joinery would shape the home."
+      "alt": "Epping kitchen cabinetry carcasses installed — drawers and tall units in position before fit-off",
+      "caption": "Carcasses, drawer runners and tall units all in position — the structure of the joinery set before the final fronts and finishes were fitted."
     }
   ],
   "spaces": [
@@ -86,10 +86,10 @@
       "servicePath": "/custom-joinery"
     },
     {
-      "title": "Vanity & secondary details",
-      "text": "Matching joinery details in the bathroom and other secondary areas kept the fitout feeling complete and intentional across the home.",
+      "title": "Bathroom vanity",
+      "text": "The bathroom vanity carried the reeded timber finish through from the kitchen — freestanding bath, vessel sink, brass tapware and a backlit mirror. Same material direction, same level of finish.",
       "image": "/epping/epping-bathroom.jpg",
-      "alt": "Epping vanity and bathroom joinery",
+      "alt": "Epping bathroom with reeded timber vanity, freestanding bath and brass tapware",
       "servicePath": "/renovations"
     }
   ],

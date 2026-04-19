@@ -14,28 +14,13 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/2.jpeg",
-      "alt": "James Lane Moore Park curved wall framing during fitout",
-      "caption": "Curved wall framing and fitout construction inside the James Lane showroom at Moore Park."
-    },
-    {
-      "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/3.jpeg",
-      "alt": "James Lane Moore Park curved wall framing detail",
-      "caption": "Closer view of the curved framing and set-out used in the Moore Park showroom fitout."
-    },
-    {
-      "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/4.jpeg",
-      "alt": "James Lane Moore Park curved wall after lining",
-      "caption": "Curved feature wall after lining and shaping in the James Lane Moore Park showroom."
-    },
-    {
       "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/5.jpeg",
-      "alt": "Completed curved display wall at James Lane Moore Park",
-      "caption": "Finished curved display wall installed in the James Lane Moore Park showroom."
+      "alt": "Completed curved display wall at James Lane Moore Park showroom",
+      "caption": "Finished curved display wall installed and ready in the James Lane Moore Park showroom."
     },
     {
       "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/6.jpeg",
-      "alt": "James Lane Moore Park showroom display after fitout",
+      "alt": "James Lane Moore Park completed showroom display area",
       "caption": "Completed furniture display area after the James Lane Moore Park fitout was finished."
     }
   ],
@@ -44,14 +29,29 @@
       "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/1.jpeg",
       "alt": "James Lane Moore Park showroom before curved wall fitout",
       "caption": "Showroom area before the curved display wall and fitout elements were completed for James Lane in Moore Park."
+    },
+    {
+      "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/2.jpeg",
+      "alt": "Curved wall framing and set-up inside the factory",
+      "caption": "Curved wall framing set out and fabricated in the workshop before delivery to the Moore Park site."
+    },
+    {
+      "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/3.jpeg",
+      "alt": "James Lane Moore Park curved wall framing on site — setting out detail",
+      "caption": "Curved framing set out on site — the precision at this stage determines how cleanly the finished wall sits."
+    },
+    {
+      "src": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/4.jpeg",
+      "alt": "James Lane Moore Park curved wall after lining — ready for fit-off",
+      "caption": "Curved feature wall after lining, shaped and ready for the final joinery fit-off stage."
     }
   ],
   "spaces": [
     {
       "title": "Commercial fitout",
       "text": "A curved feature fitout fabricated and assembled for the James Lane showroom, with the framing, lining and display wall handled as one commercial joinery package.",
-      "image": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/2.jpeg",
-      "alt": "Moore Park curved commercial fitout detail",
+      "image": "/projects-old/supa-centa-moore-park2-todman-ave-kensington/5.jpeg",
+      "alt": "Moore Park curved commercial fitout — completed display wall",
       "servicePath": "/custom-joinery"
     }
   ],

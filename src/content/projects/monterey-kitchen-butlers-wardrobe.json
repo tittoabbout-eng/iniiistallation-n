@@ -3,65 +3,74 @@
   "title": "Monterey Kitchen, Butler\u2019s Pantry & Wardrobe",
   "shortTitle": "Monterey",
   "suburb": "Monterey",
-  "summary": "Multi-space joinery project in Monterey combining kitchen work, butler\u2019s pantry storage and wardrobe joinery.",
-  "heroImage": "/projects-old/jones-ave-monterey-nsw/1.jpg",
-  "heroAlt": "Monterey joinery project with kitchen, butler\u2019s pantry and wardrobe storage",
+  "summary": "Multi-space joinery project in Monterey combining a full kitchen, butler\u2019s pantry shelving and a custom wardrobe fitout.",
+  "heroImage": "/projects-old/jones-ave-monterey-nsw/4.jpeg",
+  "heroAlt": "Monterey kitchen with stone island, oven stack and full-height cabinetry",
   "overview": "This Monterey project is one of the clearer examples of a multi-room joinery brief being resolved as one coherent scope. Rather than treating the kitchen, pantry and bedroom storage as unrelated upgrades, the project carries one finish direction and one level of detailing across the spaces.",
   "materials": [
-    "Kitchen cabinetry",
-    "Butler\u2019s pantry storage",
-    "Wardrobe joinery"
+    "Handleless kitchen cabinetry with stone island benchtop",
+    "Full-height oven stack and integrated fridge cavity",
+    "Sink run with dishwasher integration and window splashback",
+    "Walk-in butler\u2019s pantry with L-shape open shelving",
+    "Custom wardrobe with black framed ribbed glass doors and brass hardware"
   ],
   "afterImages": [
     {
-      "src": "/projects-old/jones-ave-monterey-nsw/1.jpg",
-      "alt": "Monterey kitchen joinery and island detail",
-      "caption": "Completed kitchen joinery in Monterey with a larger working bench and cleaner cabinetry."
-    },
-    {
-      "src": "/projects-old/jones-ave-monterey-nsw/3.jpeg",
-      "alt": "Monterey butler\u2019s pantry shelving",
-      "caption": "Butler\u2019s pantry shelving and storage detail from the Monterey project."
-    },
-    {
       "src": "/projects-old/jones-ave-monterey-nsw/4.jpeg",
-      "alt": "Monterey wardrobe storage detail",
-      "caption": "Wardrobe storage detail from the Monterey fitout showing the broader scope beyond the kitchen."
+      "alt": "Monterey kitchen full view — island, oven stack, sink run and overhead cabinetry",
+      "caption": "Full kitchen view showing the stone island, full-height oven stack, sink run and overhead cabinetry — the whole scope in one shot."
     },
     {
       "src": "/projects-old/jones-ave-monterey-nsw/5.jpeg",
-      "alt": "Monterey integrated storage finish",
-      "caption": "Integrated storage finish from the Monterey joinery project."
+      "alt": "Monterey kitchen full-height oven stack and tall pantry cabinetry",
+      "caption": "Full-height oven stack with double ovens and tall pantry cabinetry alongside — the appliance wall designed to hold everything without breaking the clean handleless front."
     },
     {
       "src": "/projects-old/jones-ave-monterey-nsw/6.jpeg",
-      "alt": "Monterey cabinetry and benchtop detail",
-      "caption": "Cabinetry and benchtop detail from the completed Monterey fitout."
+      "alt": "Monterey kitchen sink side with dishwasher, drawers and window splashback",
+      "caption": "Sink side of the kitchen — dishwasher integration, finger-pull drawers, stone benchtop and overhead cabinets running the full length of the window."
     },
     {
       "src": "/projects-old/jones-ave-monterey-nsw/7.jpeg",
-      "alt": "Monterey kitchen and pantry transition",
-      "caption": "View showing how the Monterey kitchen and pantry joinery connect."
+      "alt": "Monterey butler\u2019s pantry with L-shape walk-in shelving",
+      "caption": "Walk-in butler\u2019s pantry with L-shape open shelving — enough depth and height to keep the main kitchen completely clear."
+    },
+    {
+      "src": "/projects-old/jones-ave-monterey-nsw/1.jpg",
+      "alt": "Monterey wardrobe with black framed ribbed glass doors and brass hardware — front view",
+      "caption": "Wardrobe joinery with full-height black framed ribbed glass doors and brass handles — a strong design statement that works just as hard as the kitchen."
+    },
+    {
+      "src": "/projects-old/jones-ave-monterey-nsw/3.jpeg",
+      "alt": "Monterey wardrobe with black framed ribbed glass doors — angle view showing depth",
+      "caption": "Angle view of the wardrobe showing the depth of the joinery and how the ribbed glass panels sit within the black frame on three sides."
     }
   ],
   "beforeImages": [],
   "spaces": [
     {
-      "title": "Kitchen & pantry",
-      "text": "Kitchen cabinetry was supported by extra pantry storage so the finished joinery works as one connected scope rather than separate pieces.",
-      "image": "/projects-old/jones-ave-monterey-nsw/1.jpg",
-      "alt": "Monterey kitchen joinery detail",
+      "title": "Kitchen",
+      "text": "The kitchen was laid out so the island, sink run, oven stack and pantry connection all work together as one resolved scope — not separate pieces bolted together.",
+      "image": "/projects-old/jones-ave-monterey-nsw/4.jpeg",
+      "alt": "Monterey kitchen full view with stone island and full-height cabinetry",
+      "servicePath": "/kitchens-renovations"
+    },
+    {
+      "title": "Butler\u2019s pantry",
+      "text": "Walk-in L-shape shelving gives the kitchen proper back-of-house storage. Everything has a place and the layout makes it easy to find.",
+      "image": "/projects-old/jones-ave-monterey-nsw/7.jpeg",
+      "alt": "Monterey butler\u2019s pantry with L-shape walk-in shelving",
       "servicePath": "/kitchens-renovations"
     },
     {
       "title": "Wardrobes",
-      "text": "Wardrobe joinery kept the bedroom storage aligned with the same premium finish direction used elsewhere in the home.",
-      "image": "/projects-old/jones-ave-monterey-nsw/4.jpeg",
-      "alt": "Monterey wardrobes joinery detail",
+      "text": "Custom wardrobe joinery with black framed ribbed glass doors and brass hardware — bedroom storage that holds the same premium finish direction as the rest of the home.",
+      "image": "/projects-old/jones-ave-monterey-nsw/1.jpg",
+      "alt": "Monterey wardrobe with black framed ribbed glass doors and brass handles",
       "servicePath": "/wardrobes"
     }
   ],
-  "outcome": "The result feels more cohesive because the kitchen, pantry and wardrobe joinery all read as part of one considered fitout instead of isolated room updates.",
+  "outcome": "The result feels cohesive because the kitchen, pantry and wardrobe joinery all read as part of one considered fitout instead of isolated room updates.",
   "ctaText": "If you are planning a multi-room joinery project in Monterey or Bayside, send through your scope and we can help shape the right next step.",
   "reviewIds": [
     "karim"

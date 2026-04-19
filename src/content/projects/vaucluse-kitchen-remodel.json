@@ -24,26 +24,6 @@
       "caption": "Entry view into the completed Vaucluse kitchen, showing the island and appliance wall."
     },
     {
-      "src": "/projects-old/tower-st-vaucluse/2.jpg",
-      "alt": "Vaucluse kitchen cabinetry during installation",
-      "caption": "Cabinetry installation stage from the Vaucluse apartment kitchen remodel."
-    },
-    {
-      "src": "/projects-old/tower-st-vaucluse/3.jpg",
-      "alt": "Vaucluse galley kitchen joinery in progress",
-      "caption": "Galley kitchen joinery taking shape in the Vaucluse apartment."
-    },
-    {
-      "src": "/projects-old/tower-st-vaucluse/4.jpg",
-      "alt": "Vaucluse kitchen upper cabinetry detail",
-      "caption": "Upper-cabinetry detail from the Vaucluse remodel before the room was fully finished."
-    },
-    {
-      "src": "/projects-old/tower-st-vaucluse/5.jpg",
-      "alt": "Vaucluse kitchen island and cabinet layout in progress",
-      "caption": "In-progress angle showing the island and cabinet layout in Vaucluse."
-    },
-    {
       "src": "/projects-old/tower-st-vaucluse/6.jpg",
       "alt": "Vaucluse galley kitchen with skylight and white joinery",
       "caption": "Longer galley view from the Vaucluse kitchen showing the skylight, white cabinetry and timber-look joinery."
@@ -52,8 +32,13 @@
   "beforeImages": [
     {
       "src": "/projects-old/tower-st-vaucluse/1.jpg",
-      "alt": "Vaucluse kitchen during renovation and cabinetry installation",
-      "caption": "Renovation stage from the Vaucluse kitchen showing cabinetry installation in progress."
+      "alt": "Vaucluse kitchen early installation stage — carcasses being set out",
+      "caption": "Early installation stage showing the Vaucluse kitchen carcasses being set out before doors and finishes were added."
+    },
+    {
+      "src": "/projects-old/tower-st-vaucluse/3.jpg",
+      "alt": "Vaucluse galley kitchen during joinery installation",
+      "caption": "Galley kitchen during installation, showing the cabinet runs taking shape before the final finishes and hardware were fitted."
     }
   ],
   "spaces": [

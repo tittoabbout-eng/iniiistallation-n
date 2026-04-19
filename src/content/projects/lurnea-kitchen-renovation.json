@@ -4,8 +4,8 @@
   "shortTitle": "Lurnea",
   "suburb": "Lurnea",
   "summary": "Kitchen renovation in Lurnea with an updated island layout, stronger storage and cleaner joinery lines.",
-  "heroImage": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
-  "heroAlt": "Lurnea kitchen renovation with dark lower cabinetry and island bench",
+  "heroImage": "/projects-old/reily-st-lurnea-nsw/1.jpeg",
+  "heroAlt": "Lurnea kitchen renovation with new island, dark lower cabinetry and white uppers",
   "overview": "This Lurnea kitchen renovation centred on improving the working layout of the room through new joinery, an island bench and a sharper cabinet composition. The changes were aimed at making the kitchen feel more organised and better balanced for daily use.",
   "materials": [
     "Kitchen island joinery",
@@ -14,37 +14,22 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
-      "alt": "Lurnea kitchen renovation with island bench",
-      "caption": "Completed Lurnea kitchen renovation with an island bench, dark lower cabinetry and lighter upper finishes."
+      "src": "/projects-old/reily-st-lurnea-nsw/1.jpeg",
+      "alt": "Lurnea renovated kitchen with new island, dark lower cabinetry and white uppers",
+      "caption": "New kitchen installed — dark lower cabinetry, white uppers, stone island benchtop and updated appliance layout."
     },
     {
-      "src": "/projects-old/reily-st-lurnea-nsw/3.jpeg",
-      "alt": "Lurnea kitchen working triangle and cabinetry",
-      "caption": "Another kitchen angle showing the cabinetry layout and appliance positioning in Lurnea."
+      "src": "/projects-old/reily-st-lurnea-nsw/2.jpeg",
+      "alt": "Lurnea kitchen full U-shape view with island and new cabinetry",
+      "caption": "Full U-shape kitchen view showing the new island, cabinetry layout and how the space opened up after the renovation."
     },
     {
       "src": "/projects-old/reily-st-lurnea-nsw/4.jpeg",
-      "alt": "Lurnea kitchen island and appliance wall",
-      "caption": "Island and appliance-wall detail from the finished Lurnea kitchen."
-    },
-    {
-      "src": "/projects-old/reily-st-lurnea-nsw/5.webp",
-      "alt": "Lurnea kitchen from living side",
-      "caption": "View into the Lurnea kitchen showing how the new joinery opens to the adjacent room."
-    },
-    {
-      "src": "/projects-old/reily-st-lurnea-nsw/6.webp",
-      "alt": "Lurnea kitchen before-and-after comparison finish",
-      "caption": "Completed kitchen detail used for the before-and-after comparison in Lurnea."
+      "alt": "Lurnea kitchen island foreground with new joinery and appliances",
+      "caption": "Island in the foreground with the full kitchen run behind — the stone benchtop and dark lower cabinetry carrying through the whole layout."
     }
   ],
   "beforeImages": [
-    {
-      "src": "/projects-old/reily-st-lurnea-nsw/1.jpeg",
-      "alt": "Lurnea kitchen before renovation",
-      "caption": "Original Lurnea kitchen before the new island, cabinetry and darker colour palette were installed."
-    },
     {
       "src": "/lurnea/lurnea-kitchen-before-2.jpg",
       "alt": "Lurnea kitchen before renovation showing original layout",
@@ -54,6 +39,16 @@
       "src": "/lurnea/lurnea-kitchen-before-3.jpg",
       "alt": "Lurnea kitchen before renovation from opposite angle",
       "caption": "Another view of the original Lurnea kitchen before the new joinery and island were installed."
+    },
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/5.webp",
+      "alt": "Lurnea original kitchen before renovation — wide view with fridge",
+      "caption": "The original Lurnea kitchen before renovation — beige cabinetry, laminate doors and the old layout that was stripped out."
+    },
+    {
+      "src": "/projects-old/reily-st-lurnea-nsw/6.webp",
+      "alt": "Lurnea original kitchen sink side before renovation",
+      "caption": "Sink side of the original Lurnea kitchen showing the old benchtop, cabinetry and layout before the renovation began."
     }
   ],
   "spaces": [
