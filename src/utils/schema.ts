@@ -12,6 +12,12 @@ type BreadcrumbItem = {
   path: string
 }
 
+type ProjectImageLike = {
+  src: string
+  alt: string
+  caption: string
+}
+
 export function buildLocalBusinessSchema() {
   return {
     '@context': 'https://schema.org',
@@ -25,6 +31,7 @@ export function buildLocalBusinessSchema() {
     areaServed: areaPages.map((area) => area.name),
     address: {
       '@type': 'PostalAddress',
+      streetAddress: 'Liverpool',
       addressLocality: 'Liverpool',
       addressRegion: 'NSW',
       postalCode: '2170',
@@ -46,6 +53,23 @@ export function buildLocalBusinessSchema() {
         closes: '16:30',
       },
     ],
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '5',
+      reviewCount: '8',
+      bestRating: '5',
+      worstRating: '1',
+    },
+    hasCredential: {
+      '@type': 'EducationalOccupationalCredential',
+      name: 'NSW Licensed Contractor — Kitchen, Laundry & Bathroom Renovations',
+      credentialCategory: 'licence',
+    },
+    identifier: {
+      '@type': 'PropertyValue',
+      name: 'ABN',
+      value: siteSettings.abn,
+    },
     sameAs: [siteSettings.googleReviewsUrl],
     priceRange: '$$',
   }
@@ -99,5 +123,91 @@ export function buildWebsiteSchema() {
     name: siteSettings.name,
     url: siteSettings.siteUrl,
     inLanguage: 'en-AU',
+  }
+}
+
+export function buildServiceSchema(service: {
+  title: string
+  metaDescription: string
+  slug: string
+  heroImage: string
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: service.title,
+    description: service.metaDescription,
+    url: `${siteSettings.siteUrl}/${service.slug}`,
+    image: `${siteSettings.siteUrl}${service.heroImage}`,
+    provider: {
+      '@type': 'LocalBusiness',
+      name: siteSettings.name,
+      url: siteSettings.siteUrl,
+      telephone: siteSettings.phone,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: 'Liverpool',
+        addressRegion: 'NSW',
+        postalCode: '2170',
+        addressCountry: 'AU',
+      },
+    },
+    areaServed: {
+      '@type': 'AdministrativeArea',
+      name: 'Sydney, NSW',
+    },
+    serviceType: service.title,
+    availableChannel: {
+      '@type': 'ServiceChannel',
+      serviceUrl: `${siteSettings.siteUrl}/contact`,
+      servicePhone: siteSettings.phone,
+    },
+  }
+}
+
+export function buildProjectSchema(project: {
+  title: string
+  summary: string
+  slug: string
+  heroImage: string
+  heroAlt: string
+  suburb: string
+  afterImages: readonly ProjectImageLike[]
+}) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CreativeWork',
+    name: project.title,
+    description: project.summary,
+    url: `${siteSettings.siteUrl}/projects/${project.slug}`,
+    locationCreated: {
+      '@type': 'Place',
+      name: project.suburb,
+      address: {
+        '@type': 'PostalAddress',
+        addressLocality: project.suburb,
+        addressRegion: 'NSW',
+        addressCountry: 'AU',
+      },
+    },
+    creator: {
+      '@type': 'LocalBusiness',
+      name: siteSettings.name,
+      url: siteSettings.siteUrl,
+      telephone: siteSettings.phone,
+    },
+    image: [
+      {
+        '@type': 'ImageObject',
+        url: `${siteSettings.siteUrl}${project.heroImage}`,
+        name: project.heroAlt,
+      },
+      ...project.afterImages.slice(0, 6).map((img) => ({
+        '@type': 'ImageObject',
+        url: `${siteSettings.siteUrl}${img.src}`,
+        name: img.alt,
+        caption: img.caption,
+      })),
+    ],
   }
 }

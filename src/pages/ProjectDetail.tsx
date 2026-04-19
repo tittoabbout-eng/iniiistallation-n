@@ -12,6 +12,7 @@ import { projectContent } from '../data/projectContent'
 import {
   buildBreadcrumbSchema,
   buildLocalBusinessSchema,
+  buildProjectSchema,
 } from '../utils/schema'
 
 type ProjectItem = (typeof projects)[number]
@@ -144,6 +145,7 @@ export default function ProjectDetail({ project }: { project: ProjectItem }) {
   const relatedServices = Array.from(new Map(project.spaces.map((space) => [space.servicePath, { path: space.servicePath, label: space.title }])).values())
   const schema = [
     buildLocalBusinessSchema(),
+    buildProjectSchema(project),
     buildBreadcrumbSchema([
       { name: 'Home', path: '/' },
       { name: 'Projects', path: '/projects' },

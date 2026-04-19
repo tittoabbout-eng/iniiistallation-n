@@ -8,11 +8,12 @@
   "heroAlt": "Darlinghurst custom kitchen with timber-look joinery and stone splashback",
   "overview": "This Darlinghurst project shows how much can be resolved in a compact inner-city footprint when the joinery is planned properly. The rooms needed to work hard without feeling overcrowded, so the cabinetry had to carry storage, concealment and visual calm at the same time.",
   "materials": [
-    "Boston Oak-style timber-look joinery used through key parts of the fitout",
-    "Stone splashback and benchtop details in the kitchen and servery zone",
+    "Boston Oak — Polytec Chifley profile (polytec.com.au) used throughout key parts of the fitout including wall cladding, pivot doors, cabinetry and wardrobe fronts",
+    "Stone splashback and benchtop details in the kitchen and a hidden servery zone for your daily coffee",
     "Blum pocket doors concealing the hidden laundry",
-    "Concealed wall and cladding details to keep storage feeling integrated",
-    "Custom wardrobe and vanity joinery built to suit a compact footprint"
+    "Concealed wall cladding throughout with pivot doors matching the Boston Oak finish across the whole house",
+    "Murphy bed (queen size) with custom wardrobe and cabinets along the top and sides for storage on each side",
+    "Vanity joinery built to suit a compact footprint"
   ],
   "afterImages": [
     {
@@ -69,11 +70,36 @@
       "src": "/darlinghurst/darlinghurst-kitchen-bar.jpg",
       "alt": "Darlinghurst wardrobe wall closed elevation showing full timber-look joinery",
       "caption": "The closed wardrobe wall shows how the full-height timber-look joinery reads as a single resolved surface across the room."
+    },
+    {
+      "src": "/darlinghurst/darlinghurst-cladding-hallway-1.jpg",
+      "alt": "Darlinghurst hallway wall cladding in Boston Oak Polytec Chifley with wall sconces",
+      "caption": "The hallway cladding in Boston Oak Polytec Chifley gives the entire circulation zone the same resolved material language as the cabinetry throughout the home."
+    },
+    {
+      "src": "/darlinghurst/darlinghurst-cladding-corridor-wide.jpg",
+      "alt": "Darlinghurst corridor wall cladding running full length to front door",
+      "caption": "Wall cladding running the full corridor length ties the entry sequence into a single architecturally finished surface — no painted plasterboard breaks the material story."
+    },
+    {
+      "src": "/darlinghurst/darlinghurst-cladding-corridor-day.jpg",
+      "alt": "Darlinghurst hallway cladding with natural light from front door and exposed brick contrast",
+      "caption": "Daytime light from the front entry catches the Boston Oak grain against the original sandstock brick — a deliberate contrast between the raw heritage fabric and the new precision joinery."
+    },
+    {
+      "src": "/darlinghurst/darlinghurst-cladding-kitchen-zone.jpg",
+      "alt": "Darlinghurst cladding wrapping from hallway into kitchen zone",
+      "caption": "The cladding wraps from the hallway into the kitchen zone, integrating the transition between spaces behind a continuous face."
+    },
+    {
+      "src": "/darlinghurst/darlinghurst-cladding-corner.jpg",
+      "alt": "Darlinghurst Boston Oak wall cladding three-wall corner detail",
+      "caption": "Three-wall corner detail — panels meeting cleanly at internal angles, flush and shadow-line tight throughout."
     }
   ],
   "beforeImages": [
     {
-      "src": "/darlinghurst/darlinghurst-kitchen-before-1.jpg",
+      "src": "/darlinghurst/darlinghurst-before-1 kitchen.jpg",
       "alt": "Darlinghurst kitchen during build phase",
       "caption": "The kitchen started mid-build, showing the constraints of the apartment footprint before the joinery and finishes came together."
     },
@@ -121,10 +147,10 @@
       "servicePath": "/laundry"
     },
     {
-      "title": "Hallway cladding",
-      "text": "The hallway cladding was designed to make transitional space feel deliberate. It adds warmth, visual calm and a much more finished entry sequence.",
-      "image": "/darlinghurst/darlinghurst-hallway.jpg",
-      "alt": "Darlinghurst hallway cladding and concealed storage wall",
+      "title": "Wall cladding & pivot doors",
+      "text": "Boston Oak Polytec Chifley cladding runs the full length of the hallway and wraps into key zones throughout the apartment. Pivot doors match the cladding finish exactly, reading as part of the wall surface rather than separate door leaves.",
+      "image": "/darlinghurst/darlinghurst-cladding-hallway-1.jpg",
+      "alt": "Darlinghurst hallway wall cladding in Boston Oak with matching pivot doors",
       "servicePath": "/custom-joinery"
     },
     {

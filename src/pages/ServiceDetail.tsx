@@ -20,6 +20,7 @@ import {
   buildBreadcrumbSchema,
   buildFaqSchema,
   buildLocalBusinessSchema,
+  buildServiceSchema,
 } from '../utils/schema'
 
 type ServiceItem = (typeof services)[number]
@@ -43,6 +44,7 @@ export default function ServiceDetail({ service }: { service: ServiceItem }) {
     : 'Explore completed work to see how the layout, materials and detailing come together in real homes.'
   const schema = [
     buildLocalBusinessSchema(),
+    buildServiceSchema(service),
     buildFaqSchema(service.faqs),
     buildBreadcrumbSchema([
       { name: 'Home', path: '/' },
