@@ -21,7 +21,7 @@ import {
 type AreaItem = (typeof areaPages)[number]
 
 const serviceSummaries: Record<string, string> = {
-  'kitchens-renovations':
+  'kitchens':
     'Custom kitchen design, cabinetry and joinery-led renovation scope planned around layout and finish quality.',
   'custom-joinery':
     'Murphy beds, studies, hallway storage, living joinery and room-specific storage solutions built to suit the home.',

@@ -4,8 +4,8 @@
   "shortTitle": "Willoughby",
   "suburb": "Willoughby",
   "summary": "Full home joinery fitout in Willoughby covering kitchen, laundry, wardrobes, mudroom and vanity spaces — multiple materials tied together with one consistent detailing language.",
-  "heroImage": "/willoughby/willoughby-kitchen-hero.jpg",
-  "heroAlt": "Willoughby kitchen renovation — handleless shaker cabinetry with stone island and integrated finger-pull detailing",
+  "heroImage": "/willoughby/willoughby-kitchen-island-clean-1.jpg",
+  "heroAlt": "Willoughby kitchen renovation — marble island benchtop with handleless shaker cabinetry in Dulux Lamb's Ear Half polyurethane",
   "overview": "This Willoughby project is one of the strongest residential case studies on the site because it shows how multiple rooms can be tied together with one clear joinery language. The cabinetry carries a refined shaker profile, warmer timber accents and better-integrated storage across every daily-use room in the home.",
   "materials": [
     "Kitchen: hidden finger-pull shaker doors and handleless shaker detailing throughout",
@@ -16,29 +16,29 @@
   ],
   "afterImages": [
     {
-      "src": "/willoughby/willoughby-kitchen-wide-after.jpg",
-      "alt": "Willoughby kitchen renovation completed — full width showing island and cabinetry run",
-      "caption": "The completed kitchen showing the full L-shape layout with integrated island, handleless finger-pull shaker doors and drawers throughout."
+      "src": "/willoughby/willoughby-kitchen-island-clean-1.jpg",
+      "alt": "Willoughby kitchen — marble island benchtop with full cabinetry run behind",
+      "caption": "The completed kitchen showing the marble island benchtop with the full cabinetry run behind — shaker doors and drawers in Dulux Lamb's Ear Half polyurethane."
     },
     {
-      "src": "/willoughby/willoughby-kitchen-hero.jpg",
-      "alt": "Willoughby kitchen — handleless shaker cabinetry in Dulux Lamb's Ear Half polyurethane",
-      "caption": "Kitchen cabinetry in Dulux Lamb's Ear Half polyurethane with hidden finger-groove detailing running consistently across all doors and drawers."
+      "src": "/willoughby/willoughby-kitchen-island-clean-4.jpg",
+      "alt": "Willoughby kitchen — view from island toward fridge, oven tower and window",
+      "caption": "View from the island looking toward the fridge, oven tower and window — shows the full depth of the kitchen layout."
     },
     {
       "src": "/willoughby/willoughby-kitchen-detail-1.jpg",
-      "alt": "Willoughby kitchen stack oven tower with drawer storage below",
-      "caption": "Stack oven tower with deep drawers below for pots, accessories and cutlery — making use of the full height without wasting any of it."
+      "alt": "Willoughby kitchen — sink wall, overhead cabinets and oven tower",
+      "caption": "Sink wall with overhead cabinetry, marble splashback, gas cooktop and integrated oven tower — all in the same shaker profile and finish."
     },
     {
-      "src": "/willoughby/willoughby-kitchen-island-angle.jpg",
-      "alt": "Willoughby kitchen island angle showing finger-pull groove detail",
-      "caption": "The integrated finger-pull groove runs across all doors, drawers and the pantry door — keeping the shaker profile clean without hardware."
+      "src": "/willoughby/willoughby-kitchen-island-clean-2.jpg",
+      "alt": "Willoughby kitchen island angle — marble benchtop with oven tower in background",
+      "caption": "Island angle looking toward the oven tower — shows how the island sits within the kitchen and the consistency of the joinery throughout."
     },
     {
-      "src": "/willoughby/willoughby-kitchen-detail-2.jpg",
-      "alt": "Willoughby kitchen cabinetry detail — joinery finish and profile",
-      "caption": "Cabinetry detail showing the consistency of the shaker profile and finish quality across the kitchen joinery."
+      "src": "/willoughby/willoughby-kitchen-island-clean-3.jpg",
+      "alt": "Willoughby kitchen island benchtop detail — marble surface and shaker cabinetry",
+      "caption": "Close view of the marble island benchtop with the shaker cabinetry behind — the finger-pull groove detail visible across all drawer fronts."
     },
     {
       "src": "/willoughby/willoughby-vanity-single.jpg",
@@ -51,6 +51,16 @@
       "caption": "Double basin vanity with curved open shelving on both ends and mirrored storage cabinets above."
     },
     {
+      "src": "/willoughby/willoughby-vanity-single-2.jpg",
+      "alt": "Willoughby single basin floating vanity — timber drawer and marble benchtop",
+      "caption": "Single basin floating vanity with timber drawer cabinet and marble benchtop — photographed with natural light from the high window above."
+    },
+    {
+      "src": "/willoughby/willoughby-vanity-double-2.jpg",
+      "alt": "Willoughby double basin vanity — timber floating cabinet with mirrored shaving cabinet",
+      "caption": "Double basin vanity with timber floating cabinet, mirrored shaving cabinet above and marble benchtop — photographed from the bathroom entry."
+    },
+    {
       "src": "/willoughby/willoughby-laundry-hero.jpg",
       "alt": "Willoughby laundry renovation — full-height cabinetry and overhead storage",
       "caption": "Laundry joinery with full-height overhead storage and a resolved utility layout — practical without being an afterthought."
@@ -61,14 +71,49 @@
       "caption": "Laundry storage detail from the Willoughby fitout."
     },
     {
-      "src": "/willoughby/willoughby-wardrobe-white.jpg",
-      "alt": "Willoughby built-in wardrobe in white polyurethane — full height",
-      "caption": "White polyurethane built-in wardrobe — clean profile, full-height storage with hanging and shelf sections."
+      "src": "/willoughby/willoughby-laundry-wide.jpg",
+      "alt": "Willoughby laundry — overhead cabinetry and marble splashback wide view",
+      "caption": "Laundry showing the full run of overhead cabinetry with marble splashback and base cabinets below — white polyurethane finish throughout."
     },
     {
-      "src": "/willoughby/willoughby-wardrobe-after.jpg",
-      "alt": "Willoughby Coastal Oak wardrobe completed",
-      "caption": "Completed wardrobe in Polytec Coastal Oak Woodmatt — full-height built-in with hanging, shelving and drawer storage."
+      "src": "/willoughby/willoughby-laundry-corner.jpg",
+      "alt": "Willoughby laundry corner — full-height cabinetry with marble splashback",
+      "caption": "Corner angle of the laundry showing the full cabinet height, marble splashback and how the joinery wraps the room."
+    },
+    {
+      "src": "/willoughby/willoughby-laundry-lshape.jpg",
+      "alt": "Willoughby laundry L-shape layout — sink, marble benchtop and tall pantry column",
+      "caption": "The L-shape laundry run with undermount sink, marble benchtop, marble splashback and a full-height pantry column — clean and functional."
+    },
+    {
+      "src": "/willoughby/willoughby-laundry-wide-2.jpg",
+      "alt": "Willoughby laundry — full room view showing cabinetry, window and floor",
+      "caption": "Full room view of the laundry from the doorway — white cabinetry running floor to ceiling with natural light from the window."
+    },
+    {
+      "src": "/willoughby/willoughby-wardrobe-new-1.jpg",
+      "alt": "Willoughby white polyurethane built-in wardrobe — bedroom context with pendant light",
+      "caption": "Full-height white polyurethane built-in wardrobe in the bedroom — flush doors, no hardware, clean lines from floor to ceiling."
+    },
+    {
+      "src": "/willoughby/willoughby-wardrobe-new-2.jpg",
+      "alt": "Willoughby white wardrobe with drawers below — bedroom with pendant light",
+      "caption": "White polyurethane wardrobe with upper doors and drawer bank below — photographed from the bedroom showing the full wall of storage."
+    },
+    {
+      "src": "/willoughby/willoughby-wardrobe-new-3.jpg",
+      "alt": "Willoughby Coastal Oak wardrobe — full height with drawers, natural light from window",
+      "caption": "Coastal Oak Woodmatt wardrobe with full-height doors and a bank of drawers at the base — natural light from the window beside it."
+    },
+    {
+      "src": "/willoughby/willoughby-wardrobe-new-4.jpg",
+      "alt": "Willoughby Coastal Oak wardrobe — wide bedroom angle with timber finish",
+      "caption": "Wider bedroom angle showing the Coastal Oak wardrobe in context — timber grain finish with drawer storage below, sitting beside the window."
+    },
+    {
+      "src": "/willoughby/willoughby-wardrobe-new-5.jpg",
+      "alt": "Willoughby mudroom hallway joinery — white built-in storage with sliding door",
+      "caption": "Hallway joinery with white built-in storage and sliding door — shows how the fitout extends beyond the main rooms into the entry sequence."
     },
     {
       "src": "/willoughby/willoughby-mudroom.jpg",
@@ -117,8 +162,8 @@
     {
       "title": "Kitchen",
       "text": "The kitchen is the hero of the project — a special-order handleless shaker design with hidden finger-pull detailing. It balances a classic profile with a restrained finish palette so the space feels premium without being overstated.",
-      "image": "/willoughby/willoughby-kitchen-hero.jpg",
-      "alt": "Willoughby kitchen renovation completed",
+      "image": "/willoughby/willoughby-kitchen-island-clean-1.jpg",
+      "alt": "Willoughby kitchen — marble island and shaker cabinetry completed",
       "servicePath": "/kitchens"
     },
     {
@@ -131,15 +176,15 @@
     {
       "title": "Wardrobes",
       "text": "Two wardrobe expressions across the home — white polyurethane and Coastal Oak — both designed around practical internal layouts with drawers and hanging space rather than just door fronts.",
-      "image": "/willoughby/willoughby-wardrobe-after.jpg",
-      "alt": "Willoughby built-in wardrobe in Coastal Oak finish",
+      "image": "/willoughby/willoughby-wardrobe-new-3.jpg",
+      "alt": "Willoughby Coastal Oak built-in wardrobe — full height with drawers",
       "servicePath": "/wardrobes"
     },
     {
       "title": "Vanities",
       "text": "Floating vanities and mirrored storage gave each bathroom a calmer, more resolved feel — keeping the fitout feeling complete rather than stopping at the kitchen.",
-      "image": "/willoughby/willoughby-vanity-double.jpg",
-      "alt": "Willoughby double basin vanity with open shelving",
+      "image": "/willoughby/willoughby-vanity-single-2.jpg",
+      "alt": "Willoughby single basin floating vanity — timber drawer cabinet and marble benchtop",
       "servicePath": "/renovations"
     },
     {

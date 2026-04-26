@@ -59,6 +59,8 @@ export default function Home() {
         description={home.heroDescription}
         image={home.heroImage}
         imageAlt={home.heroImageAlt}
+        video="/hero.mp4"
+        videoPoster="/hero-poster.jpg"
           actions={
           <>
             <Link
