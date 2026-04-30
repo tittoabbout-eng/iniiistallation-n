@@ -2,6 +2,7 @@
   command = "npm run build"
   publish = "dist"
 
+# Domain canonicalisation
 [[redirects]]
   from = "https://www.insideoutjoinery.au/*"
   to = "https://insideoutjoinery.au/:splat"
@@ -32,6 +33,7 @@
   status = 301
   force = true
 
+# Service page aliases
 [[redirects]]
   from = "/kitchens-renovations"
   to = "/kitchens"
@@ -43,28 +45,330 @@
   status = 301
 
 [[redirects]]
+  from = "/custom-kitchens"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/laundries"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/tv-units"
+  to = "/custom-joinery"
+  status = 301
+
+# PHP redirects — kitchen service pages
+[[redirects]]
   from = "/kitchen-renovations-sydney.php"
   to = "/kitchens"
   status = 301
 
 [[redirects]]
-  from = "/bathroom-renovations-sydney.php"
-  to = "/bathrooms"
+  from = "/kitchen-ranges-sydney.php"
+  to = "/kitchens"
   status = 301
 
+[[redirects]]
+  from = "/new-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/custom-range-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/classic-range-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/modern-range-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/luxury-range-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/professional-range-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/modern-kitchen-design-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/galley-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/galley-with-island-bench-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/g-shape-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/l-shaped-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/u-shaped-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/two-row-galley-kitchens-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/family-style-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/farmhouse-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/hamptons-style-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/scandinavian-style-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/industrial-style-kitchen-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/kitchen-layouts-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/kitchen-styles-sydney.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-kitchen.php"
+  to = "/kitchens"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-walking-pantry.php"
+  to = "/kitchens"
+  status = 301
+
+# PHP redirects — custom joinery / home office
+[[redirects]]
+  from = "/custom-joinery-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/interior-carpentry-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/exterior-carpentry-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/home-office-solutions-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/home-office-ranges-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/home-office-classic-ranges-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/home-office-compact-ranges-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/home-office-luxury-ranges-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/home-office-modern-ranges-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/tv-units-sydney.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-tv-units.php"
+  to = "/custom-joinery"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-office-desk.php"
+  to = "/custom-joinery"
+  status = 301
+
+# PHP redirects — wardrobes
 [[redirects]]
   from = "/wardrobe-installation-sydney.php"
   to = "/wardrobes"
   status = 301
 
 [[redirects]]
+  from = "/built-in-wardrobes-sydney.php"
+  to = "/wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/sliding-wardrobes-sydney.php"
+  to = "/wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/hinged-wardrobes-sydney.php"
+  to = "/wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/walk-in-wardrobes-sydney.php"
+  to = "/wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/wardrobe-ranges-sydney.php"
+  to = "/wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/wardrobes-sydney.php"
+  to = "/wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-wardrobes.php"
+  to = "/wardrobes"
+  status = 301
+
+# PHP redirects — bathrooms
+[[redirects]]
+  from = "/bathroom-renovations-sydney.php"
+  to = "/bathrooms"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-bathroom.php"
+  to = "/bathrooms"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-vanities.php"
+  to = "/bathrooms"
+  status = 301
+
+# PHP redirects — laundry
+[[redirects]]
   from = "/laundry-renovations-sydney.php"
   to = "/laundry"
   status = 301
 
 [[redirects]]
-  from = "/custom-joinery-sydney.php"
-  to = "/custom-joinery"
+  from = "/laundry-renovation-sydney.php"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/laundry-ranges-sydney.php"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/classic-laundry-solutions-sydney.php"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/premium-laundry-range-sydney.php"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/elite-laundry-range-sydney.php"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/modern-laundry-range-sydney.php"
+  to = "/laundry"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-laundry.php"
+  to = "/laundry"
+  status = 301
+
+# PHP redirects — shelving
+[[redirects]]
+  from = "/shelving-sydney.php"
+  to = "/shelving-storage"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-shelving.php"
+  to = "/shelving-storage"
+  status = 301
+
+# PHP redirects — general pages
+[[redirects]]
+  from = "/home-fitouts-sydney.php"
+  to = "/renovations"
+  status = 301
+
+[[redirects]]
+  from = "/gallery-home-fitouts.php"
+  to = "/projects"
+  status = 301
+
+[[redirects]]
+  from = "/gallery.php"
+  to = "/projects"
+  status = 301
+
+[[redirects]]
+  from = "/projects.php"
+  to = "/projects"
   status = 301
 
 [[redirects]]
@@ -74,6 +378,11 @@
 
 [[redirects]]
   from = "/contact.php"
+  to = "/contact"
+  status = 301
+
+[[redirects]]
+  from = "/get-a-quote.php"
   to = "/contact"
   status = 301
 
@@ -93,53 +402,24 @@
   status = 301
 
 [[redirects]]
-  from = "/get-a-quote.php"
-  to = "/contact"
+  from = "/faq.php"
+  to = "/"
   status = 301
 
 [[redirects]]
-  from = "/interior-carpentry-sydney.php"
-  to = "/custom-joinery"
+  from = "/index.php"
+  to = "/"
   status = 301
 
 [[redirects]]
-  from = "/exterior-carpentry-sydney.php"
-  to = "/custom-joinery"
+  from = "/dulux-reds.php"
+  to = "/"
   status = 301
 
-[[redirects]]
-  from = "/home-fitouts-sydney.php"
-  to = "/renovations"
-  status = 301
-
-[[redirects]]
-  from = "/new-kitchen-sydney.php"
-  to = "/kitchens"
-  status = 301
-
-[[redirects]]
-  from = "/gallery-kitchen.php"
-  to = "/kitchens"
-  status = 301
-
-[[redirects]]
-  from = "/shelving-sydney.php"
-  to = "/shelving-storage"
-  status = 301
-
+# PHP redirects — suburb/joinery-services pages
 [[redirects]]
   from = "/joinery-services-bondi-junction.php"
   to = "/service-areas/bondi-junction"
-  status = 301
-
-[[redirects]]
-  from = "/joinery-services-minchinbury.php"
-  to = "/service-areas/parramatta"
-  status = 301
-
-[[redirects]]
-  from = "/joinery-services-seven-hills.php"
-  to = "/service-areas/castle-hill"
   status = 301
 
 [[redirects]]
@@ -158,23 +438,13 @@
   status = 301
 
 [[redirects]]
-  from = "/joinery-services-central.php"
-  to = "/"
-  status = 301
-
-[[redirects]]
-  from = "/joinery-services-kellyville-ridge.php"
-  to = "/service-areas/castle-hill"
+  from = "/joinery-services-minchinbury.php"
+  to = "/service-areas/parramatta"
   status = 301
 
 [[redirects]]
   from = "/joinery-services-parramatta.php"
   to = "/service-areas/parramatta"
-  status = 301
-
-[[redirects]]
-  from = "/joinery-services-picton.php"
-  to = "/service-areas/campbelltown"
   status = 301
 
 [[redirects]]
@@ -187,6 +457,130 @@
   to = "/service-areas/parramatta"
   status = 301
 
+[[redirects]]
+  from = "/joinery-services-seven-hills.php"
+  to = "/service-areas/castle-hill"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-kellyville-ridge.php"
+  to = "/service-areas/castle-hill"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-picton.php"
+  to = "/service-areas/campbelltown"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-central.php"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-clovelly.php"
+  to = "/service-areas/clovelly"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-vaucluse.php"
+  to = "/service-areas/vaucluse"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-londonderry.php"
+  to = "/service-areas/parramatta"
+  status = 301
+
+[[redirects]]
+  from = "/joinery-services-south-wentworthville.php"
+  to = "/service-areas/parramatta"
+  status = 301
+
+# PHP redirects — old project/address pages
+[[redirects]]
+  from = "/ross-st-glebe.php"
+  to = "/projects/glebe-kitchen-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/sanctuary-drive-beaumont-hills.php"
+  to = "/projects/beaumont-hills-home-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/420-liverpool-road-croydon.php"
+  to = "/projects/croydon-apartment-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/undercliff-street-neutral-bay.php"
+  to = "/projects/neutral-bay-home-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/tower-st-vaucluse.php"
+  to = "/projects/vaucluse-kitchen-remodel"
+  status = 301
+
+[[redirects]]
+  from = "/cowles-road-mosman.php"
+  to = "/projects/mosman-custom-wardrobes"
+  status = 301
+
+[[redirects]]
+  from = "/archibald-crescent-rosemeadow-nsw.php"
+  to = "/projects/rosemeadow-kitchen-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/supa-centa-moore-park2-todman-ave-kensington.php"
+  to = "/projects/james-lane-moore-park"
+  status = 301
+
+[[redirects]]
+  from = "/reily-st-lurnea-nsw.php"
+  to = "/projects/lurnea-kitchen-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/jones-ave-monterey-nsw.php"
+  to = "/projects/monterey-kitchen-butlers-wardrobe"
+  status = 301
+
+[[redirects]]
+  from = "/nijong-drpemulwuy-nsw.php"
+  to = "/projects/pemulwuy-kitchen-office-fitout"
+  status = 301
+
+[[redirects]]
+  from = "/botany-stcarlton-nsw.php"
+  to = "/projects/carlton-kitchen-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/phoenix-cl-castle-hill-nsw.php"
+  to = "/projects/castle-hill-kitchen-laundry-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/starlight-retreat-harrington-park.php"
+  to = "/projects/harrington-park-home-renovation"
+  status = 301
+
+[[redirects]]
+  from = "/penkivil-st-willoghby.php"
+  to = "/projects/willoughby"
+  status = 301
+
+
+# Safety net: any .php URL not explicitly mapped above → homepage
+[[redirects]]
+  from = "/*.php"
+  to = "/"
+  status = 301
+
+# SPA fallback — must be last
 [[redirects]]
   from = "/*"
   to = "/index.html"
