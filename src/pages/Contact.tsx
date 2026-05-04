@@ -328,7 +328,7 @@ export default function Contact() {
                     <li key={project.slug}>
                       <Link
                         to={`/projects/${project.slug}`}
-                        className="font-semibold text-gold-700 hover:text-gold-600"
+                        className="font-semibold text-gold-600 hover:text-gold-500"
                       >
                         {project.title}
                       </Link>

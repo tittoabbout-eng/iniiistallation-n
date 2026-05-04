@@ -18,7 +18,7 @@ export default function SectionHeading({
 
   return (
     <div className={`max-w-3xl ${alignment} ${className}`.trim()}>
-      {eyebrow ? <p className="eyebrow text-gold-700">{eyebrow}</p> : null}
+      {eyebrow ? <p className="eyebrow text-gold-600">{eyebrow}</p> : null}
       <h2 className="mt-3 text-3xl font-display font-bold text-navy-950 md:text-4xl">
         {title}
       </h2>

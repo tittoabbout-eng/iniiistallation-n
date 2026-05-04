@@ -2,7 +2,7 @@
   "slug": "renovations",
   "navLabel": "Renovations",
   "title": "Home Renovations Sydney",
-  "heroImage": "/willoughby/willoughby-kitchen-detail-2.jpg",
+  "heroImage": "/willoughby/willoughby-kitchen-detail-2.webp",
   "heroAlt": "Kitchen-led renovation project in Willoughby",
   "metaTitle": "Home Renovations Sydney | InsideOut Joinery & Renos",
   "metaDescription": "Joinery-led renovations across Sydney including kitchens, wardrobes, laundries, vanities and full-home fitouts, with real project examples that show how the rooms work together once the joinery is resolved.",
@@ -46,8 +46,8 @@
   "beforeAfter": {
     "title": "Before & after",
     "text": "Willoughby is a good example of a renovation where the kitchen and supporting joinery changed the feel of the whole home rather than just one room.",
-    "before": "/willoughby/willoughby-kitchen-before-1.jpg",
-    "after": "/willoughby/willoughby-kitchen-detail-2.jpg",
+    "before": "/willoughby/willoughby-kitchen-before-1.webp",
+    "after": "/willoughby/willoughby-kitchen-detail-2.webp",
     "beforeAlt": "Willoughby renovation before new kitchen and supporting joinery",
     "afterAlt": "Willoughby renovation after kitchen and supporting joinery fitout"
   },

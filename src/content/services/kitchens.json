@@ -2,7 +2,7 @@
   "slug": "kitchens",
   "navLabel": "Kitchens & Kitchen Renovations",
   "title": "Kitchens & Kitchen Renovations",
-  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+  "heroImage": "/darlinghurst/darlinghurst-kitchen-hero.webp",
   "heroAlt": "Custom kitchen renovation with handleless cabinetry and stone benchtop — InsideOut Joinery Sydney",
   "metaTitle": "Kitchen Renovations Sydney | InsideOut Joinery & Renos",
   "metaDescription": "Custom kitchen renovations across Sydney. Proper layouts, quality cabinetry and trade-cost appliances — all managed end to end. Free quotes. Call 02 5000 0402.",
@@ -51,8 +51,8 @@
   "beforeAfter": {
     "title": "Before & after",
     "text": "The Darlinghurst project is a good example of what careful layout planning does in a compact kitchen. The footprint did not change — the thinking did.",
-    "before": "/darlinghurst/darlinghurst-before-kitchen.jpg",
-    "after": "/darlinghurst/darlinghurst-kitchen-hero.jpg",
+    "before": "/darlinghurst/darlinghurst-before-kitchen.webp",
+    "after": "/darlinghurst/darlinghurst-kitchen-hero.webp",
     "beforeAlt": "Darlinghurst kitchen before renovation",
     "afterAlt": "Darlinghurst kitchen after renovation — custom cabinetry, stone benchtop and integrated appliances"
   },

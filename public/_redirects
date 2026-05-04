@@ -1,6 +1,2 @@
-/custom-kitchens /kitchens 301
-/kitchens-renovations /kitchens 301
-/kitchens-renovations/ /kitchens 301
-/laundries /laundry 301
-/tv-units /custom-joinery 301
-/* /index.html 200
+# DISABLED 2026-05-05 — all redirect rules now live in netlify.toml.
+# Empty intentionally so Netlify ignores this file.

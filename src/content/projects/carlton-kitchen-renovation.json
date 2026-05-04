@@ -4,7 +4,7 @@
   "shortTitle": "Carlton",
   "suburb": "Carlton",
   "summary": "Kitchen renovation in Carlton using a darker lower-cabinet palette, lighter uppers and stone-led detailing.",
-  "heroImage": "/projects-old/botany-stcarlton-nsw/2.jpeg",
+  "heroImage": "/projects-old/botany-stcarlton-nsw/2.webp",
   "heroAlt": "Carlton kitchen remodel with two-tone cabinetry and stone splashback",
   "overview": "Carlton is one of the clearer before-and-after kitchen stories in the imported set because the finish shift is immediate. The remodel relies on the contrast between the darker base cabinetry, lighter overheads and full-height splashback to make the room feel cleaner and more deliberate.",
   "materials": [
@@ -14,19 +14,19 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/botany-stcarlton-nsw/2.jpeg",
+      "src": "/projects-old/botany-stcarlton-nsw/2.webp",
       "alt": "Carlton kitchen renovation with two-tone cabinetry",
       "caption": "Completed Carlton kitchen remodel with darker lower cabinetry, lighter uppers and a full-height stone-look splashback."
     },
     {
-      "src": "/projects-old/botany-stcarlton-nsw/3.jpeg",
+      "src": "/projects-old/botany-stcarlton-nsw/3.webp",
       "alt": "Carlton kitchen cabinet and splashback detail",
       "caption": "Closer kitchen detail from Carlton showing the cabinetry finish and splashback treatment."
     }
   ],
   "beforeImages": [
     {
-      "src": "/projects-old/botany-stcarlton-nsw/1.jpeg",
+      "src": "/projects-old/botany-stcarlton-nsw/1.webp",
       "alt": "Carlton kitchen before renovation",
       "caption": "Original Carlton kitchen before the cabinetry, benchtop and splashback update."
     }
@@ -35,7 +35,7 @@
     {
       "title": "Kitchen",
       "text": "A kitchen remodel that lifted both the finish quality and the way the room works through cleaner cabinetry, stronger contrast and a more settled layout.",
-      "image": "/projects-old/botany-stcarlton-nsw/2.jpeg",
+      "image": "/projects-old/botany-stcarlton-nsw/2.webp",
       "alt": "Carlton kitchen joinery detail",
       "servicePath": "/kitchens"
     }

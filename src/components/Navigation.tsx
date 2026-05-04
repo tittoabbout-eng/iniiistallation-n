@@ -31,7 +31,7 @@ export default function Navigation() {
           </p>
           <a
             href={siteSettings.phoneHref}
-            className="inline-flex shrink-0 items-center gap-2 font-bold text-gold-300 transition-colors hover:text-gold-200"
+            className="inline-flex shrink-0 items-center gap-2 font-bold text-gold-400 transition-colors hover:text-gold-300"
             onClick={() => trackEvent('cta_click', { location: 'nav_topbar', type: 'phone' })}
           >
             <Phone size={14} />
@@ -42,13 +42,14 @@ export default function Navigation() {
 
       <nav className="border-b border-white/10 bg-navy-950/95 backdrop-blur">
         <div className="container-custom flex items-center justify-between gap-6 px-4 py-4 md:px-8">
-          <Link to="/" className="min-w-0">
-            <span className="block truncate text-xl font-display font-bold text-white md:text-2xl">
-              {siteSettings.name}
-            </span>
-            <span className="mt-1 block text-[11px] uppercase tracking-[0.22em] text-gold-300 md:text-xs">
-              {globalContent.brand.subBrandText}
-            </span>
+          <Link to="/" className="min-w-0 shrink-0">
+            <img
+              src="/logo.png"
+              alt="InsideOut Joinery & Renovations"
+              className="h-10 w-auto md:h-12"
+              width="240"
+              height="116"
+            />
           </Link>
 
           <div className="hidden items-center gap-8 lg:flex">
@@ -56,7 +57,7 @@ export default function Navigation() {
               <Link
                 key={item.path}
                 to={item.path}
-                className={`nav-link ${isActive(item.path) ? 'text-gold-300' : 'text-white hover:text-gold-200'}`}
+                className={`nav-link ${isActive(item.path) ? 'text-gold-400' : 'text-white hover:text-gold-300'}`}
               >
                 {item.label}
               </Link>
@@ -64,7 +65,7 @@ export default function Navigation() {
 
             <div className="group relative">
               <button
-                className={`nav-link inline-flex items-center gap-1 ${isServiceActive ? 'text-gold-300' : 'text-white hover:text-gold-200'}`}
+                className={`nav-link inline-flex items-center gap-1 ${isServiceActive ? 'text-gold-400' : 'text-white hover:text-gold-300'}`}
                 type="button"
               >
                 Services <ChevronDown size={14} />
@@ -92,14 +93,14 @@ export default function Navigation() {
 
             <Link
               to="/blog"
-              className={`nav-link ${isActive('/blog') ? 'text-gold-300' : 'text-white hover:text-gold-200'}`}
+              className={`nav-link ${isActive('/blog') ? 'text-gold-400' : 'text-white hover:text-gold-300'}`}
             >
               Blog
             </Link>
 
             <Link
               to="/contact"
-              className={`nav-link ${isActive('/contact') ? 'text-gold-300' : 'text-white hover:text-gold-200'}`}
+              className={`nav-link ${isActive('/contact') ? 'text-gold-400' : 'text-white hover:text-gold-300'}`}
             >
               Contact
             </Link>

@@ -4,7 +4,7 @@
   "shortTitle": "Glebe",
   "suburb": "Glebe",
   "summary": "Kitchen renovation in Glebe focused on cleaner cabinetry, tighter storage planning and a more resolved working layout.",
-  "heroImage": "/projects-old/ross-st-glebe/after/1.jpg",
+  "heroImage": "/projects-old/ross-st-glebe/after/1.webp",
   "heroAlt": "Glebe kitchen renovation with green-tile splashback and custom cabinetry",
   "overview": "This Ross Street project reworked a compact Glebe kitchen so the room felt calmer, better organised and more deliberate in daily use. The joinery needed to lift both the storage capacity and the overall finish without making the space feel heavier.",
   "materials": [
@@ -14,49 +14,49 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/ross-st-glebe/after/1.jpg",
+      "src": "/projects-old/ross-st-glebe/after/1.webp",
       "alt": "Glebe kitchen renovation with green splashback and custom cabinetry",
       "caption": "Completed Glebe kitchen renovation with white cabinetry, timber floors and a deep green tiled splashback."
     },
     {
-      "src": "/projects-old/ross-st-glebe/after/2.jpg",
+      "src": "/projects-old/ross-st-glebe/after/2.webp",
       "alt": "Glebe kitchen cabinetry and appliance detail",
       "caption": "Closer view of the Glebe kitchen showing the updated cabinet runs, dishwasher integration and tiled splashback."
     },
     {
-      "src": "/projects-old/ross-st-glebe/after/3.jpg",
+      "src": "/projects-old/ross-st-glebe/after/3.webp",
       "alt": "Glebe kitchen storage and drawer detail",
       "caption": "Storage detail from the Glebe kitchen showing the renewed cabinet layout and drawer configuration."
     },
     {
-      "src": "/projects-old/ross-st-glebe/after/4.jpg",
+      "src": "/projects-old/ross-st-glebe/after/4.webp",
       "alt": "Glebe cooktop and splashback detail",
       "caption": "Cooktop zone from the Glebe kitchen renovation with tiled splashback and new rangehood detail."
     },
     {
-      "src": "/projects-old/ross-st-glebe/after/5.jpg",
+      "src": "/projects-old/ross-st-glebe/after/5.webp",
       "alt": "Glebe kitchen sink and benchtop detail",
       "caption": "Sink and benchtop detail from the completed Glebe kitchen."
     },
     {
-      "src": "/projects-old/ross-st-glebe/after/6.jpg",
+      "src": "/projects-old/ross-st-glebe/after/6.webp",
       "alt": "Wide view of the finished Glebe kitchen",
       "caption": "Wider view of the completed Glebe kitchen showing how the joinery cleaned up the room layout."
     }
   ],
   "beforeImages": [
     {
-      "src": "/projects-old/ross-st-glebe/before/1.jpg",
+      "src": "/projects-old/ross-st-glebe/before/1.webp",
       "alt": "Glebe kitchen before renovation",
       "caption": "The original Glebe kitchen before the cabinetry, splashback and layout refresh."
     },
     {
-      "src": "/projects-old/ross-st-glebe/before/2.jpg",
+      "src": "/projects-old/ross-st-glebe/before/2.webp",
       "alt": "Glebe kitchen before updated cabinetry",
       "caption": "Another view of the Glebe kitchen before the new joinery and appliance layout were completed."
     },
     {
-      "src": "/projects-old/ross-st-glebe/before/3.jpg",
+      "src": "/projects-old/ross-st-glebe/before/3.webp",
       "alt": "Glebe kitchen before splashback and cabinetry upgrade",
       "caption": "Pre-renovation view showing the older kitchen before the joinery upgrade."
     }
@@ -65,7 +65,7 @@
     {
       "title": "Kitchen",
       "text": "A compact kitchen refit built around cleaner cabinetry lines, better storage use and a finish palette that gives the room more clarity.",
-      "image": "/projects-old/ross-st-glebe/after/1.jpg",
+      "image": "/projects-old/ross-st-glebe/after/1.webp",
       "alt": "Glebe kitchen joinery detail",
       "servicePath": "/kitchens"
     }

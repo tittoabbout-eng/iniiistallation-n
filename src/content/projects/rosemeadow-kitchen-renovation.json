@@ -4,7 +4,7 @@
   "shortTitle": "Rosemeadow",
   "suburb": "Rosemeadow",
   "summary": "Kitchen renovation in Rosemeadow with updated cabinetry, stronger storage and a cleaner working layout.",
-  "heroImage": "/projects-old/archibald-crescent-rosemeadow-nsw/1.jpeg",
+  "heroImage": "/projects-old/archibald-crescent-rosemeadow-nsw/1.webp",
   "heroAlt": "Rosemeadow kitchen renovation with white shaker-style cabinetry",
   "overview": "This Rosemeadow kitchen project focused on lifting the everyday function of the room through better cabinetry and a more resolved layout. The aim was not just to refresh finishes, but to make the kitchen feel cleaner and easier to use.",
   "materials": [
@@ -14,12 +14,12 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/archibald-crescent-rosemeadow-nsw/1.jpeg",
+      "src": "/projects-old/archibald-crescent-rosemeadow-nsw/1.webp",
       "alt": "Rosemeadow kitchen with white cabinetry and island seating",
       "caption": "Completed Rosemeadow kitchen renovation with white cabinetry, island seating and a more open layout."
     },
     {
-      "src": "/projects-old/archibald-crescent-rosemeadow-nsw/3.jpeg",
+      "src": "/projects-old/archibald-crescent-rosemeadow-nsw/3.webp",
       "alt": "Rosemeadow kitchen bench and storage wall",
       "caption": "Bench and storage wall detail from the Rosemeadow kitchen renovation."
     }
@@ -29,7 +29,7 @@
     {
       "title": "Kitchen",
       "text": "A practical kitchen upgrade built around cleaner cabinetry, stronger storage and a more resolved everyday working layout.",
-      "image": "/projects-old/archibald-crescent-rosemeadow-nsw/1.jpeg",
+      "image": "/projects-old/archibald-crescent-rosemeadow-nsw/1.webp",
       "alt": "Rosemeadow kitchen joinery detail",
       "servicePath": "/kitchens"
     }

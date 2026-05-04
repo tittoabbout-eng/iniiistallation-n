@@ -2,7 +2,7 @@
   "slug": "bathrooms",
   "navLabel": "Bathrooms & Bathroom Renovations",
   "title": "Bathrooms & Bathroom Renovations",
-  "heroImage": "/epping/epping-bathroom.jpg",
+  "heroImage": "/epping/epping-bathroom.webp",
   "heroAlt": "Premium bathroom renovation — vanity, freestanding bath and timber cabinetry",
   "metaTitle": "Bathroom Renovations Sydney | InsideOut Joinery & Renos",
   "metaDescription": "Custom bathroom renovations across Sydney. From vanity joinery and storage to full bathroom fitouts — tailored layouts, quality materials and a clear process from start to finish.",
@@ -56,8 +56,8 @@
   "beforeAfter": {
     "title": "Before & after",
     "text": "The Epping project shows how vanity joinery, material selection and a resolved layout can transform a bathroom into a space that feels properly finished rather than just refitted.",
-    "before": "/epping/epping-before-1.jpg",
-    "after": "/epping/epping-bathroom.jpg",
+    "before": "/epping/epping-before-1.webp",
+    "after": "/epping/epping-bathroom.webp",
     "beforeAlt": "Epping bathroom before renovation",
     "afterAlt": "Epping bathroom after renovation — freestanding bath, timber vanity and stone finishes"
   },

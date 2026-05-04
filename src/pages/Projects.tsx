@@ -10,8 +10,10 @@ import { projects, serviceLinks } from '../data/site'
 import { projectContent } from '../data/projectContent'
 import { globalContent } from '../data/globalContent'
 import { buildBreadcrumbSchema, buildLocalBusinessSchema } from '../utils/schema'
+import { useScrollReveal } from '../hooks/useScrollReveal'
 
 export default function Projects() {
+  useScrollReveal()
   const schema = [
     buildLocalBusinessSchema(),
     buildBreadcrumbSchema([
@@ -60,7 +62,7 @@ intro={projectContent.listingPage.featuredIntro}
             {projects.map((project) => (
               <article
                 key={project.slug}
-                className="overflow-hidden rounded-3xl border border-navy-100 bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-xl"
+                className="img-zoom reveal overflow-hidden rounded-3xl border border-navy-100 bg-white shadow-sm transition-all hover:-translate-y-1 hover:shadow-xl"
               >
                 <SmartImage
                   src={project.heroImage}
@@ -71,7 +73,7 @@ intro={projectContent.listingPage.featuredIntro}
                   sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 100vw"
                 />
                 <div className="p-6">
-                  <p className="eyebrow text-gold-700">{project.suburb}</p>
+                  <p className="eyebrow text-gold-600">{project.suburb}</p>
                   <h2 className="mt-3 text-2xl font-display font-semibold text-navy-950">
                     {project.title}
                   </h2>
@@ -85,7 +87,7 @@ intro={projectContent.listingPage.featuredIntro}
                   </ul>
                   <Link
                     to={`/projects/${project.slug}`}
-                    className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-gold-700 transition-colors hover:text-gold-600"
+                    className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-gold-600 transition-colors hover:text-gold-500"
                   >
                     Open full project page <ArrowRight size={16} />
                   </Link>

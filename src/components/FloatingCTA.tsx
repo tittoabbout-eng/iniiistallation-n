@@ -36,7 +36,7 @@ export default function FloatingCTA() {
             className="inline-flex items-center gap-2 rounded-full px-4 py-2 text-sm font-semibold text-navy-950 transition-colors hover:bg-navy-50"
             onClick={() => trackEvent('cta_click', { location: 'floating_cta_desktop', type: 'phone' })}
           >
-            <Phone size={16} className="text-gold-700" />
+            <Phone size={16} className="text-gold-600" />
             {siteSettings.phone}
           </a>
           <Link

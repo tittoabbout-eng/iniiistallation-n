@@ -2,5 +2,29 @@
   "/favicon.svg": {
     "width": 64,
     "height": 64
+  },
+  "/suppliers/acstone.svg": {
+    "width": 512,
+    "height": 512
+  },
+  "/suppliers/blum.svg": {
+    "width": 512,
+    "height": 512
+  },
+  "/suppliers/caesarstone.svg": {
+    "width": 512,
+    "height": 512
+  },
+  "/suppliers/hettich.svg": {
+    "width": 512,
+    "height": 512
+  },
+  "/suppliers/laminex.svg": {
+    "width": 512,
+    "height": 512
+  },
+  "/suppliers/polytec.svg": {
+    "width": 512,
+    "height": 512
   }
 }

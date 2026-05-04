@@ -4,7 +4,7 @@
   "shortTitle": "Castle Hill",
   "suburb": "Castle Hill",
   "summary": "Kitchen and laundry renovation in Castle Hill — new shaker cabinetry, island bench and a fully rebuilt laundry with teal splashback.",
-  "heroImage": "/projects-old/phoenix-cl-castle-hill-nsw/2.jpeg",
+  "heroImage": "/projects-old/phoenix-cl-castle-hill-nsw/2.webp",
   "heroAlt": "Castle Hill kitchen renovation with white shaker cabinetry, island bench and pendant lights",
   "overview": "This Castle Hill project replaced a dated timber kitchen and cramped laundry with a clean white shaker fitout and a properly rebuilt utility room. The kitchen opened up with a new island, pendant lighting and full-height cabinetry, while the laundry went from a single tub and top-loader to a resolved joinery package with side-by-side appliances and a tiled splashback.",
   "materials": [
@@ -15,24 +15,24 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/phoenix-cl-castle-hill-nsw/2.jpeg",
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/2.webp",
       "alt": "Castle Hill completed kitchen — white shaker cabinetry, island bench and pendant lights",
       "caption": "Completed Castle Hill kitchen with white shaker cabinetry, stone island, pendant lighting and full-height storage replacing the original timber fitout."
     },
     {
-      "src": "/projects-old/phoenix-cl-castle-hill-nsw/4.jpeg",
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/4.webp",
       "alt": "Castle Hill completed laundry with teal splashback, overhead storage and side-by-side appliances",
       "caption": "Completed laundry with full-height overhead cabinetry, stone benchtop, teal subway tile splashback and side-by-side black appliances."
     }
   ],
   "beforeImages": [
     {
-      "src": "/projects-old/phoenix-cl-castle-hill-nsw/3.jpeg",
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/3.webp",
       "alt": "Castle Hill kitchen before renovation — original timber cabinetry and dark benchtop",
       "caption": "The original Castle Hill kitchen before renovation — dated timber cabinetry, dark benchtop and an island that made the room feel heavy and closed in."
     },
     {
-      "src": "/projects-old/phoenix-cl-castle-hill-nsw/1.jpeg",
+      "src": "/projects-old/phoenix-cl-castle-hill-nsw/1.webp",
       "alt": "Castle Hill laundry before renovation — original tub and top-loader",
       "caption": "The original laundry before the renovation — exposed tub, top-loader and no proper storage or benchtop."
     }
@@ -41,14 +41,14 @@
     {
       "title": "Kitchen",
       "text": "The kitchen was stripped back and rebuilt with white shaker joinery, a new island bench, pendant lighting and a cleaner layout that makes the room feel larger and easier to use.",
-      "image": "/projects-old/phoenix-cl-castle-hill-nsw/2.jpeg",
+      "image": "/projects-old/phoenix-cl-castle-hill-nsw/2.webp",
       "alt": "Castle Hill completed kitchen with white shaker cabinetry and island bench",
       "servicePath": "/kitchens"
     },
     {
       "title": "Laundry",
       "text": "The laundry was rebuilt from scratch — full-height overhead storage, stone benchtop, teal subway tile splashback and side-by-side appliances in a properly resolved utility layout.",
-      "image": "/projects-old/phoenix-cl-castle-hill-nsw/4.jpeg",
+      "image": "/projects-old/phoenix-cl-castle-hill-nsw/4.webp",
       "alt": "Castle Hill completed laundry with teal splashback and overhead cabinetry",
       "servicePath": "/laundry"
     }

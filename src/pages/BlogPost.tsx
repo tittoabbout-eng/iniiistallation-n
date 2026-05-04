@@ -55,7 +55,7 @@ export default function BlogPost({ post }: { post: BlogPostType }) {
         <div className="container-custom px-4 md:px-8">
           <Link
             to="/blog"
-            className="inline-flex items-center gap-2 text-sm font-semibold text-navy-500 transition-colors hover:text-gold-700"
+            className="inline-flex items-center gap-2 text-sm font-semibold text-navy-500 transition-colors hover:text-gold-500"
           >
             <ArrowLeft size={16} /> Back to all posts
           </Link>
@@ -65,7 +65,7 @@ export default function BlogPost({ post }: { post: BlogPostType }) {
       <article className="section-padding bg-white">
         <div className="container-custom px-4 md:px-8">
           <div className="mx-auto max-w-3xl">
-            <p className="eyebrow text-gold-700">{post.category}</p>
+            <p className="eyebrow text-gold-600">{post.category}</p>
             <h1 className="mt-4 text-3xl font-display font-bold text-navy-950 leading-snug md:text-4xl">
               {post.title}
             </h1>
@@ -96,9 +96,11 @@ export default function BlogPost({ post }: { post: BlogPostType }) {
                   </h2>
                   <div className="mt-4 space-y-4">
                     {section.body.split('\n\n').map((paragraph, i) => (
-                      <p key={i} className="text-base leading-relaxed text-navy-700">
-                        {paragraph}
-                      </p>
+                      <p
+                        key={i}
+                        className="text-base leading-relaxed text-navy-700 [&_a]:font-semibold [&_a]:text-gold-600 [&_a]:underline [&_a]:underline-offset-2 [&_a:hover]:text-gold-600"
+                        dangerouslySetInnerHTML={{ __html: paragraph }}
+                      />
                     ))}
                   </div>
                 </div>

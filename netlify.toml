@@ -580,6 +580,13 @@
   to = "/"
   status = 301
 
+# Trailing-slash canonicalisation: /path/ -> /path (no trailing slash)
+# (Inserted 2026-05-05 — must come BEFORE the SPA fallback.)
+[[redirects]]
+  from = "/:path/"
+  to = "/:path"
+  status = 301
+
 # SPA fallback — must be last
 [[redirects]]
   from = "/*"

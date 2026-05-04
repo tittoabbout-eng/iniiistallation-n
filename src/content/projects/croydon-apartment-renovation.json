@@ -4,7 +4,7 @@
   "shortTitle": "Croydon",
   "suburb": "Croydon",
   "summary": "Apartment joinery upgrade in Croydon focused on cleaner cabinetry, built-in storage and a better-resolved everyday layout.",
-  "heroImage": "/projects-old/420-liverpool-road-croydon/5.jpeg",
+  "heroImage": "/projects-old/420-liverpool-road-croydon/5.webp",
   "heroAlt": "Croydon apartment renovation with compact custom joinery",
   "overview": "This Croydon apartment project shows how joinery can do more of the heavy lifting in a compact footprint. The cabinetry needed to improve storage and day-to-day function while still feeling proportioned to the scale of the apartment.",
   "materials": [
@@ -14,24 +14,24 @@
   ],
   "afterImages": [
     {
-      "src": "/projects-old/420-liverpool-road-croydon/5.jpeg",
+      "src": "/projects-old/420-liverpool-road-croydon/5.webp",
       "alt": "Croydon apartment finished kitchen with marble island and gold pendants",
       "caption": "Completed Croydon apartment kitchen with marble island, gold pendant lights and dark custom cabinetry."
     },
     {
-      "src": "/projects-old/420-liverpool-road-croydon/6.jpeg",
+      "src": "/projects-old/420-liverpool-road-croydon/6.webp",
       "alt": "Croydon apartment kitchen wide view",
       "caption": "Wide view of the completed Croydon kitchen showing the full run of cabinetry and island layout."
     },
     {
-      "src": "/projects-old/420-liverpool-road-croydon/7.jpeg",
+      "src": "/projects-old/420-liverpool-road-croydon/7.webp",
       "alt": "Croydon apartment kitchen cabinetry detail",
       "caption": "Cabinetry detail from the finished Croydon apartment kitchen renovation."
     }
   ],
   "beforeImages": [
     {
-      "src": "/projects-old/420-liverpool-road-croydon/before-13.jpeg",
+      "src": "/projects-old/420-liverpool-road-croydon/before-13.webp",
       "alt": "Croydon apartment kitchen before renovation",
       "caption": "The Croydon apartment kitchen before renovation, showing the original timber cabinetry and layout."
     }
@@ -40,7 +40,7 @@
     {
       "title": "Apartment joinery",
       "text": "Built-in storage and cabinetry were planned around a tighter apartment layout so the result feels practical, proportioned and visually calmer.",
-      "image": "/projects-old/420-liverpool-road-croydon/5.jpeg",
+      "image": "/projects-old/420-liverpool-road-croydon/5.webp",
       "alt": "Croydon built-in joinery detail",
       "servicePath": "/custom-joinery"
     }

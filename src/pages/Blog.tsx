@@ -63,7 +63,7 @@ export default function Blog() {
                   sizes="(min-width: 1024px) 50vw, 100vw"
                 />
                 <div className="p-6">
-                  <p className="eyebrow text-gold-700">{post.category}</p>
+                  <p className="eyebrow text-gold-600">{post.category}</p>
                   <h2 className="mt-3 text-xl font-display font-semibold text-navy-950 leading-snug">
                     {post.title}
                   </h2>
@@ -83,7 +83,7 @@ export default function Blog() {
                     </time>
                     <Link
                       to={`/blog/${post.slug}`}
-                      className="inline-flex items-center gap-2 text-sm font-semibold text-gold-700 transition-colors hover:text-gold-600"
+                      className="inline-flex items-center gap-2 text-sm font-semibold text-gold-600 transition-colors hover:text-gold-500"
                     >
                       Read more <ArrowRight size={16} />
                     </Link>

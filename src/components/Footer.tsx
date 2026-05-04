@@ -15,30 +15,36 @@ export default function Footer() {
       <div className="container-custom px-4 py-16 md:px-8 md:py-20">
         <div className="grid gap-10 lg:grid-cols-[1.2fr_0.8fr_0.8fr_0.9fr]">
           <div>
-            <p className="text-2xl font-display font-bold">{siteSettings.name}</p>
-            <p className="mt-3 max-w-md text-sm leading-relaxed text-navy-200">
+            <img
+              src="/logo.png"
+              alt="InsideOut Joinery & Renovations"
+              className="h-10 w-auto brightness-0 invert"
+              width="200"
+              height="97"
+            />
+            <p className="mt-4 max-w-md text-sm leading-relaxed text-navy-200">
               {globalContent.brand.footerIntro}
             </p>
 
             <div className="mt-6 space-y-3 text-sm text-navy-100">
               <p className="inline-flex items-start gap-3">
-                <Phone size={16} className="mt-0.5 shrink-0 text-gold-300" />
-                <a href={siteSettings.phoneHref} className="font-semibold hover:text-gold-200">
+                <Phone size={16} className="mt-0.5 shrink-0 text-gold-400" />
+                <a href={siteSettings.phoneHref} className="font-semibold hover:text-gold-300">
                   {siteSettings.phone}
                 </a>
               </p>
               <p className="inline-flex items-start gap-3">
-                <Mail size={16} className="mt-0.5 shrink-0 text-gold-300" />
-                <a href={siteSettings.emailHref} className="hover:text-gold-200">
+                <Mail size={16} className="mt-0.5 shrink-0 text-gold-400" />
+                <a href={siteSettings.emailHref} className="hover:text-gold-300">
                   {siteSettings.email}
                 </a>
               </p>
               <p className="inline-flex items-start gap-3">
-                <MapPin size={16} className="mt-0.5 shrink-0 text-gold-300" />
+                <MapPin size={16} className="mt-0.5 shrink-0 text-gold-400" />
                 <span>{siteSettings.baseLocation}</span>
               </p>
               <p className="inline-flex items-start gap-3">
-                <Clock3 size={16} className="mt-0.5 shrink-0 text-gold-300" />
+                <Clock3 size={16} className="mt-0.5 shrink-0 text-gold-400" />
                 <span>{siteSettings.hoursSummary}</span>
               </p>
             </div>
@@ -47,7 +53,7 @@ export default function Footer() {
               href={siteSettings.googleReviewsUrl}
               target="_blank"
               rel="noreferrer"
-              className="mt-6 inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 text-sm font-semibold text-gold-200 transition-colors hover:border-gold-300 hover:text-gold-100"
+              className="mt-6 inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 text-sm font-semibold text-gold-200 transition-colors hover:border-gold-500 hover:text-gold-100"
             >
               <Star size={16} />
               {globalContent.cta.reviewButtonLabel}
@@ -59,7 +65,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-3 text-sm text-navy-200">
               {primaryNavigation.map((item) => (
                 <li key={item.path}>
-                  <Link to={item.path} className="transition-colors hover:text-gold-200">
+                  <Link to={item.path} className="transition-colors hover:text-gold-300">
                     {item.label}
                   </Link>
                 </li>
@@ -72,7 +78,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-3 text-sm text-navy-200">
               {serviceLinks.map((item) => (
                 <li key={item.path}>
-                  <Link to={item.path} className="transition-colors hover:text-gold-200">
+                  <Link to={item.path} className="transition-colors hover:text-gold-300">
                     {item.label}
                   </Link>
                 </li>
@@ -85,7 +91,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-3 text-sm text-navy-200">
               {footerSuburbLinks.map((item) => (
                 <li key={item.path}>
-                  <Link to={item.path} className="transition-colors hover:text-gold-200">
+                  <Link to={item.path} className="transition-colors hover:text-gold-300">
                     {item.label}
                   </Link>
                 </li>

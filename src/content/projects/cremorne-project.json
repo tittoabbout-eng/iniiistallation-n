@@ -4,7 +4,7 @@
   "shortTitle": "Cremorne",
   "suburb": "Cremorne",
   "summary": "Custom wardrobes, walk-in robe, laundry and vanity joinery in Cremorne delivered with a slim shaker profile and warm timber contrast.",
-  "heroImage": "/cremorne/cremorne-hero.jpg",
+  "heroImage": "/cremorne/cremorne-hero.webp",
   "heroAlt": "Cremorne custom joinery wardrobes and laundry fitout",
   "overview": "This Cremorne fitout focused on the kinds of rooms that make day-to-day living smoother: wardrobes, a walk-in robe, the laundry and vanity storage. The joinery needed to feel tailored and calm, with enough detail to lift the rooms without making them feel busy.",
   "materials": [
@@ -15,29 +15,29 @@
   ],
   "afterImages": [
     {
-      "src": "/cremorne/cremorne-wardrobe-1.jpg",
+      "src": "/cremorne/cremorne-wardrobe-1.webp",
       "alt": "Cremorne wardrobe slim shaker finish",
       "caption": "Slim shaker wardrobe doors in a clean polyurethane finish with a more tailored, built-in feel."
     },
     {
-      "src": "/cremorne/cremorne-walkin.jpg",
+      "src": "/cremorne/cremorne-walkin.webp",
       "alt": "Cremorne walk-in wardrobe storage",
       "caption": "The walk-in robe used slim shaker detailing, Polytec Boston Oak and polyurethane shelving and drawers for a premium but practical result."
     },
     {
-      "src": "/cremorne/cremorne-laundry.jpg",
+      "src": "/cremorne/cremorne-laundry.webp",
       "alt": "Cremorne laundry cabinetry",
       "caption": "Laundry joinery combined top and bottom storage with an undermount stainless steel sink in a compact, hard-working layout."
     },
     {
-      "src": "/cremorne/cremorne-vanity.jpg",
+      "src": "/cremorne/cremorne-vanity.webp",
       "alt": "Cremorne vanity joinery",
       "caption": "The vanity joinery carried the same clean detailing into the bathroom, with full-height storage and concealed utility space."
     }
   ],
   "beforeImages": [
     {
-      "src": "/cremorne/cremorne-before-1.jpg",
+      "src": "/cremorne/cremorne-before-1.webp",
       "alt": "Cremorne before joinery installation",
       "caption": "Before installation showing the base structure of the space."
     }
@@ -46,28 +46,28 @@
     {
       "title": "Wardrobes",
       "text": "Custom wardrobes designed with better internal layouts, combining hanging, drawers and shelving for practical everyday use.",
-      "image": "/cremorne/cremorne-wardrobe-1.jpg",
+      "image": "/cremorne/cremorne-wardrobe-1.webp",
       "alt": "Cremorne wardrobe joinery",
       "servicePath": "/wardrobes"
     },
     {
       "title": "Walk-in wardrobe",
       "text": "The walk-in robe was planned to maximise storage while keeping the layout clean and easy to access.",
-      "image": "/cremorne/cremorne-walkin.jpg",
+      "image": "/cremorne/cremorne-walkin.webp",
       "alt": "Cremorne walk-in robe",
       "servicePath": "/wardrobes"
     },
     {
       "title": "Laundry",
       "text": "Laundry joinery focused on full-height cabinetry and a compact, efficient working layout.",
-      "image": "/cremorne/cremorne-laundry.jpg",
+      "image": "/cremorne/cremorne-laundry.webp",
       "alt": "Cremorne laundry joinery",
       "servicePath": "/laundry"
     },
     {
       "title": "Vanity",
       "text": "The vanity carried through the same slim shaker detailing and material palette for a consistent finish.",
-      "image": "/cremorne/cremorne-vanity.jpg",
+      "image": "/cremorne/cremorne-vanity.webp",
       "alt": "Cremorne vanity",
       "servicePath": "/renovations"
     }

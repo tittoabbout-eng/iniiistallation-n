@@ -64,7 +64,7 @@ export default function PageHero({
       </div>
       <div className="container-custom relative z-10 px-4 py-24 md:px-8 md:py-28 lg:py-32">
         <div className="max-w-3xl">
-          <p className="eyebrow text-gold-300">{eyebrow}</p>
+          <p className="eyebrow text-gold-400">{eyebrow}</p>
           <h1 className="mt-4 max-w-3xl text-4xl font-display font-bold leading-tight text-white md:text-5xl lg:text-6xl">
             {title}
           </h1>

@@ -301,7 +301,7 @@ export default function ProjectDetail({ project }: { project: ProjectItem }) {
                     </p>
                     <Link
                       to={space.servicePath}
-                      className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-gold-700 transition-colors hover:text-gold-600"
+                      className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-gold-600 transition-colors hover:text-gold-500"
                     >
                       Explore related service <ArrowRight size={16} />
                     </Link>

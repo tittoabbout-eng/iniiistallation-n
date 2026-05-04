@@ -1,3 +1,4 @@
+import { useScrollReveal } from '../hooks/useScrollReveal'
 import { Link } from 'react-router-dom'
 import { ArrowRight } from 'lucide-react'
 import CtaBanner from '../components/CtaBanner'
@@ -116,7 +117,7 @@ export default function AreaDetail({ area }: { area: AreaItem }) {
                 className="h-full w-full object-cover"
               />
               <div className="p-6 md:p-8">
-                <p className="eyebrow text-gold-700">Nearby completed project</p>
+                <p className="eyebrow text-gold-600">Nearby completed project</p>
                 <h2 className="mt-3 text-3xl font-display font-semibold text-navy-950">
                   {project.title}
                 </h2>
@@ -128,7 +129,7 @@ export default function AreaDetail({ area }: { area: AreaItem }) {
                 </p>
                 <Link
                   to={`/projects/${project.slug}`}
-                  className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-gold-700 transition-colors hover:text-gold-600"
+                  className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-gold-600 transition-colors hover:text-gold-500"
                 >
                   View project page <ArrowRight size={16} />
                 </Link>
@@ -169,7 +170,7 @@ export default function AreaDetail({ area }: { area: AreaItem }) {
                   </p>
                   <Link
                     to={`/${service.slug}`}
-                    className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-gold-700 transition-colors hover:text-gold-600"
+                    className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-gold-600 transition-colors hover:text-gold-500"
                   >
                     Explore service <ArrowRight size={16} />
                   </Link>
