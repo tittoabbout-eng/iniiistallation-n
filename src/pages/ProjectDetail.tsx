@@ -253,6 +253,23 @@ export default function ProjectDetail({ project }: { project: ProjectItem }) {
         </div>
       </section>
 
+      {project.laundryImages && project.laundryImages.length > 0 ? (
+        <section className="section-padding bg-white">
+          <div className="container-custom px-4 md:px-8">
+            <SectionHeading
+              eyebrow={projectContent.detailPage.laundryEyebrow}
+              title={projectContent.detailPage.laundryTitle}
+              intro={projectContent.detailPage.laundryIntro}
+            />
+            <GallerySection
+              images={project.laundryImages}
+              initialCount={3}
+              gridClassName="mt-12 grid gap-6 md:grid-cols-2"
+            />
+          </div>
+        </section>
+      ) : null}
+
       <section className="section-padding bg-white">
         <div className="container-custom px-4 md:px-8">
           <SectionHeading

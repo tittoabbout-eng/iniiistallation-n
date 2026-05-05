@@ -5,62 +5,94 @@
   "suburb": "Neutral Bay",
   "summary": "Custom kitchen, laundry and supporting built-in joinery completed as part of a broader Neutral Bay home renovation.",
   "heroImage": "/projects-old/undercliff-street-neutral-bay/1.webp",
-  "heroAlt": "Finished Neutral Bay kitchen with island, white shaker cabinetry and tall appliance wall",
-  "overview": "This Neutral Bay renovation shows the joinery moving from installation stage into a cleaner, more resolved finished outcome. The completed work includes a custom kitchen, supporting storage details and laundry cabinetry that help the home feel more integrated and functional.",
+  "heroAlt": "Finished Neutral Bay kitchen \u2014 U-shape shaker style in 2pac white polyurethane Dulux satin with 40mm Caesarstone benchtop",
+  "overview": "U-shape kitchen with island, supporting joinery and L-shape laundry across this Neutral Bay home renovation. Kitchen: 2pac white polyurethane in Dulux satin finish, shaker style, with 40mm Caesarstone benchtop and white subway splashback. Island includes hidden storage cabinets below the benchtop and a stool sitting area. Premium hardware integration including the Blum LeMans corner pull-out system.",
   "materials": [
-    "Custom kitchen and built-in cabinetry",
-    "Laundry joinery and storage",
-    "Lower North Shore home renovation joinery"
+    "U-shape kitchen \u2014 shaker style",
+    "2pac white polyurethane in Dulux satin finish (cabinetry + island)",
+    "40mm Caesarstone benchtop",
+    "Island with hidden storage cabinets below + stool sitting area",
+    "Blum LeMans corner pull-out (premium German hardware)",
+    "L-shape laundry \u2014 shaker style flat doors, Calacatta laminate benchtop, stacked washer/dryer, tall pantry with hidden water tank storage"
   ],
   "afterImages": [
     {
       "src": "/projects-old/undercliff-street-neutral-bay/1.webp",
-      "alt": "Finished Neutral Bay kitchen with island and tall white cabinetry",
-      "caption": "Finished Neutral Bay kitchen showing the island, tall cabinetry, integrated appliances and completed joinery layout."
+      "alt": "Finished Neutral Bay kitchen \u2014 U-shape, white shaker, Caesarstone benchtop",
+      "caption": "U-shape kitchen \u2014 2pac white polyurethane shaker doors, Dulux satin finish, 40mm Caesarstone benchtop, hardwood floor."
     },
     {
       "src": "/projects-old/undercliff-street-neutral-bay/2.webp",
-      "alt": "Finished Neutral Bay kitchen with drawers, splashback and wine fridge",
-      "caption": "Finished kitchen angle showing the benchtop run, drawer storage, splashback detail and integrated wine fridge."
+      "alt": "Island detail \u2014 hidden storage cabinets below the bench and stool sitting area",
+      "caption": "Island side \u2014 hidden storage cabinets below the benchtop and a stool sitting area, all in matching 2pac white polyurethane shaker."
     },
     {
       "src": "/projects-old/undercliff-street-neutral-bay/4.webp",
-      "alt": "Wide finished Neutral Bay kitchen view with island and appliance wall",
-      "caption": "Alternate wide kitchen view showing the island, appliance wall and the overall completed layout."
-    },
-    {
-      "src": "/projects-old/undercliff-street-neutral-bay/3.webp",
-      "alt": "Neutral Bay kitchen corner storage pullout detail",
-      "caption": "Corner storage detail from the finished Neutral Bay kitchen showing the internal hardware and custom joinery access."
+      "alt": "Neutral Bay kitchen \u2014 U-shape interior showing undermount sink on island, concealed dishwasher and wine fridge, skylights above",
+      "caption": "Kitchen interior \u2014 undermount sink on island, concealed dishwasher, wine fridge integrated into the run, skylights flooding natural light."
     },
     {
       "src": "/projects-old/undercliff-street-neutral-bay/5.webp",
-      "alt": "Finished Neutral Bay laundry with tall storage cabinetry",
-      "caption": "Finished laundry joinery showing the tall storage cabinet, bench run and completed cabinetry finish."
+      "alt": "Kitchen island with Caesarstone benchtop, stacked ovens and integrated fridge in background",
+      "caption": "Island and back wall \u2014 Caesarstone benchtop, stacked ovens built into the cabinetry, integrated fridge panel, hardwood floors."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/6.webp",
+      "alt": "U-shape kitchen side run \u2014 shaker drawers, induction cooktop, tile splashback, wine fridge",
+      "caption": "Side run \u2014 shaker drawer stack, induction cooktop, handmade tile splashback, wine fridge integrated into the base cabinetry."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/8.webp",
+      "alt": "Blum LeMans corner pull-out fully extended showing the kidney shelves swung clear",
+      "caption": "Blum LeMans corner pull-out \u2014 premium German hardware, kidney shelves swing fully clear of the cabinet for easy access."
+    }
+  ],
+  "laundryImages": [
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/10.webp",
+      "alt": "Neutral Bay L-shape laundry \u2014 stacked washer and dryer, Calacatta laminate benchtop, tall pantry storage",
+      "caption": "L-shape laundry \u2014 stacked washer/dryer, Calacatta laminate benchtop, full-height pantry with hidden water tank storage."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/11.webp",
+      "alt": "Laundry pantry side \u2014 hidden tall storage cabinet and water tank concealed behind flat doors, stacked washer dryer alongside",
+      "caption": "Pantry side \u2014 full-height hidden storage cabinet concealing the water tank, stacked washer/dryer, marble subway tile splashback."
     }
   ],
   "beforeImages": [
     {
-      "src": "/projects-old/undercliff-street-neutral-bay/1.webp",
-      "alt": "Neutral Bay kitchen during renovation — cabinetry carcasses being installed",
-      "caption": "Kitchen mid-renovation with carcasses in position before doors, benchtop and finishes were fitted."
+      "src": "/projects-old/undercliff-street-neutral-bay/9.webp",
+      "alt": "Neutral Bay kitchen and island before the renovation",
+      "caption": "Kitchen and island \u2014 before. Original layout prior to the U-shape rebuild and Caesarstone benchtops."
     },
     {
-      "src": "/projects-old/undercliff-street-neutral-bay/5.webp",
-      "alt": "Neutral Bay kitchen from opposite angle during installation",
-      "caption": "Opposite angle during installation showing the island and surrounding cabinetry taking shape before completion."
+      "src": "/projects-old/undercliff-street-neutral-bay/13.webp",
+      "alt": "Kitchen carcasses set up before doors and benchtop go on",
+      "caption": "Kitchen install \u2014 carcasses in position before doors, benchtop and splashback."
+    },
+    {
+      "src": "/projects-old/undercliff-street-neutral-bay/12.webp",
+      "alt": "Laundry carcasses set up before benchtop goes on",
+      "caption": "Laundry install \u2014 L-shape carcasses in position before benchtop and finishing."
     }
   ],
   "spaces": [
     {
-      "title": "Completed kitchen and joinery",
-      "text": "The finished joinery ties the kitchen, storage and supporting cabinetry together so the renovated home feels cleaner, more resolved and easier to use day to day.",
+      "title": "U-shape kitchen + island",
+      "text": "U-shape kitchen and island in 2pac white polyurethane Dulux satin shaker, 40mm Caesarstone benchtop, hidden storage below the island, stool sitting area, Blum LeMans corner storage, integrated appliances.",
       "image": "/projects-old/undercliff-street-neutral-bay/1.webp",
-      "alt": "Finished Neutral Bay kitchen with island and custom cabinetry",
-      "servicePath": "/renovations"
+      "alt": "Finished Neutral Bay kitchen \u2014 U-shape, shaker, Caesarstone benchtop",
+      "servicePath": "/kitchens"
+    },
+    {
+      "title": "L-shape laundry",
+      "text": "L-shape laundry joinery in flat white doors, Calacatta laminate benchtop, stacked washer/dryer column, full-height pantry with hidden water tank storage concealed behind flat panels.",
+      "image": "/projects-old/undercliff-street-neutral-bay/10.webp",
+      "alt": "Neutral Bay L-shape laundry \u2014 stacked washer dryer, Calacatta benchtop, full-height pantry",
+      "servicePath": "/laundry"
     }
   ],
-  "outcome": "The completed Neutral Bay joinery package brought the kitchen, storage and supporting cabinetry into a more resolved finished state across the home.",
+  "outcome": "Completed Neutral Bay package: U-shape kitchen with island and stool seating, supporting built-in joinery, and L-shape laundry \u2014 all in white polyurethane shaker and flat doors respectively, Caesarstone and Calacatta benchtops, premium Blum hardware integration.",
   "ctaText": "If you are planning a Neutral Bay renovation and need the joinery scope handled cleanly, send through your current plans or site photos.",
   "reviewIds": [
     "pascal"

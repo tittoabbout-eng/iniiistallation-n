@@ -44,6 +44,7 @@ export interface Project {
   overview: string
   materials: string[]
   afterImages: ProjectImage[]
+  laundryImages?: ProjectImage[]
   beforeImages: ProjectImage[]
   spaces: ProjectSpace[]
   outcome: string
